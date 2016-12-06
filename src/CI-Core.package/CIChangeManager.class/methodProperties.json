@@ -17,11 +17,8 @@
 	},
 	"class" : {
 		"pharo60" : "EstebanLorenzano 5/13/2016 17:14",
-		"pharo" : "EstebanLorenzano 4/17/2015 17:52",
 		"changeProvider:validator:" : "CamilloBruni 10/22/2013 22:15",
-		"pharo40" : "EstebanLorenzano 6/7/2014 17:23",
-		"pharo50" : "EstebanLorenzano 4/17/2015 17:52",
-		"forCurrentVersion" : "EstebanLorenzano 4/17/2015 17:52",
-		"pharo30" : "CamilloBruni 10/22/2013 22:05"
+		"pharo" : "EstebanLorenzano 4/17/2015 17:52",
+		"forCurrentVersion" : "EstebanLorenzano 4/17/2015 17:52"
 	}
 }

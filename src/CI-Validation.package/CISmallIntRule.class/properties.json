@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIDeltaValidationRule",
+	"category" : "CI-Validation-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rules"
+	],
+	"name" : "CISmallIntRule",
+	"type" : "normal"
+}

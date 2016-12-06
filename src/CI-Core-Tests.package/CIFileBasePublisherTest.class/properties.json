@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CIPublisherTest",
+	"category" : "CI-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "CIFileBasePublisherTest",
+	"type" : "normal"
+}

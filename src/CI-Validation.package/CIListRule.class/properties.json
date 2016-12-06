@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIComposedRule",
+	"category" : "CI-Validation-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIListRule",
+	"type" : "normal"
+}

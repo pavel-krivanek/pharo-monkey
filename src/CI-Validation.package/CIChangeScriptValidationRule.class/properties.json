@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIChangeValidationRule",
+	"category" : "CI-Validation-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIChangeScriptValidationRule",
+	"type" : "normal"
+}

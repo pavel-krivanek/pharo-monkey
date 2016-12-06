@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIDeltaValidationRuleTest",
+	"category" : "CI-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CISUnitTestsRuleTest",
+	"type" : "normal"
+}

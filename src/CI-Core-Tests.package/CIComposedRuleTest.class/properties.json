@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIAbstractWrapperRuleTest",
+	"category" : "CI-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIComposedRuleTest",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIAbstractBaseRule",
+	"category" : "CI-Validation-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIChangeValidationRule",
+	"type" : "normal"
+}

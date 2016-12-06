@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIDeltaValidationRule",
+	"category" : "CI-Validation-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"selectTestCaseBlock",
+		"testErrors",
+		"testFailures"
+	],
+	"name" : "CISUnitTestsRule",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CITestCase",
+	"category" : "CI-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIAbstractValidationRuleTest",
+	"type" : "normal"
+}

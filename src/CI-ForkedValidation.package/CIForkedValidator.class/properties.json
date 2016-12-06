@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIValidator",
+	"category" : "CI-ForkedValidation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIForkedValidator",
+	"type" : "normal"
+}

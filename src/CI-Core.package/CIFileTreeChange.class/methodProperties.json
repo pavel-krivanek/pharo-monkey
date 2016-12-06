@@ -1,13 +1,12 @@
 {
 	"instance" : {
-		"typeName" : "BenjaminVanRyseghem 3/5/2014 17:48",
 		"basicLoad" : "BenjaminVanRyseghem 3/5/2014 18:03",
-		"changeValidationRule" : "EstebanLorenzano 3/3/2015 18:03",
-		"isLoadable" : "BenjaminVanRyseghem 3/5/2014 17:50",
 		"publicUrl" : "BenjaminVanRyseghem 3/5/2014 18:05",
-		"id" : "BenjaminVanRyseghem 3/5/2014 17:41",
+		"isLoadable" : "BenjaminVanRyseghem 3/5/2014 17:50",
+		"repository:" : "BenjaminVanRyseghem 3/5/2014 17:40",
 		"name" : "BenjaminVanRyseghem 3/5/2014 18:05",
-		"repository:" : "BenjaminVanRyseghem 3/5/2014 17:40"
+		"id" : "BenjaminVanRyseghem 3/5/2014 17:41",
+		"typeName" : "BenjaminVanRyseghem 3/5/2014 17:48"
 	},
 	"class" : {
 		"repository:" : "BenjaminVanRyseghem 3/5/2014 17:40"

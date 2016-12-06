@@ -1,8 +1,6 @@
 {
 	"instance" : {
-		"asCIChange" : "CI Validation User 5/8/2013 13:38",
-		"valueInForkedImage" : "CamilloBruni 10/6/2013 22:24",
-		"asCIValidationRule" : "CamilloBruni 10/15/2013 21:06"
+		"asCIChange" : "CI Validation User 5/8/2013 13:38"
 	},
 	"class" : { }
 }

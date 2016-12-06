@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CI-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"warnings",
+		"messages",
+		"change",
+		"errors"
+	],
+	"name" : "CIValidationResult",
+	"type" : "normal"
+}

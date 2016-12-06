@@ -13,9 +13,6 @@
 		"isAuthenticated" : "CamilloBruni 4/9/2013 13:50"
 	},
 	"class" : {
-		"pharo60" : "EstebanLorenzano 5/13/2016 17:14",
-		"pharo50" : "EstebanLorenzano 4/17/2015 17:47",
-		"pharo40" : "EstebanLorenzano 6/7/2014 17:24",
-		"pharo30" : "CamilloBruni 4/29/2013 00:24"
+		"pharo60" : "EstebanLorenzano 5/13/2016 17:14"
 	}
 }

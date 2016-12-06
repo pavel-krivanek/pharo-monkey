@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIPublisherTest",
+	"category" : "CI-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CICommandLinePublisherTest",
+	"type" : "normal"
+}

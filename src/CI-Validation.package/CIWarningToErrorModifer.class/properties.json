@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIRuleModifer",
+	"category" : "CI-Validation-Rules",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIWarningToErrorModifer",
+	"type" : "normal"
+}
