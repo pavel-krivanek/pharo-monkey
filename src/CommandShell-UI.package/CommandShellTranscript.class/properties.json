@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "dtl 1/20/2007 09:11",
+	"super" : "WriteStream",
+	"category" : "CommandShell-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cliShell",
+		"lastPromptString",
+		"activeController",
+		"labelStringBlock"
+	],
+	"name" : "CommandShellTranscript",
+	"type" : "normal"
+}

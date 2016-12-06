@@ -1,0 +1,9 @@
+{
+	"instance" : { },
+	"class" : {
+		"hasClassNamed:" : "monty 7/6/2016 02:30",
+		"classNamed:ifAbsent:" : "monty 9/3/2016 23:41",
+		"classNamed:" : "monty 7/6/2016 02:26",
+		"classNamed:ifPresent:" : "monty 10/20/2016 02:23"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"errorIDAttributeMustBeRequiredOrImplied" : "monty 4/9/2016 04:15",
+		"isID" : "monty 11/15/2016 13:00",
+		"validateAttributeDeclaration" : "monty 11/12/2016 10:54",
+		"elementIDValidator:" : "monty 11/14/2016 15:05",
+		"initializeWithValidatorsFrom:" : "monty 11/14/2016 15:05",
+		"elementIDValidator" : "monty 11/14/2016 15:05",
+		"validateAttributeDefaultValue:" : "monty 4/9/2016 02:36",
+		"validateAttributeValue:" : "monty 1/1/2015 21:32"
+	},
+	"class" : {
+		"standaloneExternalClass" : "monty 11/1/2016 08:56"
+	}
+}

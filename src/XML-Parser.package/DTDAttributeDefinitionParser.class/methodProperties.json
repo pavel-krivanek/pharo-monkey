@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"setElement:attribute:type:defaultValidator:" : "monty 2/19/2016 14:49",
+		"attributeValidatorClassForType" : "monty 11/3/2016 12:54",
+		"parse" : "monty 11/1/2016 11:12"
+	},
+	"class" : {
+		"element:attribute:type:defaultPragma:defaultValue:" : "monty 11/18/2016 16:00",
+		"attributeDefaultValidatorClassForPragma:" : "monty 11/24/2016 23:20"
+	}
+}

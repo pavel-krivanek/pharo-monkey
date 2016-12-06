@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testCopy" : "monty 9/22/2016 15:20",
+		"testPreservesIgnorableWhitespace" : "monty 9/21/2016 10:06",
+		"testPreservesCDataNodes" : "monty 9/21/2016 10:07",
+		"testPreservesCommentNodes" : "monty 9/21/2016 10:07",
+		"nodeFactoryClass" : "monty 9/21/2016 10:08",
+		"configurationClass" : "monty 9/21/2016 10:06",
+		"testNodeFactory" : "monty 9/21/2016 10:08",
+		"parserHandlerClass" : "monty 9/21/2016 09:40"
+	},
+	"class" : { }
+}

@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"hasReplacement" : "monty 4/5/2015 07:55",
+		"isExternal" : "monty 11/16/2013 02:56",
+		"replacementStream" : "monty 4/8/2016 01:23",
+		"name" : "monty 11/13/2013 23:45",
+		"uri:" : "monty 4/8/2016 02:55",
+		"isUnparsed" : "monty 7/12/2016 23:53",
+		"name:" : "monty 4/8/2016 02:54",
+		"uri" : "monty 11/16/2013 02:55",
+		"printReferenceOn:" : "monty 4/8/2016 01:25",
+		"replacement" : "monty 11/13/2013 19:15",
+		"asPushedBackEntity" : "monty 10/25/2016 06:36",
+		"isStandaloneExternal" : "monty 11/1/2016 22:56",
+		"setName:replacement:uri:" : "monty 5/23/2015 03:04",
+		"isParameter" : "monty 4/3/2016 04:05",
+		"referencePrefix" : "monty 4/8/2016 01:21",
+		"printNameOn:" : "monty 4/8/2016 06:23",
+		"printOn:" : "monty 4/8/2016 06:23",
+		"asReference" : "monty 4/24/2015 14:25",
+		"replacement:" : "monty 4/9/2016 04:06"
+	},
+	"class" : {
+		"name:replacement:uri:" : "monty 5/23/2015 03:04",
+		"named:" : "monty 5/23/2015 03:05",
+		"name:replacement:" : "monty 3/20/2016 23:12"
+	}
+}

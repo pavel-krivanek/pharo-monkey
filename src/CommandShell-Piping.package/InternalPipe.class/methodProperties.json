@@ -1,0 +1,41 @@
+{
+	"instance" : {
+		"writerClosed" : "dtl 11/8/2007 20:34",
+		"close" : "dtl 1/1/2002 11:38",
+		"closeWriter" : "dtl 4/20/2003 20:46",
+		"isPipe" : "dtl 3/26/2006 15:48",
+		"initialize" : "dtl 9/16/2001 22:35",
+		"nextPutAll:" : "dtl 11/8/2007 20:33",
+		"cr" : "dtl 9/23/2001 16:49",
+		"contents" : "dtl 11/8/2007 20:33",
+		"atEndOfFile" : "dtl 6/4/2006 16:09",
+		"setBlocking" : "dtl 11/25/2001 14:33",
+		"writerClosed:" : "dtl 11/8/2007 20:34",
+		"next:" : "dtl 2/24/2013 10:24",
+		"next" : "dtl 3/26/2006 11:23",
+		"addDummyNilAsEndOfFileIndicatorForBlockingPipe" : "dtl 4/20/2003 20:34",
+		"isBlocking" : "dtl 8/7/2002 14:20",
+		"size" : "dtl 11/25/2001 19:15",
+		"upToEnd" : "dtl 2/24/2013 10:24",
+		"nonBlockingMode:" : "dtl 11/8/2007 20:33",
+		"upToEndOfFile" : "dtl 5/20/2006 18:45",
+		"atEnd" : "dtl 12/26/2002 19:09",
+		"basicNext" : "dtl 1/25/2003 18:58",
+		"setBufferedReader" : "dtl 1/7/2003 20:31",
+		"notifyDataReady" : "dtl 1/7/2003 20:23",
+		"peek" : "dtl 9/16/2001 22:42",
+		"nextPut:" : "dtl 11/8/2007 20:33",
+		"nonBlockingMode" : "dtl 11/8/2007 20:33",
+		"setNonBlocking" : "dtl 11/24/2001 15:56",
+		"closed" : "dtl 11/24/2001 15:03",
+		"queue" : "dtl 11/8/2007 20:34",
+		"basicNextPut:" : "dtl 1/7/2003 20:23",
+		"closeReader" : "dtl 1/4/2003 15:12"
+	},
+	"class" : {
+		"new" : "dtl 12/2/2001 19:25",
+		"blockingPipe" : "dtl 12/2/2001 19:24",
+		"testPipe" : "dtl 11/8/2007 20:33",
+		"nonBlockingPipe" : "dtl 12/2/2001 19:24"
+	}
+}

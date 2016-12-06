@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"popFragment" : "monty 11/17/2013 08:01",
+		"pushFragment:" : "monty 11/17/2013 08:01",
+		"pushMatcher:" : "monty 12/27/2013 21:41",
+		"applyStar" : "monty 12/27/2013 23:55",
+		"hasFragments" : "monty 6/17/2015 23:18",
+		"applyBranch" : "monty 12/28/2013 01:26",
+		"initialize" : "monty 6/17/2015 23:17",
+		"applyOptional" : "monty 4/25/2015 09:11",
+		"topFragment" : "monty 11/17/2013 12:01",
+		"applyPlus" : "monty 12/28/2013 01:19",
+		"totalFragments" : "monty 11/17/2013 15:04",
+		"applyConcatenation" : "monty 10/24/2014 12:44",
+		"buildAcceptingNFAFromFragments" : "monty 11/10/2015 17:11",
+		"fragmentStack" : "monty 6/17/2015 23:17"
+	},
+	"class" : { }
+}

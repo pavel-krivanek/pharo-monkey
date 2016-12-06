@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"nextPut:toStream:" : "monty 3/9/2016 09:02",
+		"nextFromStream:" : "monty 3/9/2016 09:02"
+	},
+	"class" : {
+		"basicEncodingNames" : "monty 3/4/2016 16:20"
+	}
+}

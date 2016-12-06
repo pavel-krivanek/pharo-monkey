@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"xmlnsDeclarations:" : "monty 11/20/2014 19:48",
+		"xmlnsAt:put:" : "monty 10/6/2014 19:47",
+		"attributes" : "monty 11/20/2014 19:48",
+		"includesXMLNS:" : "monty 9/18/2015 21:28",
+		"isTagWriter" : "monty 10/12/2014 21:12",
+		"name" : "monty 9/18/2015 21:07",
+		"xmlns" : "monty 10/6/2014 20:59",
+		"setXMLNSDeclarations:" : "monty 3/24/2015 19:26",
+		"hasXMLNSDeclarations" : "monty 9/18/2015 21:48",
+		"attributeAt:ifAbsent:" : "JAAyer 7/26/2010 12:38",
+		"xmlnsAt:" : "monty 10/6/2014 19:47",
+		"includesAttribute:" : "monty 10/6/2014 23:30",
+		"attributeAt:ifAbsentPut:" : "JAAyer 7/26/2010 12:38",
+		"name:" : "JAAyer 6/20/2010 16:43",
+		"attributeAt:put:" : "JAAyer 7/26/2010 12:38",
+		"writeEpilogue" : "monty 9/18/2015 22:28",
+		"xmlnsAt:ifAbsent:" : "monty 10/6/2014 19:47",
+		"attributes:" : "monty 11/20/2014 19:48",
+		"writeEmbeddedMarkupPrologue" : "monty 12/1/2014 23:36",
+		"hasAttributes" : "monty 9/19/2015 02:13",
+		"writePrologue" : "monty 11/30/2016 19:56",
+		"setAttributes:" : "monty 3/24/2015 19:26",
+		"xmlnsAt:ifAbsentPut:" : "monty 9/5/2015 08:42",
+		"xmlnsDeclarations" : "monty 3/21/2015 22:55",
+		"attributeAt:" : "JAAyer 8/9/2010 14:54",
+		"xmlns:" : "monty 3/21/2015 22:47"
+	},
+	"class" : { }
+}

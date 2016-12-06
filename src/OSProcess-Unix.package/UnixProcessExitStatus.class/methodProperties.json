@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"statusIfExited" : "dtl 8/22/2012 23:11",
+		"isSignaled" : "dtl 8/22/2012 23:11",
+		"isSuccess" : "dtl 8/22/2012 23:31",
+		"isExited" : "dtl 8/22/2012 22:32",
+		"value" : "dtl 8/22/2012 23:11",
+		"printOn:" : "dtl 8/22/2012 23:18",
+		"for:" : "dtl 8/22/2012 23:10",
+		"isStopped" : "dtl 8/22/2012 23:11",
+		"exitStatus" : "dtl 8/22/2012 23:10",
+		"statusIfStopped" : "dtl 8/22/2012 22:28",
+		"statusIfSignaled" : "dtl 8/22/2012 23:11"
+	},
+	"class" : {
+		"for:" : "dtl 8/22/2012 21:24"
+	}
+}

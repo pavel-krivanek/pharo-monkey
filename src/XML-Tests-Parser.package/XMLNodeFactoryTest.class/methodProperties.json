@@ -1,0 +1,41 @@
+{
+	"instance" : {
+		"testCDataClass" : "monty 8/4/2016 20:21",
+		"testNewPITargetData" : "monty 8/9/2016 17:17",
+		"testElementDeclarationClass" : "monty 8/6/2016 23:06",
+		"testAsPluggableNodeFactory" : "monty 8/26/2016 21:17",
+		"attributes" : "monty 8/12/2016 18:07",
+		"attributeAssociations" : "monty 8/12/2016 18:07",
+		"testDoctypeDeclarationClass" : "monty 8/6/2016 23:07",
+		"testNewElementNamed" : "monty 8/4/2016 20:33",
+		"testAttributeListClass" : "monty 9/2/2016 13:59",
+		"pluggableFactoryClass" : "monty 8/26/2016 21:16",
+		"testClassForElementNamespaceURI" : "monty 8/4/2016 20:22",
+		"testDocumentClass" : "monty 8/4/2016 20:23",
+		"testAttributeDeclarationClass" : "monty 8/6/2016 23:19",
+		"testNewComment" : "monty 8/4/2016 20:29",
+		"factoryClass" : "monty 8/4/2016 20:32",
+		"testNewElement" : "monty 8/5/2016 13:39",
+		"testNewElementNamedAttributes" : "monty 8/12/2016 18:07",
+		"testNewPI" : "monty 8/4/2016 20:27",
+		"testNodeListClass" : "monty 8/4/2016 20:21",
+		"testNewDocument" : "monty 8/4/2016 20:28",
+		"testStringNodeClass" : "monty 8/5/2016 16:49",
+		"testNewElementNamedNamespaceURI" : "monty 8/4/2016 20:30",
+		"testNewCData" : "monty 8/4/2016 20:26",
+		"sampleUserXML" : "monty 8/1/2016 15:01",
+		"testClassForElement" : "monty 8/4/2016 20:17",
+		"testParameterEntityDeclarationClass" : "monty 8/6/2016 23:09",
+		"testCommentClass" : "monty 8/4/2016 20:16",
+		"testNotationDeclarationClass" : "monty 8/6/2016 23:06",
+		"testElementClass" : "monty 8/4/2016 20:24",
+		"testNewElementNamedNamespaceURIAttributes" : "monty 8/12/2016 18:08",
+		"testNewStringNode" : "monty 8/5/2016 16:37",
+		"testGeneralEntityDeclarationClass" : "monty 8/6/2016 23:09",
+		"testPIClass" : "monty 8/4/2016 20:20",
+		"newFactory" : "monty 8/4/2016 20:14"
+	},
+	"class" : {
+		"shouldInheritSelectors" : "monty 6/24/2016 04:25"
+	}
+}

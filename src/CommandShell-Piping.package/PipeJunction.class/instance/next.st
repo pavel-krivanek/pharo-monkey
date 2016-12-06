@@ -1,0 +1,4 @@
+streaming
+next
+
+	^ pipeFromOutput next

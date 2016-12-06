@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"nodeClass" : "monty 11/2/2014 11:17",
+		"testCanonicallyEquals" : "monty 9/5/2016 20:59",
+		"testSortKey" : "monty 12/3/2014 01:09",
+		"testWriteXMLOn" : "monty 8/27/2016 17:20",
+		"testAcceptNodeVisitor" : "monty 8/27/2016 17:20",
+		"testIsComment" : "monty 8/27/2016 17:20",
+		"testString" : "monty 9/5/2016 21:26"
+	},
+	"class" : { }
+}

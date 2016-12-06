@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Error",
+	"category" : "CI-FogBugzAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"response"
+	],
+	"name" : "FogBugzIdentificationError",
+	"type" : "normal"
+}

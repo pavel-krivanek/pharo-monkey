@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIIssueTrackerPublisher",
+	"category" : "CI-Core-Publishing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"htmlPublisher"
+	],
+	"name" : "CIIssueTrackerJenkinsURLPublisher",
+	"type" : "normal"
+}

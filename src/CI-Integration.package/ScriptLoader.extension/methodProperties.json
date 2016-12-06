@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"compileNewUpdateMethodSilently" : "Integrator 6/21/2012 18:02",
+		"newGenerateNewUpdateMethodSilently" : "EstebanLorenzano 9/15/2014 15:13",
+		"generateScriptAndUpdateMethodForNewVersionSilently" : "Integrator 6/21/2012 18:02",
+		"generateNewUpdateMethodSilently" : "EstebanLorenzano 9/15/2014 15:13",
+		"publishChangesSilently" : "EstebanLorenzano 9/17/2014 11:58",
+		"doneApplyingChangesSilently" : "EstebanLorenzano 9/15/2014 15:13"
+	},
+	"class" : { }
+}

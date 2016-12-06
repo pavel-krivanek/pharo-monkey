@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "dtl 12/30/2001 17:05",
+	"super" : "TestCase",
+	"category" : "CommandShell-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pipe"
+	],
+	"name" : "InternalPipeTestCase",
+	"type" : "normal"
+}

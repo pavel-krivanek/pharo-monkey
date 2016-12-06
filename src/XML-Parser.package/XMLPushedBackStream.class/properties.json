@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "monty 11/15/2016 16:50",
+	"super" : "Object",
+	"category" : "XML-Parser-Streams",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream",
+		"whenPoppedDo",
+		"currentPosition",
+		"currentLineNumber",
+		"currentLineStartPosition"
+	],
+	"name" : "XMLPushedBackStream",
+	"type" : "normal"
+}

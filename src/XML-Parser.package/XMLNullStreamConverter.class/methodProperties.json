@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"isNull" : "monty 3/5/2016 06:37",
+		"nextPut:toStream:" : "monty 2/14/2016 02:29",
+		"nextFromStream:" : "monty 2/14/2016 02:28"
+	},
+	"class" : { }
+}

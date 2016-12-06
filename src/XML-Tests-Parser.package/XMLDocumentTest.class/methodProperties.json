@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"testDoctypeDeclaration" : "monty 9/5/2016 22:04",
+		"newNodeWithElements" : "monty 11/14/2015 05:20",
+		"testValidateNoSubset" : "monty 4/7/2015 00:10",
+		"testDoctypeDefinition" : "monty 8/27/2016 17:29",
+		"testVersion" : "monty 8/27/2016 17:31",
+		"testHasDoctypeDeclaration" : "monty 8/27/2016 17:28",
+		"testEncoding" : "monty 9/5/2016 21:26",
+		"nodeClass" : "monty 11/2/2014 11:08",
+		"testDocument" : "monty 8/27/2016 17:20",
+		"testHasRoot" : "monty 8/27/2016 17:30",
+		"testHasDoctypeDefinition" : "monty 8/27/2016 17:29",
+		"testIsStandalone" : "monty 8/27/2016 17:30",
+		"testAcceptNodeVisitor" : "monty 8/27/2016 17:20",
+		"testIsDocument" : "monty 8/27/2016 17:20",
+		"testRoot" : "monty 9/6/2016 01:52",
+		"testHasEncoding" : "monty 8/27/2016 17:29",
+		"testValidate" : "monty 7/27/2016 07:19"
+	},
+	"class" : {
+		"isAbstract" : "monty 11/2/2014 11:08"
+	}
+}

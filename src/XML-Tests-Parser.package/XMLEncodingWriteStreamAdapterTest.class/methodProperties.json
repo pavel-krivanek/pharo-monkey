@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testNextPutByteOrderMark" : "monty 3/5/2016 12:39",
+		"testHasDefaultStreamConverter" : "monty 3/5/2016 16:09",
+		"testStreamConverter" : "monty 3/5/2016 12:39",
+		"streamAdapterClass" : "monty 3/5/2016 12:38",
+		"testHasNullStreamConverter" : "monty 9/18/2016 12:05",
+		"streamConverterClass" : "monty 3/5/2016 12:26",
+		"newStreamAdapterOn:" : "monty 3/5/2016 12:39",
+		"testIsXMLConvertingStreamAdapter" : "monty 4/1/2016 00:55"
+	},
+	"class" : { }
+}

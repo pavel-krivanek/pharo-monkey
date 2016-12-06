@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CommandShell-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ExternalShell"
+	],
+	"instvars" : [
+		"cliShell",
+		"isRunning",
+		"inputStream",
+		"lineBuffer",
+		"sigIntSema",
+		"sigIntHandler"
+	],
+	"name" : "ExternalCommandShell",
+	"type" : "normal"
+}

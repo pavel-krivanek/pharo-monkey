@@ -1,0 +1,32 @@
+{
+	"instance" : {
+		"testIsEmpty" : "monty 11/8/2016 10:38",
+		"testIsContentNode" : "monty 8/27/2016 17:20",
+		"testReplaceAllWith" : "monty 9/5/2016 21:15",
+		"testIsWhitespace" : "monty 8/27/2016 17:20",
+		"testIncludesSubstring" : "monty 8/27/2016 17:20",
+		"testAsXMLEscapedString" : "monty 7/28/2016 09:41",
+		"testEndsWith" : "monty 7/28/2016 09:48",
+		"testMergeAdjacent" : "monty 9/1/2016 21:18",
+		"testAppend" : "monty 8/27/2016 17:20",
+		"testCanonicallyEquals" : "monty 9/5/2016 21:00",
+		"testPrepend" : "monty 8/27/2016 17:20",
+		"testDeleteFromTo" : "monty 9/5/2016 21:15",
+		"testWriteXMLOn" : "monty 9/5/2016 21:37",
+		"testNotEmpty" : "monty 11/8/2016 10:39",
+		"testString" : "monty 9/5/2016 21:16",
+		"testAsXMLStringNode" : "monty 8/27/2016 17:20",
+		"testAsString" : "monty 9/5/2016 21:15",
+		"testSortKey" : "monty 12/2/2014 22:59",
+		"testIsStringNode" : "monty 11/8/2016 10:37",
+		"testBeginsWith" : "monty 7/28/2016 09:46",
+		"testAcceptNodeVisitor" : "monty 8/27/2016 17:20",
+		"testIndexOfSubstring" : "monty 8/27/2016 17:20",
+		"testReplaceFromToWith" : "monty 8/27/2016 17:20",
+		"nodeClass" : "monty 11/2/2014 11:18",
+		"testIsString" : "monty 11/8/2016 10:39",
+		"testSize" : "monty 8/27/2016 17:20",
+		"testSplitAt" : "monty 9/5/2016 21:16"
+	},
+	"class" : { }
+}

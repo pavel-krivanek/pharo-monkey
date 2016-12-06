@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"skipOrReturnWith:" : "monty 9/10/2016 03:22",
+		"isSkipping" : "monty 9/10/2016 05:16",
+		"skipOrReturnWith:ifSkippable:" : "monty 9/10/2016 05:17",
+		"skippableTests" : "monty 9/10/2016 02:58"
+	},
+	"class" : {
+		"stopSkipping" : "monty 9/22/2016 15:11",
+		"stopSkippingAll" : "monty 9/22/2016 15:10",
+		"isAbstract" : "monty 9/10/2016 02:54",
+		"isSkipping:" : "monty 9/10/2016 02:56",
+		"isSkipping" : "monty 9/10/2016 02:56",
+		"startSkipping" : "monty 9/22/2016 15:11",
+		"skippableTests" : "monty 9/10/2016 03:02",
+		"startSkippingAll" : "monty 9/22/2016 15:10"
+	}
+}

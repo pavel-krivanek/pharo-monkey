@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"classForElement:namespaceURI:attributes:ifNone:" : "monty 8/12/2016 18:45",
+		"mapElement:attributeSpec:toClass:" : "monty 8/15/2016 04:25",
+		"classForElement:ifNone:" : "monty 8/12/2016 19:10",
+		"elementClassMap" : "monty 7/26/2016 07:21",
+		"postCopy" : "monty 8/14/2016 17:25",
+		"classForElement:attributes:ifNone:" : "monty 8/12/2016 18:47",
+		"initialize" : "monty 7/26/2016 07:21",
+		"mapElement:namespaceURI:toClass:" : "monty 8/15/2016 04:25",
+		"classForElement:namespaceURI:ifNone:" : "monty 8/12/2016 19:10",
+		"classForElement:namespaceURI:localName:attributes:ifNone:" : "monty 8/12/2016 18:47",
+		"mapElement:toClass:" : "monty 8/15/2016 04:26",
+		"mapElement:namespaceURI:attributeSpec:toClass:" : "monty 8/15/2016 04:25",
+		"elementClassMapAt:attributes:" : "monty 8/16/2016 22:03"
+	},
+	"class" : { }
+}

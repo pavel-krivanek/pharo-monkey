@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"isStream" : "monty 11/22/2016 23:31",
+		"next" : "monty 11/22/2016 23:32",
+		"close" : "monty 11/22/2016 23:32",
+		"upToEnd" : "monty 11/22/2016 23:32",
+		"peek" : "monty 11/22/2016 23:32",
+		"atEnd" : "monty 11/22/2016 23:42",
+		"position:" : "monty 11/22/2016 23:32",
+		"isBinary" : "monty 11/22/2016 23:32",
+		"reset" : "monty 11/22/2016 23:32",
+		"position" : "monty 11/22/2016 23:32",
+		"contents" : "monty 11/22/2016 23:32",
+		"basicNext" : "monty 11/23/2016 16:00"
+	},
+	"class" : { }
+}

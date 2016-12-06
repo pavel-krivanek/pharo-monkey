@@ -1,0 +1,39 @@
+{
+	"instance" : {
+		"readBuffer" : "dtl 2/24/2013 10:22",
+		"readBuffer:" : "dtl 7/6/2003 10:15",
+		"actAsExecutor" : "dtl 6/17/2006 08:10",
+		"atEndOfFile" : "dtl 2/22/2007 08:01",
+		"moveAvailableDataToBuffer" : "dtl 7/6/2003 20:30",
+		"setBlocking" : "dtl 7/9/2003 20:54",
+		"next" : "dtl 9/3/2010 17:01",
+		"appendToBuffer:" : "dtl 10/1/2006 17:12",
+		"waitForDataReady:" : "dtl 2/22/2007 08:09",
+		"isBlocking" : "dtl 7/9/2003 20:59",
+		"asBufferedAsyncFileReadStream" : "dtl 7/8/2003 20:55",
+		"readInto:startingAt:count:" : "dtl 3/21/2007 21:56",
+		"readSyncSemaphore" : "dtl 7/6/2003 10:15",
+		"nonBlockingMode:" : "dtl 7/9/2003 20:58",
+		"readBufferMemoryWarningThreshold" : "dtl 12/7/2012 19:54",
+		"moveAvailableDataFrom:" : "dtl 12/7/2012 20:02",
+		"next:into:startingAt:" : "dtl 7/6/2003 10:15",
+		"atEnd" : "dtl 2/22/2007 08:00",
+		"readAheadChunkSize" : "dtl 7/6/2003 10:15",
+		"basicNext" : "dtl 2/22/2007 08:02",
+		"upTo:" : "dtl 3/19/2007 18:28",
+		"upToEndOfFile" : "dtl 12/21/2007 13:14",
+		"dataAvailableSemaphore" : "dtl 7/6/2003 10:15",
+		"peek" : "dtl 9/3/2010 17:01",
+		"nonBlockingMode" : "dtl 7/9/2003 20:57",
+		"setNonBlocking" : "dtl 7/9/2003 20:55",
+		"update:" : "dtl 7/8/2003 22:06",
+		"waitForBufferAvailable" : "dtl 7/6/2003 10:15",
+		"waitForDataReady" : "dtl 7/6/2003 10:15",
+		"maxReadBufferSize" : "dtl 7/6/2003 10:15",
+		"appendAllToBuffer:" : "dtl 10/1/2006 17:12",
+		"asAsyncFileReadStream" : "dtl 7/8/2003 20:54"
+	},
+	"class" : {
+		"stdIn" : "dtl 7/9/2003 20:24"
+	}
+}

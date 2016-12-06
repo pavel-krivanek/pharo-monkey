@@ -1,0 +1,1 @@
+Unit tests for ShellSyntax. Conditional tests are needed for Windows and other platforms, so not all tests are effective on all platforms. Unix is the development platform, and many of the tests are specific to a Unix file system environment.

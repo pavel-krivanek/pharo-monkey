@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"terminalState:" : "monty 10/24/2014 12:35",
+		"firstState" : "monty 11/17/2013 10:48",
+		"terminalStates:" : "monty 12/27/2013 23:50",
+		"firstState:" : "monty 11/17/2013 11:51",
+		"connectToFragment:" : "monty 10/24/2014 12:45",
+		"terminalStateCollectionWith:and:" : "monty 10/24/2014 12:52",
+		"combinedTerminalStatesFrom:" : "monty 10/24/2014 13:21",
+		"terminalStates" : "monty 10/24/2014 12:40",
+		"terminalStatesAddedTo:" : "monty 10/24/2014 13:21",
+		"combinedTerminalStatesWith:" : "monty 10/24/2014 13:07",
+		"connectToState:" : "monty 10/24/2014 13:06"
+	},
+	"class" : {
+		"firstState:terminalState:" : "monty 12/27/2013 23:50",
+		"firstState:terminalStates:" : "monty 12/27/2013 23:50"
+	}
+}

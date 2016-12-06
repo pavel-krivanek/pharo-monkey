@@ -1,0 +1,42 @@
+{
+	"instance" : {
+		"recordSystemGlobals" : "CamilloBruni 10/29/2013 16:31",
+		"handleForkedImageResultWithExitStatus:" : "CamilloBruni 10/29/2013 15:57",
+		"isForkedImage" : "CamilloBruni 9/4/2013 21:49",
+		"initialize" : "MartinDias 3/10/2016 16:51",
+		"serialize:" : "CamilloBruni 11/21/2013 12:33",
+		"newlyAddedGlobals" : "CamilloBruni 10/29/2013 16:31",
+		"runSafely:" : "CamilloBruni 10/27/2013 23:45",
+		"timeout" : "CamilloBruni 9/4/2013 21:27",
+		"name" : "CamilloBruni 10/12/2013 15:57",
+		"remoteErrorRootContext" : "CamilloBruni 9/5/2013 21:24",
+		"forkImage" : "CamilloBruni 10/28/2013 00:46",
+		"updateSession" : "CamilloBruni 9/4/2013 21:31",
+		"timeoutBlock" : "CamilloBruni 10/30/2013 14:31",
+		"inform:" : "CamilloBruni 10/12/2013 16:39",
+		"readForkedImageResult" : "CamilloBruni 10/27/2013 23:46",
+		"forkedImageCommand" : "CamilloBruni 9/6/2013 00:48",
+		"forkedImageFile" : "CamilloBruni 9/5/2013 20:52",
+		"terminateActiveProcess" : "CamilloBruni 10/27/2013 23:45",
+		"cleanUp" : "CamilloBruni 10/15/2013 15:30",
+		"evaluateBlock" : "CamilloBruni 10/29/2013 16:30",
+		"block" : "CamilloBruni 9/4/2013 21:29",
+		"newlyAddedBehaviors" : "MaxLeske 6/18/2016 11:55",
+		"resignalRemoteError:" : "CamilloBruni 9/5/2013 21:23",
+		"runForkedImage" : "EstebanLorenzano 3/9/2016 17:35",
+		"resultFile" : "CamilloBruni 10/12/2013 15:59",
+		"baseFile" : "CamilloBruni 10/12/2013 15:57",
+		"forkedChangesFile" : "CamilloBruni 9/5/2013 20:52",
+		"serializeResult:isError:" : "Mariano 12/16/2015 13:11",
+		"timeoutBlock:" : "MartinDias 3/10/2016 16:53",
+		"timeout:" : "CamilloBruni 9/4/2013 21:27",
+		"waitForForkedImage" : "VincentBlondeau 3/17/2016 20:31",
+		"value" : "CamilloBruni 10/27/2013 23:45",
+		"block:" : "CamilloBruni 9/4/2013 21:29"
+	},
+	"class" : {
+		"do:" : "CamilloBruni 9/4/2013 21:29",
+		"do:within:" : "CamilloBruni 10/30/2013 14:32",
+		"do:within:onTimeout:" : "MartinDias 3/10/2016 16:53"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"next" : "monty 1/3/2016 21:13",
+		"errorUnsupportedBase:" : "monty 9/23/2016 23:06",
+		"peek" : "monty 1/3/2016 21:16",
+		"on:" : "monty 1/6/2016 07:49",
+		"nextInteger" : "monty 10/27/2014 08:37",
+		"atEnd" : "monty 12/2/2015 20:03",
+		"printStream:" : "monty 12/2/2015 20:04",
+		"nextDigitWithBase:" : "monty 3/16/2016 21:21",
+		"nextIntegerWithBase:upTo:" : "monty 9/23/2016 23:06",
+		"nextIntegerWithBase:" : "monty 10/27/2014 08:35",
+		"nextIntegerWithBase:startingWithAny:orBase:" : "monty 10/27/2014 08:44"
+	},
+	"class" : {
+		"readFrom:" : "monty 10/27/2014 08:36",
+		"readFrom:withBase:" : "monty 10/27/2014 08:37",
+		"on:" : "monty 1/6/2016 07:49",
+		"initializeCharacterDigitValues" : "monty 9/23/2016 16:03",
+		"readFrom:withBase:upTo:" : "monty 1/21/2014 17:42",
+		"initializeMaxIntegerValue" : "monty 1/7/2016 05:48",
+		"initialize" : "monty 1/7/2016 05:47",
+		"maxBase" : "monty 10/24/2014 20:28",
+		"maxIntegerValue" : "monty 1/7/2016 05:48",
+		"readFrom:withBase:startingWithAny:orBase:" : "monty 10/27/2014 08:43"
+	}
+}

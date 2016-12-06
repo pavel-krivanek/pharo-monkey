@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"do:" : "monty 12/28/2013 18:47",
+		"remove:ifAbsent:" : "monty 3/29/2016 08:28",
+		"add:" : "monty 12/28/2013 18:52",
+		"," : "monty 9/28/2016 22:38",
+		"=" : "monty 3/29/2016 06:53",
+		"postCopy" : "monty 3/29/2016 08:09",
+		"includes:" : "monty 12/28/2013 18:48",
+		"capacity" : "monty 3/29/2016 08:17",
+		"size" : "monty 12/28/2013 19:01",
+		"removeAll" : "monty 4/2/2016 01:52",
+		"isAccepting" : "monty 12/28/2013 18:53",
+		"hash" : "monty 3/29/2016 07:00",
+		"initialize:" : "monty 12/11/2014 05:39",
+		"set" : "monty 12/28/2013 18:50",
+		"asDFAStateWithStateCache:" : "monty 4/16/2015 01:12",
+		"asDFAState" : "monty 4/25/2015 15:15"
+	},
+	"class" : {
+		"new" : "monty 12/11/2014 05:39",
+		"new:" : "monty 12/11/2014 05:39",
+		"newFrom:" : "monty 3/29/2016 07:11"
+	}
+}

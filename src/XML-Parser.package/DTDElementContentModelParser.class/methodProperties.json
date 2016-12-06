@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"parseOpeningParenthesis:" : "monty 4/1/2016 23:02",
+		"hasBinaryOperatorOnStack" : "monty 4/1/2016 21:44",
+		"applyOperator:" : "monty 4/1/2016 23:03",
+		"parseClosingParenthesis:" : "monty 4/1/2016 23:02",
+		"parserForSpecialCharacter:" : "monty 1/8/2016 07:08",
+		"applyBinaryOperatorOnStack" : "monty 4/1/2016 21:40",
+		"elementValidatorClass" : "monty 11/1/2016 07:51",
+		"parseBinaryOperator:" : "monty 4/1/2016 21:39",
+		"parse" : "monty 11/1/2016 07:51",
+		"popRemainingBinaryOperators" : "monty 4/1/2016 21:44",
+		"parseUnaryOperator:" : "monty 4/1/2016 21:39"
+	},
+	"class" : {
+		"initialize" : "monty 4/1/2016 22:59",
+		"initializeOperatorApplicators" : "monty 9/23/2016 15:58",
+		"initializeSpecialCharacterParsers" : "monty 9/23/2016 15:59",
+		"standaloneExternalClass" : "monty 11/1/2016 08:44"
+	}
+}

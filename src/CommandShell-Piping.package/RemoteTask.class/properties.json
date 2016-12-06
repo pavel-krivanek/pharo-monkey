@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "dtl 11/12/2011 23:26",
+	"super" : "Object",
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"HeadlessChild",
+		"Materializer",
+		"Serializer",
+		"SerializingStrategy"
+	],
+	"instvars" : [
+		"task",
+		"childProxy",
+		"completionBlock",
+		"aioHandler"
+	],
+	"name" : "RemoteTask",
+	"type" : "normal"
+}

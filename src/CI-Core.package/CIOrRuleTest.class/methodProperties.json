@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testMessageOrFailure" : "CI Validation User 10/28/2013 09:15",
+		"testFailureOrMessage" : "CI Validation User 10/28/2013 09:15",
+		"ruleClass" : "CI Validation User 5/9/2013 00:26",
+		"testNothingOrFailure" : "CamilloBruni 5/9/2013 14:16"
+	},
+	"class" : { }
+}

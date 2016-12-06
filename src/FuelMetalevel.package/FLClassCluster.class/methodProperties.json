@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"serializePostInstance:with:" : "MaxLeske 2/24/2016 20:43",
+		"serializeInstance:with:" : "MartinDias 12/29/2011 19:43",
+		"materializeInstanceWith:" : "MartinDias 12/29/2011 19:48",
+		"materializeReferencesOf:with:" : "MartinDias 12/29/2011 19:48",
+		"serializeReferencesOf:with:" : "MartinDias 12/29/2011 19:43",
+		"materializePostInstance:with:" : "MaxLeske 2/24/2016 20:57",
+		"referencesOf:do:" : "MarianoMartinezPeck 2/25/2016 18:45"
+	},
+	"class" : {
+		"clusterBucketIn:" : "MartinDias 1/8/2012 15:36"
+	}
+}

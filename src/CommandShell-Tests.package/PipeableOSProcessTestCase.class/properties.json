@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "dtl 5/21/2009 23:23",
+	"super" : "TestCase",
+	"category" : "CommandShell-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"procDir"
+	],
+	"name" : "PipeableOSProcessTestCase",
+	"type" : "normal"
+}

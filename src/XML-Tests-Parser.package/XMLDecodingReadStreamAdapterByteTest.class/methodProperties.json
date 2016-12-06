@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"invalidEncodedInputCollection" : "monty 11/22/2016 18:41",
+		"streamConverterClass" : "monty 3/5/2016 12:24",
+		"inputCollection" : "monty 9/18/2016 12:12",
+		"outputCollection" : "monty 9/18/2016 12:13"
+	},
+	"class" : { }
+}

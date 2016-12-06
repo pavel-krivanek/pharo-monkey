@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "CommandShell-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"shellSyntax"
+	],
+	"name" : "ShellSyntaxTestCase",
+	"type" : "normal"
+}

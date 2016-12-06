@@ -1,0 +1,15 @@
+{
+	"instance" : { },
+	"class" : {
+		"isSupportedImplementation" : "monty 3/4/2016 16:23",
+		"preferredImplementation" : "monty 11/12/2014 18:22",
+		"errorNoSupportedImplementation" : "monty 3/4/2016 16:27",
+		"initialize" : "monty 3/4/2016 16:37",
+		"hasSupportedImplementation" : "monty 3/4/2016 16:30",
+		"clearAllImplementations" : "monty 3/4/2016 16:37",
+		"implementation" : "monty 10/9/2016 18:01",
+		"findSupportedImplementation" : "monty 4/8/2016 22:31",
+		"new" : "monty 11/12/2014 18:24",
+		"implementation:" : "monty 10/9/2016 17:09"
+	}
+}

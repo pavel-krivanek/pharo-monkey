@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"streamConverter:" : "monty 3/6/2016 09:09",
+		"basicNextPutByte:" : "monty 1/29/2016 15:16",
+		"isXMLConvertingStreamAdapter" : "monty 4/1/2016 00:55",
+		"hasDefaultStreamConverter" : "monty 2/3/2016 02:54",
+		"hasNullStreamConverter" : "monty 3/5/2016 12:26",
+		"printOn:" : "monty 1/26/2016 04:03",
+		"nextPutByteOrderMark" : "monty 11/22/2016 21:28",
+		"nextPut:" : "monty 1/29/2016 20:51",
+		"nextPutAll:" : "monty 2/17/2016 12:02",
+		"streamConverter" : "monty 1/23/2016 22:21",
+		"basicNextPut:" : "monty 1/26/2016 02:35"
+	},
+	"class" : {
+		"on:streamConverter:" : "monty 2/14/2016 04:28",
+		"on:" : "monty 1/25/2016 22:39"
+	}
+}

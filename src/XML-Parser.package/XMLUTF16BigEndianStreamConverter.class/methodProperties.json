@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"codePointFromFirstByte:secondByte:" : "monty 11/11/2014 14:28",
+		"nextPutFirstByte:secondByte:toStream:" : "monty 1/29/2016 00:02",
+		"isBigEndian" : "monty 11/11/2014 14:47"
+	},
+	"class" : {
+		"byteOrderMarkBytes" : "monty 11/11/2014 21:55",
+		"basicEncodingNames" : "monty 4/24/2015 11:10"
+	}
+}

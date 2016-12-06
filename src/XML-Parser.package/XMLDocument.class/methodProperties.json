@@ -1,0 +1,35 @@
+{
+	"instance" : {
+		"innerXMLContextClass" : "monty 10/30/2016 07:21",
+		"validate" : "monty 9/21/2016 13:56",
+		"isStandalone" : "monty 11/19/2013 05:38",
+		"isDocument" : "JAAyer 2/19/2010 23:51",
+		"writeXMLOn:" : "monty 5/7/2015 18:53",
+		"acceptNodeVisitor:" : "monty 7/27/2016 05:36",
+		"root" : "monty 3/24/2015 18:38",
+		"writeDoctypeDeclarationOn:" : "monty 5/9/2015 03:11",
+		"doctypeDeclaration" : "JAAyer 7/10/2010 05:16",
+		"writeXMLDeclarationOn:" : "monty 5/7/2015 18:53",
+		"postCopy" : "monty 11/22/2014 08:20",
+		"version:" : "monty 6/15/2015 04:17",
+		"validateWith:" : "monty 7/27/2016 07:51",
+		"errorCannotHaveNonElementRoot" : "monty 3/6/2016 09:24",
+		"hasRoot" : "monty 3/6/2016 09:35",
+		"isStandalone:" : "monty 11/19/2013 05:40",
+		"documentRoot" : "monty 3/25/2015 18:55",
+		"root:" : "monty 3/6/2016 09:24",
+		"version" : "JAAyer 2/25/2010 01:48",
+		"doctypeDeclaration:" : "monty 9/6/2016 00:33",
+		"hasDoctypeDefinition" : "monty 5/9/2015 03:11",
+		"document" : "JAAyer 11/24/2010 13:34",
+		"doctypeDefinition:" : "monty 3/8/2015 10:09",
+		"hasEncoding" : "monty 3/6/2016 09:12",
+		"encoding" : "monty 3/24/2015 18:28",
+		"encoding:" : "mir 1/17/2002 12:57",
+		"hasDoctypeDeclaration" : "monty 5/9/2015 03:10",
+		"doctypeDefinition" : "monty 3/8/2015 10:09"
+	},
+	"class" : {
+		"root:" : "monty 3/24/2015 18:26"
+	}
+}

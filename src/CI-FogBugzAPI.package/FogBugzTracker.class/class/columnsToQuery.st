@@ -1,0 +1,19 @@
+private
+columnsToQuery
+	^ #(
+	sTitle
+	sCategory
+	ixProject
+	sProject
+	events
+	tags
+	sFixFor
+	dtLastUpdated
+	dtOpened
+	dtResolved
+	dtClosed
+	sStatus
+	configurationof
+	configurationversion
+	preload
+	postload)

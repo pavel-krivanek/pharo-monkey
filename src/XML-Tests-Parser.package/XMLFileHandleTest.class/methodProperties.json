@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"testGet" : "monty 9/18/2016 16:36",
+		"testDelete" : "monty 9/18/2016 16:35",
+		"testRawWriteStream" : "monty 10/3/2016 22:12",
+		"encodedFileContents" : "monty 9/18/2016 11:07",
+		"testStreamGet" : "monty 9/18/2016 16:36",
+		"tempFileManager" : "monty 9/18/2016 16:17",
+		"testPath" : "monty 9/22/2016 16:21",
+		"testExists" : "monty 9/18/2016 16:35",
+		"encodedFileContentsWithByteOrderMark" : "monty 9/18/2016 11:41",
+		"testReadStreamDo" : "monty 9/18/2016 16:36",
+		"testAsXMLFileHandle" : "monty 9/22/2016 16:21",
+		"testContents" : "monty 9/18/2016 16:36",
+		"testWriteStream" : "monty 10/3/2016 22:12",
+		"decodedFileContents" : "monty 9/18/2016 11:05",
+		"streamConverterClass" : "monty 9/18/2016 11:23",
+		"testGetUpToLimitDecoding" : "monty 9/18/2016 16:36",
+		"testStreamGetUpToLimitDecoding" : "monty 9/18/2016 16:36",
+		"testExtension" : "monty 9/16/2016 16:06",
+		"testIsFile" : "monty 9/18/2016 16:35",
+		"currentWorkingDirectoryFileHandle" : "monty 9/18/2016 16:34",
+		"testIsXMLDocumentFile" : "monty 9/21/2016 00:10",
+		"testWriteStreamDo" : "monty 10/3/2016 22:12",
+		"testReadStream" : "monty 9/18/2016 16:36",
+		"testRawReadStream" : "monty 9/18/2016 16:36",
+		"testSize" : "monty 9/18/2016 16:36"
+	},
+	"class" : {
+		"skippableTests" : "monty 9/17/2016 11:19",
+		"isAbstract" : "monty 9/16/2016 15:09",
+		"shouldInheritSelectors" : "monty 9/18/2016 11:08"
+	}
+}

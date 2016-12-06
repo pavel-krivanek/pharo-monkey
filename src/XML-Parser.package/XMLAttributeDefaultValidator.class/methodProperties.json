@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"isFixedValue" : "monty 11/15/2016 12:27",
+		"isValue" : "monty 11/15/2016 12:57",
+		"processedDefaultForAbsentAttributeValue" : "monty 11/12/2016 16:53",
+		"attribute" : "monty 10/30/2014 12:48",
+		"isRequired" : "monty 11/15/2016 12:26",
+		"validatedDefaultForAbsentAttributeValue" : "monty 11/12/2016 16:19",
+		"value" : "monty 11/18/2016 16:02",
+		"printOn:" : "monty 11/18/2016 16:03",
+		"setAttribute:value:" : "monty 11/18/2016 16:00",
+		"isImplied" : "monty 11/15/2016 12:26",
+		"validatedDefaultForPresentAttributeValue:" : "monty 11/12/2016 16:25",
+		"processedDefaultForPresentAttributeValue:" : "monty 11/12/2016 16:52"
+	},
+	"class" : {
+		"attribute:" : "monty 11/18/2016 16:00",
+		"standaloneExternalClass" : "monty 11/1/2016 08:45",
+		"attribute:value:" : "monty 11/18/2016 16:00"
+	}
+}

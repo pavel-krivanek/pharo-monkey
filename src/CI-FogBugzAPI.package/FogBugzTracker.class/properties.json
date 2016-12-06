@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CI-FogBugzAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"identifyingToken",
+		"projects",
+		"hostname"
+	],
+	"name" : "FogBugzTracker",
+	"type" : "normal"
+}

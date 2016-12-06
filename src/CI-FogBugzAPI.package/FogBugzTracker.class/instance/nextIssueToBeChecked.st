@@ -1,0 +1,9 @@
+querying
+nextIssueToBeChecked
+	
+	^ (self getIssuesForQuery: self nextIssueQuery max: 50)
+		ifEmpty: [ nil ]
+		ifNotEmpty: [ :issues | 
+			issues 
+				detect: [ :issue | issue shouldBeChecked ] 
+				ifNone: [ nil ]]

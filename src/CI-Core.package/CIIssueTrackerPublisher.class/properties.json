@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIAbstractPublisher",
+	"category" : "CI-Core-Publishing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIIssueTrackerPublisher",
+	"type" : "normal"
+}

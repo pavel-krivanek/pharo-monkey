@@ -1,0 +1,5 @@
+My instances implement parsing of strings in a manner similar to a simple Unix command shell. I provide path name expansion in the context of an external file system, and support the syntax required for IO redirection. All file name globbing and PATH searching are implemented in Smalltalk rather than in C library functions or an external command shell.
+
+Most of my syntax is applicable for any operating system. Where needed, platform specific methods are in my "platform dependent" category. Currently, Unix and Windows are supported, and other platforms have not been tested. The primary difference between Unix and Windows support is that device names (such as 'C:') are used in Windows path strings. Separate current working directory strings are maintained for all Windows device names. For Unix, a single current working directory path is used. On Windows, this permits the CommandShell 'cd' command to support changing directories to another device without losing track of the current working directory for the previous device.
+
+Command pipeline syntax is not supported here. See CommandShell for the implementation of command pipelines.

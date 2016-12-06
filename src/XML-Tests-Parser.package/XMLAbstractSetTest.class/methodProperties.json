@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"testEquals" : "monty 3/29/2016 07:43",
+		"setWithElements" : "monty 3/29/2016 07:52",
+		"testCopy" : "monty 3/29/2016 08:07",
+		"testConcatenation" : "monty 3/29/2016 08:00",
+		"emptySet" : "monty 3/29/2016 07:51",
+		"denySet:equals:" : "monty 3/29/2016 07:41",
+		"testNewFrom" : "monty 3/29/2016 07:55",
+		"testDo" : "monty 3/29/2016 07:45",
+		"testIncludes" : "monty 3/29/2016 08:00",
+		"testAdd" : "monty 3/29/2016 07:45",
+		"setWithDisjointElements" : "monty 3/29/2016 08:00",
+		"setClass" : "monty 3/29/2016 07:46",
+		"disjointSetElements" : "monty 3/29/2016 08:00",
+		"testRemoveIfAbsent" : "monty 9/19/2016 11:08",
+		"assertSet:equals:" : "monty 3/29/2016 07:52",
+		"absentSetElement" : "monty 3/30/2016 01:32",
+		"setElements" : "monty 3/29/2016 08:01",
+		"testRemoveAll" : "monty 3/29/2016 07:43",
+		"testSize" : "monty 3/29/2016 07:45"
+	},
+	"class" : {
+		"isAbstract" : "monty 3/29/2016 07:41",
+		"shouldInheritSelectors" : "monty 3/29/2016 07:41"
+	}
+}

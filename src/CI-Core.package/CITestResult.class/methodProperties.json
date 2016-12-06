@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"runCase:" : "CamilloBruni 5/1/2013 11:55",
+		"beQuiet" : "CamilloBruni 10/31/2013 14:56",
+		"printTestCase:" : "CamilloBruni 11/1/2013 15:23",
+		"maxTest:" : "CamilloBruni 5/1/2013 11:11",
+		"isQuiet" : "CamilloBruni 10/31/2013 14:56",
+		"increaseTestCount" : "CamilloBruni 5/1/2013 11:09",
+		"addError:" : "CamilloBruni 5/9/2013 14:15",
+		"initialize" : "CamilloBruni 10/31/2013 14:56",
+		"addSkip:" : "CamilloBruni 5/1/2013 11:57",
+		"print:short:on:" : "CamilloBruni 10/31/2013 14:56",
+		"printProgress" : "CamilloBruni 5/11/2013 17:07",
+		"stderr" : "CamilloBruni 5/1/2013 11:10",
+		"maxTest" : "CamilloBruni 5/1/2013 11:10",
+		"addPass:" : "CamilloBruni 1/25/2014 14:14",
+		"currentTestCase" : "CamilloBruni 5/1/2013 11:48"
+	},
+	"class" : {
+		"evaluate:" : "ErwanDouaille 5/22/2013 15:55",
+		"evaluateFromForkedImage:" : "ErwanDouaille 5/22/2013 15:55"
+	}
+}

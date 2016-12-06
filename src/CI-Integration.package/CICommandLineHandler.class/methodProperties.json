@@ -1,0 +1,42 @@
+{
+	"instance" : {
+		"setUpFileTree" : "BenjaminVanRyseghem 3/5/2014 18:46",
+		"setUpHTMLPublisher" : "CamilloBruni 11/21/2013 18:54",
+		"loadIssue" : "GuillermoPolito 4/11/2016 10:45",
+		"setUpSlice" : "CamilloBruni 10/22/2013 22:03",
+		"manager" : "CamilloBruni 5/9/2013 14:12",
+		"listNextIssue" : "ErwanDouaille 5/3/2013 15:36",
+		"listOpenIssues" : "CamilloBruni 5/17/2013 16:37",
+		"setUpScript" : "EstebanLorenzano 4/17/2015 17:51",
+		"shouldUpdateIssue" : "CamilloBruni 10/22/2013 21:56",
+		"user" : "CamilloBruni 8/26/2013 23:08",
+		"fetchIssue" : "CamilloBruni 5/17/2013 16:36",
+		"user:" : "EstebanLorenzano 6/9/2014 11:56",
+		"testIssue" : "BenjaminVanRyseghem 3/5/2014 17:07",
+		"setUpSlicePublisher" : "CamilloBruni 11/21/2013 18:52",
+		"dispatchSubSliceCommand" : "ErwanDouaille 5/3/2013 15:20",
+		"listIssues" : "CamilloBruni 10/22/2013 22:00",
+		"dispatchSubScriptCommand" : "BenjaminVanRyseghem 3/5/2014 16:57",
+		"setUpConfiguration" : "CamilloBruni 10/22/2013 22:05",
+		"dispatchSubConfigurationCommand" : "BenjaminVanRyseghem 3/5/2014 16:58",
+		"fetchNextIssue" : "CamilloBruni 11/2/2013 18:33",
+		"activate" : "DenisKudryashov 2/2/2016 15:59",
+		"closeOldIssues" : "DenisKudryashov 2/2/2016 15:59",
+		"password:" : "EstebanLorenzano 6/9/2014 11:56",
+		"resumeHangedIssues" : "DenisKudryashov 2/2/2016 15:59",
+		"setHtmlResourcesFor:" : "CamilloBruni 11/21/2013 18:54",
+		"password" : "CamilloBruni 8/26/2013 23:08",
+		"dispatchSubFileTreeCommand" : "BenjaminVanRyseghem 3/5/2014 18:04",
+		"isJenkinsJob" : "CamilloBruni 11/19/2013 11:33",
+		"printOpenIssue:" : "ErwanDouaille 5/3/2013 15:35",
+		"authenticateTracker" : "DenisKudryashov 2/2/2016 15:51",
+		"listIssueWithId:" : "ErwanDouaille 5/3/2013 15:34",
+		"setUpIssueTrackerPublisher" : "CamilloBruni 11/21/2013 18:54",
+		"setUpTracker" : "DenisKudryashov 2/2/2016 16:01"
+	},
+	"class" : {
+		"description" : "CamilloBruni 12/4/2012 19:34",
+		"priority" : "BenjaminVanRyseghem 3/5/2014 17:04",
+		"commandName" : "CamilloBruni 12/4/2012 19:34"
+	}
+}

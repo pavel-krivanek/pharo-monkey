@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"testReplacesContentEntityReferences" : "monty 9/21/2016 09:42",
+		"testExternalEntityResolver" : "monty 9/22/2016 15:21",
+		"testEntityConfiguration" : "monty 9/21/2016 00:34",
+		"testResolvesExternalEntities" : "monty 9/21/2016 09:38",
+		"testCopy" : "monty 9/22/2016 16:18",
+		"testMaxEntityReplacementDepth" : "monty 9/21/2016 09:37",
+		"newConfiguration" : "monty 9/21/2016 00:17",
+		"testParserLimits" : "monty 9/21/2016 00:22",
+		"externalEntityResolverClass" : "monty 9/22/2016 15:22",
+		"testUsesNamespaces" : "monty 9/21/2016 00:19",
+		"testDecodesCharacters" : "monty 9/21/2016 00:19",
+		"parserHandlerClass" : "monty 9/21/2016 09:39",
+		"testParserHandlerClass" : "monty 9/21/2016 09:40",
+		"configurationClass" : "monty 9/21/2016 00:16",
+		"testRequiresDocumentConstraints" : "monty 9/21/2016 00:33",
+		"testPreservesUndeclaredEntityReferences" : "monty 9/21/2016 09:42",
+		"testDocumentReadLimit" : "monty 9/21/2016 09:36",
+		"otherParserHandlerClass" : "monty 9/21/2016 09:39",
+		"testIsValidating" : "monty 9/21/2016 00:17"
+	},
+	"class" : {
+		"shouldInheritSelectors" : "monty 9/21/2016 00:34"
+	}
+}

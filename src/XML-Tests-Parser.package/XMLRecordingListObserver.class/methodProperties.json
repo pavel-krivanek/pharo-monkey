@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"hasNotifications" : "monty 4/12/2015 08:01",
+		"messageRecorder" : "monty 4/12/2015 07:59",
+		"added:to:" : "monty 4/12/2015 08:00",
+		"removed:from:" : "monty 4/12/2015 08:02",
+		"nextNotification" : "monty 4/12/2015 07:59",
+		"clearNotifications" : "monty 4/12/2015 07:59"
+	},
+	"class" : { }
+}

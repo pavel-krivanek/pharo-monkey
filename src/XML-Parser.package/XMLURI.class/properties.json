@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "monty 1/8/2016 11:14",
+	"super" : "Object",
+	"category" : "XML-Parser-URI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"UnreservedCharacters"
+	],
+	"instvars" : [
+		"uriString",
+		"scheme",
+		"hasAuthorityPrefix",
+		"rawUserInfo",
+		"rawHost",
+		"port",
+		"rawPathSegments",
+		"rawQuery",
+		"rawFragment"
+	],
+	"name" : "XMLURI",
+	"type" : "normal"
+}

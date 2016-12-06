@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"streamResolveExternalEntityURI:" : "monty 4/3/2016 00:44",
+		"resolveExternalEntityURI:" : "monty 4/3/2016 00:44",
+		"maxCachedEntities:" : "monty 1/13/2014 17:53",
+		"maxCachedEntities" : "monty 1/13/2014 17:52",
+		"cachingResolveEntityURI:" : "monty 4/3/2016 00:45",
+		"cachingStreamResolveEntityURI:" : "monty 3/22/2016 19:39",
+		"clearEntityCache" : "monty 1/13/2014 03:45"
+	},
+	"class" : {
+		"entityCacheAtURI:ifAbsentPut:" : "monty 3/22/2016 19:43",
+		"clearEntityCache" : "monty 11/15/2014 20:59",
+		"entityCacheAtURI:put:" : "monty 3/23/2016 01:06",
+		"maxCachedEntities" : "monty 11/15/2014 20:57",
+		"maxCachedEntities:" : "monty 11/15/2014 20:56",
+		"entityCacheAtURI:ifAbsent:" : "monty 3/22/2016 19:43",
+		"entityCacheAtURI:" : "monty 3/22/2016 19:43",
+		"entityCache" : "monty 10/9/2016 03:29"
+	}
+}

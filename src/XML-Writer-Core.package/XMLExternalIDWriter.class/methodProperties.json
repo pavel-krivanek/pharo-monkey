@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"hasPublicID" : "monty 11/21/2016 02:00",
+		"systemID:" : "monty 3/21/2015 22:54",
+		"isOmittable" : "monty 11/21/2016 02:00",
+		"publicID" : "monty 3/21/2015 22:53",
+		"writeOn:" : "monty 11/21/2016 02:06",
+		"hasSystemID" : "monty 11/21/2016 02:00",
+		"publicID:" : "monty 3/21/2015 22:53",
+		"writePublicExternalIDOn:" : "monty 11/21/2016 02:06",
+		"writeSystemExternalIDOn:" : "monty 11/21/2016 02:06",
+		"systemID" : "monty 3/21/2015 22:54"
+	},
+	"class" : { }
+}

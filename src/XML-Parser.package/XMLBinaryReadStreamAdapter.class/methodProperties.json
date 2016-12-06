@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"peek" : "monty 1/27/2016 01:01",
+		"basicNext" : "monty 1/27/2016 01:00",
+		"next" : "monty 1/27/2016 19:02"
+	},
+	"class" : {
+		"onStreamIfBinary:" : "monty 7/30/2016 12:51"
+	}
+}

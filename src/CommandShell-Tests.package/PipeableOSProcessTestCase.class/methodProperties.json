@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testForkHeadlessSqueak" : "dtl 6/10/2011 16:44",
+		"testCommandEcho" : "dtl 4/24/2012 20:21",
+		"testForkSqueakReadAndWriteReferenceStream" : "dtl 6/17/2015 21:32",
+		"testForkHeadlessSqueakReferenceStream" : "dtl 6/17/2015 21:31",
+		"numberOfOpenFiles" : "dtl 1/26/2013 12:22",
+		"testForkSqueak" : "dtl 6/7/2015 12:05",
+		"isNumberOfOpenFiles:" : "dtl 5/21/2009 23:18",
+		"procDir" : "dtl 1/26/2013 12:19",
+		"testForkHeadlessSqueak2" : "dtl 6/10/2011 16:43",
+		"testForkHeadlessSqueakReadAndWriteReferenceStream" : "dtl 6/17/2015 21:30",
+		"testForkSqueakReferenceStream" : "dtl 6/17/2015 21:33"
+	},
+	"class" : { }
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "XMLWriter",
+	"category" : "CI-Core-Publishing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HTMLWriter",
+	"type" : "normal"
+}

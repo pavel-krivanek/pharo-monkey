@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Error",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"change",
+		"locations"
+	],
+	"name" : "ChangeNotFound",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "CommandShell-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pipeJunction"
+	],
+	"name" : "ExpressionEvaluatorTestCase",
+	"type" : "normal"
+}

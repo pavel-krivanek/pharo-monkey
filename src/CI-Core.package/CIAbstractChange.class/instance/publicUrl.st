@@ -1,0 +1,4 @@
+accessing
+publicUrl
+
+	^ self subclassResponsibility

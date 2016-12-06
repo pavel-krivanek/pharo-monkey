@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TestCase",
+	"category" : "CommandShell-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"CheckFileHandleCount",
+		"TempResult"
+	],
+	"instvars" : [
+		"shell",
+		"checkFileHandleCount",
+		"procDir"
+	],
+	"name" : "CommandShellTestCase",
+	"type" : "normal"
+}

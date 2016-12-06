@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"streamConverter:" : "monty 11/22/2016 18:11",
+		"next" : "monty 11/22/2016 18:01",
+		"isXMLConvertingStreamAdapter" : "monty 4/1/2016 00:55",
+		"peek" : "monty 11/22/2016 18:01",
+		"hasDefaultStreamConverter" : "monty 1/31/2016 22:49",
+		"atEnd" : "monty 11/22/2016 18:03",
+		"hasNullStreamConverter" : "monty 3/5/2016 12:26",
+		"position:" : "monty 11/22/2016 23:08",
+		"printOn:" : "monty 1/23/2016 16:49",
+		"reset" : "monty 11/22/2016 20:22",
+		"streamConverter" : "monty 1/23/2016 16:49",
+		"detectEncoding" : "monty 11/22/2016 20:22",
+		"position" : "monty 11/22/2016 23:08"
+	},
+	"class" : {
+		"onStreamIfBinary:" : "monty 7/30/2016 12:53",
+		"on:streamConverter:" : "monty 7/30/2016 12:53",
+		"basicOn:streamConverter:" : "monty 7/30/2016 12:53",
+		"on:" : "monty 1/25/2016 22:39"
+	}
+}

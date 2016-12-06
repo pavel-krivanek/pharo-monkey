@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"streamGet" : "monty 11/29/2015 22:40",
+		"url" : "monty 1/10/2014 00:10",
+		"getUpToLimit:decoding:" : "monty 9/23/2016 23:05",
+		"isMaxSizeException:" : "monty 9/5/2016 06:13",
+		"printOn:" : "monty 3/12/2016 19:30",
+		"basicGetUpToLimit:decoding:" : "monty 3/13/2016 23:40",
+		"streamGetUpToLimit:decoding:" : "monty 2/19/2016 11:09",
+		"errorHTTPResponseLimitExceeded" : "monty 9/23/2016 23:04",
+		"url:" : "monty 3/21/2015 22:37",
+		"get" : "monty 11/29/2015 22:40",
+		"asXMLHTTPRequest" : "monty 2/13/2016 00:35",
+		"errorHTTPException:" : "monty 9/23/2016 23:05",
+		"defaultTimeout" : "monty 10/26/2014 09:14"
+	},
+	"class" : {
+		"errorNoSupportedImplementation" : "monty 3/14/2016 15:42",
+		"url:" : "monty 3/21/2015 22:37",
+		"preferredImplementation" : "monty 10/25/2014 18:56"
+	}
+}

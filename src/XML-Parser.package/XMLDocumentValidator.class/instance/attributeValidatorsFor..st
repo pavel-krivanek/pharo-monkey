@@ -1,0 +1,3 @@
+accessing
+attributeValidatorsFor: anElement
+	self subclassResponsibility

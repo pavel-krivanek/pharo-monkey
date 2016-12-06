@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CI-Integration-Core",
+	"classinstvars" : [
+		"default",
+		"integrated"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"UniqueInstance"
+	],
+	"instvars" : [
+		"currentTests",
+		"integrated",
+		"issuesToIntegrate",
+		"newVersionNumber",
+		"previousTests",
+		"tracker",
+		"scriptLoader",
+		"preloadScript",
+		"postloadScript"
+	],
+	"name" : "IntegrationManager",
+	"type" : "normal"
+}

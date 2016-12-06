@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"whenPoppedDo" : "monty 11/7/2016 18:49",
+		"currentLineNumber" : "monty 11/18/2016 13:28",
+		"stream" : "monty 11/7/2016 18:49",
+		"currentLineStartPosition" : "monty 11/18/2016 13:28",
+		"currentPosition" : "monty 11/23/2016 16:57",
+		"setStream:whenPoppedDo:currentPosition:currentLineNumber:currentLineStartPosition:" : "monty 11/23/2016 16:57",
+		"isExternal" : "monty 11/7/2016 18:48"
+	},
+	"class" : {
+		"stream:whenPoppedDo:currentPosition:currentLineNumber:currentLineStartPosition:" : "monty 11/23/2016 16:57"
+	}
+}

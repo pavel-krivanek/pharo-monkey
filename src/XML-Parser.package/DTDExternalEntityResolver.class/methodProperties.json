@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"maxExternalEntitySize:" : "monty 1/16/2014 06:54",
+		"resolvesLocalFromNonLocal:" : "monty 5/25/2015 03:54",
+		"incrementTotalResolvedExternalEntities" : "monty 4/3/2016 00:46",
+		"maxExternalEntities:" : "monty 1/16/2014 06:54",
+		"maxExternalEntities" : "monty 1/16/2014 06:17",
+		"resolvesLocalFromNonLocal" : "monty 1/24/2014 06:50",
+		"externalSubsetReadLimit" : "monty 1/27/2015 22:53",
+		"postCopy" : "monty 4/3/2016 00:46",
+		"externalEntityURIFromPublicID:systemID:" : "monty 4/3/2016 00:44",
+		"externalEntityLimits" : "monty 1/16/2014 06:15",
+		"streamResolveExternalEntityURI:" : "monty 4/3/2016 00:45",
+		"totalResolvedExternalEntities" : "monty 4/3/2016 00:46",
+		"resolveExternalEntityURI:" : "monty 4/3/2016 00:45",
+		"errorLocalFromNonLocal" : "monty 10/31/2014 21:33",
+		"erorrExternalEntityLimitExceeded" : "monty 11/6/2014 12:21",
+		"checkExternalEntityLimit" : "monty 4/11/2016 03:22",
+		"externalEntityURIFromPublicID:systemID:baseURI:" : "monty 4/3/2016 01:12",
+		"resolveExternalEntityWith:" : "monty 4/3/2016 00:45",
+		"removeLimits" : "monty 1/16/2014 06:16",
+		"maxExternalEntitySize" : "monty 1/16/2014 06:20",
+		"externalEntityLimits:" : "monty 3/22/2016 04:41",
+		"externalSubsetReadLimit:" : "monty 4/14/2016 03:31"
+	},
+	"class" : {
+		"defaultClass" : "monty 4/8/2016 03:04",
+		"default" : "monty 4/8/2016 03:03"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"attributeSpecClass" : "monty 8/2/2016 08:45",
+		"newAttributeSpec" : "monty 8/2/2016 08:47",
+		"testAsXMLAttributeSpec" : "monty 8/2/2016 08:47"
+	},
+	"class" : {
+		"shouldInheritSelectors" : "monty 8/2/2016 08:47"
+	}
+}

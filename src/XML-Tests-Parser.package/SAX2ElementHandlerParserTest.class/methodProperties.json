@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"sampleBooksXML" : "monty 8/16/2016 03:37",
+		"testParsingSampleBooks" : "monty 8/16/2016 21:24",
+		"testParsingSamplePerson" : "monty 8/17/2016 22:05",
+		"samplePersonXML" : "monty 8/17/2016 22:01"
+	},
+	"class" : { }
+}

@@ -1,0 +1,1 @@
+Test operation of InternalPipe in blocking and nonBlocking mode.

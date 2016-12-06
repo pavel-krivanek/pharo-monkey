@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"basicDelete" : "monty 3/13/2016 21:33",
+		"basicFileSize" : "monty 9/16/2016 15:46",
+		"exists" : "monty 3/13/2016 00:31",
+		"fileReference" : "monty 3/12/2016 19:29",
+		"usesMemoryStore" : "monty 9/12/2016 02:02",
+		"isFile" : "monty 1/13/2014 04:37",
+		"newFileReadStreamOnPath" : "monty 9/12/2016 01:29",
+		"newFileWriteStreamOnPath" : "monty 9/12/2016 01:28",
+		"fileReference:" : "monty 3/12/2016 19:40"
+	},
+	"class" : {
+		"isSupportedImplementation" : "monty 7/6/2016 02:40",
+		"basicCurrentWorkingDirectory" : "monty 7/6/2016 02:35",
+		"fileReference:" : "monty 3/13/2016 13:11"
+	}
+}

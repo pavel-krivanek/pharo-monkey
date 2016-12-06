@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"allowedValues:" : "monty 11/12/2016 21:05",
+		"allowedValues" : "monty 12/9/2013 02:17",
+		"validateAttributeDeclaration" : "monty 11/12/2016 11:00",
+		"validateAttributeDefaultValue:" : "monty 11/15/2016 14:02",
+		"validateXMLSpaceAttributeDeclaration" : "monty 11/26/2016 01:54",
+		"isEnumeration" : "monty 11/15/2016 13:00",
+		"errorEnumerationContainsDuplicateValues" : "monty 11/12/2016 11:00",
+		"validateAttributeValue:" : "monty 10/31/2014 17:30",
+		"errorInvalidValue:" : "monty 4/8/2016 23:00"
+	},
+	"class" : {
+		"standaloneExternalClass" : "monty 11/1/2016 08:56"
+	}
+}

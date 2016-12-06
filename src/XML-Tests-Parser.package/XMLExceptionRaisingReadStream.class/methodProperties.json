@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"isStream" : "monty 10/13/2014 22:00",
+		"next" : "monty 11/27/2016 22:51",
+		"close" : "monty 11/27/2016 18:34",
+		"peek" : "monty 11/27/2016 22:51",
+		"on:" : "monty 10/26/2016 04:54",
+		"atEnd" : "monty 11/27/2016 18:34",
+		"position:" : "monty 11/27/2016 18:34",
+		"isBinary" : "monty 5/26/2015 01:46",
+		"reset" : "monty 11/27/2016 18:34",
+		"wasClosed" : "monty 10/26/2016 04:54",
+		"errorAtEndStreamCannotBeSent:" : "monty 11/27/2016 18:35",
+		"position" : "monty 11/27/2016 18:34",
+		"errorClosedStreamCannotBeSent:" : "monty 11/27/2016 18:34"
+	},
+	"class" : {
+		"on:" : "monty 2/15/2016 23:29"
+	}
+}

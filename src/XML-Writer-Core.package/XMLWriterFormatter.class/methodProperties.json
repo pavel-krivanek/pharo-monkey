@@ -1,0 +1,43 @@
+{
+	"instance" : {
+		"formatAfterEndTag:" : "monty 5/8/2015 04:06",
+		"writer:" : "monty 9/21/2015 01:01",
+		"formatBeforeComment:" : "monty 12/1/2014 23:38",
+		"formatAfterDoctypeDeclaration:" : "monty 12/1/2014 23:45",
+		"formatBeforeDeclaration:" : "monty 12/1/2014 23:40",
+		"initialize" : "monty 9/20/2015 23:24",
+		"writeLineBreak" : "monty 12/13/2014 21:06",
+		"formatAfterCData:" : "monty 9/20/2015 02:55",
+		"formatAfterDeclaration:" : "monty 5/8/2015 04:14",
+		"formatBeforeEntityReference:" : "monty 12/2/2014 00:35",
+		"formatBeforePI:" : "monty 5/8/2015 04:12",
+		"formatBeforeEndTag:" : "monty 12/1/2014 23:38",
+		"outdent" : "monty 11/30/2014 03:25",
+		"formatBeforeDoctypeDeclaration:" : "monty 12/1/2014 23:44",
+		"currentIndentLevel" : "monty 11/30/2014 03:25",
+		"formatAfterComment:" : "monty 5/8/2015 04:09",
+		"formatAfterInternalSubset:" : "monty 12/1/2014 23:42",
+		"formatBeforeCData:" : "monty 9/20/2015 02:55",
+		"formatBeforeQuotedStringValue:" : "monty 9/18/2015 18:53",
+		"formatAfterStartTag:" : "monty 12/1/2014 23:37",
+		"formatAfterXMLDeclaration:" : "monty 5/8/2015 04:11",
+		"formatAfterCharacterEscape:" : "monty 9/20/2015 21:28",
+		"formatBeforeStartTag:" : "monty 12/1/2014 23:38",
+		"indentString" : "monty 11/30/2014 03:16",
+		"formatAfterQuotedStringValue:" : "monty 9/18/2015 18:53",
+		"formatAfterEntityReference:" : "monty 5/8/2015 04:16",
+		"formatBeforeInternalSubset:" : "monty 12/1/2014 23:46",
+		"indent" : "monty 11/30/2014 03:25",
+		"writeIndent" : "monty 7/4/2016 06:31",
+		"writer" : "monty 11/30/2014 02:44",
+		"formatBeforeXMLDeclaration:" : "monty 3/24/2015 19:34",
+		"formatBeforeCharacterEscape:" : "monty 9/20/2015 21:28",
+		"indentString:" : "monty 11/30/2014 03:16",
+		"formatAfterPI:" : "monty 5/8/2015 04:12"
+	},
+	"class" : {
+		"defaultIndentString" : "monty 5/25/2015 06:54",
+		"writer:" : "monty 9/20/2015 23:24",
+		"defaultIndentLevel" : "monty 5/25/2015 06:54"
+	}
+}

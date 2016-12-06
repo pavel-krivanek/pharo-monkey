@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"commandLine:" : "dtl 2/26/2002 10:09",
+		"exitStatus:" : "dtl 2/25/2002 08:33",
+		"handle" : "dtl 2/25/2002 07:24",
+		"pwd" : "dtl 2/28/2002 10:28",
+		"update:" : "dtl 2/27/2002 09:45",
+		"closeHandles" : "dtl 3/1/2002 07:44",
+		"=" : "dtl 11/15/2013 10:30",
+		"threads" : "dtl 2/25/2002 07:09",
+		"handle:" : "dtl 2/25/2002 07:32",
+		"printOn:" : "dtl 2/26/2002 10:42",
+		"ppid:" : "dtl 2/25/2002 07:29",
+		"pwd:" : "dtl 2/28/2002 10:28",
+		"complete" : "dtl 6/24/2006 08:41",
+		"commandLine" : "dtl 2/26/2002 10:09",
+		"exitStatus" : "dtl 2/25/2002 08:32",
+		"hash" : "dtl 6/28/2010 22:27",
+		"ppid" : "dtl 2/25/2002 07:29",
+		"value" : "dtl 1/11/2015 13:43"
+	},
+	"class" : {
+		"defaultShellPath" : "SeanDeNigris 12/27/2013 10:17",
+		"command:" : "dtl 2/28/2002 10:56",
+		"programName:arguments:initialEnvironment:" : "dtl 3/1/2002 07:02",
+		"shellFlags" : "SeanDeNigris 12/27/2013 12:31",
+		"isResponsibleForThisPlatform" : "dtl 8/30/2003 17:50",
+		"commandNoEvaluate:" : "dtl 2/28/2002 10:49"
+	}
+}

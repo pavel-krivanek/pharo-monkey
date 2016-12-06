@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CISmallIntRuleTest",
+	"category" : "CI-Core-Test",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CISmallIntRuleCompositeTest",
+	"type" : "normal"
+}

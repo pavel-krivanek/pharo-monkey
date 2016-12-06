@@ -1,0 +1,3 @@
+private
+stdout 
+	^ VTermOutputDriver stdout

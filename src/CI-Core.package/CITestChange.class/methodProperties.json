@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"publicUrl" : "CamilloBruni 4/25/2013 21:50",
+		"publicUrl:" : "CamilloBruni 4/25/2013 21:49",
+		"name" : "CI Validation User 5/8/2013 14:18",
+		"id" : "CamilloBruni 4/25/2013 21:50",
+		"isLoadable" : "CamilloBruni 4/29/2013 23:50",
+		"initialize" : "CamilloBruni 4/29/2013 23:49",
+		"name:" : "CamilloBruni 4/25/2013 21:49",
+		"isLoadable:" : "CamilloBruni 4/29/2013 23:50",
+		"id:" : "CamilloBruni 4/25/2013 21:49",
+		"changeValidationRule" : "EstebanLorenzano 3/3/2015 18:03",
+		"loadBlock:" : "CamilloBruni 4/29/2013 23:50",
+		"loadBlock" : "CamilloBruni 4/25/2013 21:49",
+		"basicLoad" : "CI Validation User 10/28/2013 09:11",
+		"typeName" : "CamilloBruni 11/25/2013 20:30"
+	},
+	"class" : {
+		"loadBlock:" : "ErwanDouaille 4/30/2013 17:22"
+	}
+}

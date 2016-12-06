@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"hasMessages" : "monty 4/12/2015 07:56",
+		"recordMessageReceiver:selector:" : "monty 11/26/2016 02:06",
+		"messageQueue" : "monty 4/12/2015 07:53",
+		"nextMessage" : "monty 7/28/2016 10:33",
+		"recordMessage:" : "monty 4/12/2015 08:05",
+		"recordMessageReceiver:selector:arguments:" : "monty 6/24/2016 23:44",
+		"peekMessage" : "monty 7/28/2016 10:33",
+		"messagesCollect:" : "monty 4/12/2015 08:24",
+		"messagesSelect:" : "monty 4/12/2015 08:22",
+		"recordMessageReceiver:selector:argument:" : "monty 11/26/2016 02:05",
+		"messagesDo:" : "monty 4/12/2015 08:21",
+		"clearMessages" : "monty 4/12/2015 07:56"
+	},
+	"class" : { }
+}

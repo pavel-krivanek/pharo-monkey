@@ -1,0 +1,1 @@
+Tests for PipeableOSProcess. A PipeableOSProcess provides a proxy for an external OS process with stdin, stdout, and stderr pipes connected by the proxy to the external process.

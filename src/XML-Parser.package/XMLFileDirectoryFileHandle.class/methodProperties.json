@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"basicDelete" : "monty 3/13/2016 21:33",
+		"exists" : "monty 3/13/2016 00:31",
+		"directoryEntry" : "monty 3/13/2016 23:11",
+		"fileDirectory" : "monty 7/6/2016 02:46",
+		"isFile" : "monty 3/13/2016 00:32",
+		"basicFileSize" : "monty 9/16/2016 15:46"
+	},
+	"class" : {
+		"isSupportedImplementation" : "monty 7/6/2016 02:40",
+		"basicCurrentWorkingDirectory" : "monty 7/6/2016 02:35"
+	}
+}

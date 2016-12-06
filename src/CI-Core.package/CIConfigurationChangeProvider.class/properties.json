@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIAbstractMonticelloChangeProvider",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"metacelloProject",
+		"group"
+	],
+	"name" : "CIConfigurationChangeProvider",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testPublishBeforeValidation" : "CamilloBruni 4/25/2013 21:44",
+		"publisherClass" : "CamilloBruni 4/25/2013 21:15",
+		"testPublishChangeNotFound" : "CamilloBruni 10/22/2013 22:23",
+		"testSetManager" : "ErwanDouaille 5/16/2013 10:22",
+		"setUp" : "CamilloBruni 4/25/2013 21:43",
+		"testPublishValidationResult" : "CamilloBruni 4/25/2013 21:46",
+		"newComplexValidationResult" : "CamilloBruni 10/18/2013 12:43",
+		"testPublishComplexValidationResult" : "CamilloBruni 10/18/2013 12:42",
+		"testPublishIntermediateResult" : "CamilloBruni 4/25/2013 21:45"
+	},
+	"class" : {
+		"isAbstract" : "CamilloBruni 4/25/2013 21:36"
+	}
+}

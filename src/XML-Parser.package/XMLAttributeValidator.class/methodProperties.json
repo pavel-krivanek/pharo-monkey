@@ -1,0 +1,41 @@
+{
+	"instance" : {
+		"errorInvalidXMLSpaceAttributeDeclaration" : "monty 11/15/2016 12:23",
+		"furtherNormalizeAttributeValue:" : "monty 11/15/2016 14:19",
+		"isEntities" : "monty 11/15/2016 12:59",
+		"errorNormalizedStandaloneExternalAttribute" : "monty 11/12/2016 16:56",
+		"isEnumeration" : "monty 11/15/2016 12:59",
+		"defaultValidator" : "monty 2/19/2016 14:46",
+		"errorInvalidDefaultAttributeValue:" : "monty 11/15/2016 14:14",
+		"validateXMLIDAttributeDeclaration" : "monty 11/15/2016 12:23",
+		"initializeWithValidatorsFrom:" : "monty 11/18/2016 16:02",
+		"isIDRef" : "monty 11/15/2016 12:59",
+		"element" : "monty 12/10/2013 06:17",
+		"validateAttributes:" : "monty 11/15/2016 12:25",
+		"isNotationEnumeration" : "monty 11/15/2016 12:59",
+		"isEntity" : "monty 11/15/2016 12:59",
+		"isNmtokens" : "monty 11/15/2016 12:59",
+		"mustFurtherNormalizeAttributeValue" : "monty 11/15/2016 12:25",
+		"isID" : "monty 11/15/2016 12:59",
+		"isXMLID" : "monty 11/15/2016 12:59",
+		"setElement:attribute:defaultValidator:" : "monty 2/19/2016 14:48",
+		"attribute" : "monty 12/10/2013 06:17",
+		"validateXMLSpaceAttributeDeclaration" : "monty 11/15/2016 12:23",
+		"isStandaloneExternal" : "monty 11/1/2016 07:39",
+		"errorInvalidXMLIDAttributeDeclaration" : "monty 11/15/2016 12:23",
+		"validateAttributeValue:" : "monty 11/12/2016 12:26",
+		"spaceSeparatedListValuesIn:do:" : "monty 4/7/2016 03:31",
+		"processAttributes:" : "monty 11/26/2016 01:16",
+		"validateAttributeDeclaration" : "monty 11/18/2016 16:04",
+		"isIDRefs" : "monty 11/15/2016 12:59",
+		"isNmtoken" : "monty 11/15/2016 12:59",
+		"printOn:" : "monty 4/24/2015 08:54",
+		"validateAttributeDefaultValue:" : "monty 11/12/2016 12:27",
+		"isCData" : "monty 11/15/2016 12:59"
+	},
+	"class" : {
+		"initialize" : "monty 9/27/2016 14:27",
+		"element:attribute:defaultValidator:" : "monty 2/19/2016 14:47",
+		"standaloneExternalClass" : "monty 11/1/2016 08:48"
+	}
+}

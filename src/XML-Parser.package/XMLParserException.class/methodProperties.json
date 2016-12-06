@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"columnNumber" : "monty 3/18/2016 01:44",
+		"lineNumber:" : "monty 11/23/2016 17:18",
+		"isXMLParserException" : "monty 9/5/2016 06:11",
+		"hasLineNumber" : "monty 3/19/2016 16:24",
+		"hasBaseURI" : "monty 11/23/2016 17:08",
+		"shouldPassOnWhenCaught" : "monty 11/26/2014 06:03",
+		"baseURI:" : "monty 11/23/2016 17:18",
+		"lineNumber" : "monty 4/12/2015 07:29",
+		"baseURI" : "monty 11/23/2016 17:08",
+		"columnNumber:" : "monty 11/23/2016 17:18",
+		"hasColumnNumber" : "monty 3/19/2016 16:24"
+	},
+	"class" : { }
+}

@@ -1,0 +1,3 @@
+testing
+hasCurrentElementValidator
+	^ self currentElementValidator notNil

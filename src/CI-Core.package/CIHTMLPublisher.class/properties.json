@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIFilePublisher",
+	"category" : "CI-Core-Publishing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writer",
+		"itemId",
+		"htmlResourcesUrl",
+		"additionalParameters"
+	],
+	"name" : "CIHTMLPublisher",
+	"type" : "normal"
+}

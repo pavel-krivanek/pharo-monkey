@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"testCopy" : "monty 9/21/2016 09:17",
+		"testExternalEntityLimits" : "monty 3/22/2016 04:41",
+		"resolverClass" : "monty 3/22/2016 03:51",
+		"newEntityLimits" : "monty 3/22/2016 04:39",
+		"newResolver" : "monty 3/22/2016 04:37",
+		"testMaxExternalEntities" : "monty 6/26/2016 22:56",
+		"testRemoveLimits" : "monty 6/26/2016 22:54",
+		"entityLimitsClass" : "monty 3/22/2016 04:39",
+		"testResolvesLocalFromNonLocal" : "monty 6/26/2016 22:55",
+		"testTotalResolvedExternalEntities" : "monty 4/3/2016 00:46",
+		"testExternalSubsetReadLimit" : "monty 6/26/2016 22:57",
+		"testMaxExternalEntitySize" : "monty 6/26/2016 22:57"
+	},
+	"class" : {
+		"shouldInheritSelectors" : "monty 3/22/2016 04:48"
+	}
+}

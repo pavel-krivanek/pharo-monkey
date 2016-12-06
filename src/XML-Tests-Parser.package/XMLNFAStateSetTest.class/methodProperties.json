@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"disjointSetElements" : "monty 3/29/2016 08:00",
+		"setClass" : "monty 3/29/2016 07:07",
+		"testIsAccepting" : "monty 8/8/2016 19:28",
+		"setElements" : "monty 3/29/2016 08:29",
+		"absentSetElement" : "monty 3/30/2016 01:32"
+	},
+	"class" : {
+		"isAbstract" : "monty 3/29/2016 08:02"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"isStream" : "monty 11/20/2014 01:56",
+		"next" : "monty 11/17/2016 22:34",
+		"close" : "monty 11/17/2016 22:30",
+		"upToEnd" : "monty 11/22/2016 23:44",
+		"peek" : "monty 11/17/2016 22:30",
+		"on:" : "monty 11/18/2016 15:38",
+		"atEnd" : "monty 11/17/2016 22:30",
+		"position:" : "monty 11/25/2016 00:15",
+		"isBinary" : "monty 11/20/2014 02:02",
+		"printOn:" : "monty 4/24/2015 09:03",
+		"reset" : "monty 11/18/2016 15:23",
+		"position" : "monty 11/17/2016 22:30",
+		"contents" : "monty 11/22/2016 23:33",
+		"basicNext" : "monty 11/20/2014 04:18"
+	},
+	"class" : {
+		"on:" : "monty 11/16/2014 04:43"
+	}
+}

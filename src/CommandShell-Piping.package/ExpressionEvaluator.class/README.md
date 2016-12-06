@@ -1,0 +1,1 @@
+I provide a context in which a Smalltalk expression can be evaluated as an element of a command pipeline.

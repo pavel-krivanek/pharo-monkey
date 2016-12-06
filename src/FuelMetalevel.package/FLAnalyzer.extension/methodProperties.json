@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"considerInternalBehavior:" : "MarianoMartinezPeck 5/11/2012 10:54",
+		"fullGlobalMappers" : "MartinDias 2/22/2013 12:58",
+		"considerInternalAllMethods:" : "MarianoMartinezPeck 5/11/2012 10:43",
+		"useFullMappers" : "MartinDias 12/31/2011 00:13",
+		"considerInternalMethod:" : "MarianoMartinezPeck 5/11/2012 10:46",
+		"considerInternalAllBehaviors:" : "MarianoMartinezPeck 5/11/2012 10:53",
+		"reusableFullGlobalMappers" : "MarianoMartinezPeck 8/1/2012 11:19",
+		"useReusableFullMappers" : "MarianoMartinezPeck 8/1/2012 11:19",
+		"reuseFullGlobalMappers:withInternalBehaviors:internalMethods:" : "MarianoMartinezPeck 7/30/2012 22:36"
+	},
+	"class" : { }
+}

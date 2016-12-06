@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"xmlnsDeclarations:" : "monty 9/18/2015 21:26",
+		"xmlnsAt:put:" : "monty 9/18/2015 21:26",
+		"attributes" : "monty 9/18/2015 21:26",
+		"includesXMLNS:" : "monty 9/18/2015 21:27",
+		"xmlns" : "monty 9/18/2015 21:27",
+		"setXMLNSDeclarations:" : "monty 9/18/2015 21:26",
+		"hasXMLNSDeclarations" : "monty 9/18/2015 21:48",
+		"attributeAt:ifAbsent:" : "monty 9/18/2015 21:26",
+		"xmlnsAt:" : "monty 9/18/2015 21:26",
+		"includesAttribute:" : "monty 9/18/2015 21:26",
+		"writeBody" : "monty 11/30/2016 19:56",
+		"attributeAt:ifAbsentPut:" : "monty 9/18/2015 21:26",
+		"attributeAt:put:" : "monty 9/18/2015 21:26",
+		"xmlnsAt:ifAbsent:" : "monty 9/18/2015 21:26",
+		"writeEpilogue" : "monty 9/18/2015 22:03",
+		"attributes:" : "monty 9/18/2015 21:26",
+		"hasAttributes" : "monty 9/19/2015 02:13",
+		"writePrologue" : "monty 9/18/2015 22:03",
+		"setAttributes:" : "monty 9/18/2015 21:26",
+		"xmlnsAt:ifAbsentPut:" : "monty 9/18/2015 21:26",
+		"xmlnsDeclarations" : "monty 9/18/2015 21:26",
+		"attributeAt:" : "monty 9/18/2015 21:26",
+		"xmlns:" : "monty 9/18/2015 21:27"
+	},
+	"class" : { }
+}

@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"isParameter" : "monty 10/25/2016 04:21",
+		"replacement" : "monty 10/25/2016 06:39",
+		"asReference" : "monty 10/25/2016 06:55",
+		"name" : "monty 10/25/2016 04:21",
+		"replacementStream" : "monty 10/25/2016 06:39",
+		"asPushedBackEntity" : "monty 10/26/2016 03:03",
+		"uri" : "monty 10/25/2016 04:21",
+		"poppedByTokenizer:" : "monty 10/26/2016 03:02",
+		"printOn:" : "monty 11/4/2016 08:03",
+		"isStandaloneExternal" : "monty 11/1/2016 22:56",
+		"isExternal" : "monty 10/25/2016 06:38",
+		"entity" : "monty 10/29/2016 03:52",
+		"entity:" : "monty 10/26/2016 03:03",
+		"hasReplacement" : "monty 10/25/2016 06:39",
+		"isUnparsed" : "monty 10/25/2016 06:39"
+	},
+	"class" : {
+		"entity:" : "monty 10/26/2016 03:03"
+	}
+}

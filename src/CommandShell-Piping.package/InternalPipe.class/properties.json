@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Stream",
+	"category" : "CommandShell-Piping",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queue",
+		"writerClosed",
+		"nonBlockingMode"
+	],
+	"name" : "InternalPipe",
+	"type" : "normal"
+}

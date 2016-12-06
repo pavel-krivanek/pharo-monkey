@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "dtl 9/7/2009 12:36",
+	"super" : "Object",
+	"category" : "CommandShell-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cwdDictionary",
+		"cwdIndex"
+	],
+	"name" : "ShellSyntax",
+	"type" : "normal"
+}

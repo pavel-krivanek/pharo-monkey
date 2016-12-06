@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"isActive" : "jf 2/22/2004 18:13",
+		"lock" : "dtl 5/8/2006 06:52",
+		"exclusive" : "jf 2/22/2004 16:00",
+		"unlock" : "dtl 5/8/2006 06:58",
+		"offset" : "jf 2/22/2004 18:02",
+		"onFile:exclusive:" : "jf 2/22/2004 16:02",
+		"overlaps:" : "jf 2/22/2004 16:31",
+		"fileStream:" : "jf 2/22/2004 16:00",
+		"isExclusive" : "jf 2/22/2004 16:01",
+		"length" : "jf 2/22/2004 18:07",
+		"test" : "dtl 5/8/2006 07:00",
+		"unlockIfFail:" : "dtl 5/8/2006 06:57",
+		"fileStream" : "jf 2/22/2004 16:00",
+		"hash" : "jf 2/22/2004 18:32",
+		"conflictsWith:" : "jf 2/22/2004 16:38",
+		"lockIfFail:" : "dtl 5/8/2006 06:57",
+		"=" : "dtl 11/28/2010 09:18",
+		"overlapsRegion:" : "jf 2/22/2004 16:35",
+		"exclusive:" : "jf 2/22/2004 16:00"
+	},
+	"class" : {
+		"onFile:exclusive:" : "jf 2/22/2004 17:35"
+	}
+}

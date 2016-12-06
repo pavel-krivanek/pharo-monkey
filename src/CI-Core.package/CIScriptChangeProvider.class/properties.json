@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "BenjaminVanRyseghem 3/5/2014 16:50",
+	"super" : "CIAbstractChangeProvider",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"script"
+	],
+	"name" : "CIScriptChangeProvider",
+	"type" : "normal"
+}

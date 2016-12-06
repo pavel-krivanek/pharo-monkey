@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"nodeClass" : "monty 11/2/2014 11:17",
+		"testWriteXMLOn" : "monty 8/27/2016 17:20",
+		"testIsCData" : "monty 8/27/2016 17:20",
+		"testAcceptNodeVisitor" : "monty 8/27/2016 17:20"
+	},
+	"class" : { }
+}

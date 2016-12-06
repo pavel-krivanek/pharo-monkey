@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"critical:" : "monty 10/5/2016 22:15"
+	},
+	"class" : {
+		"errorNoSupportedImplementation" : "monty 10/5/2016 22:16",
+		"preferredImplementation" : "monty 10/5/2016 22:23"
+	}
+}

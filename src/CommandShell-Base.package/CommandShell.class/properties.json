@@ -1,0 +1,30 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "CommandShell-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"outputStream",
+		"errorStream",
+		"shellSyntax",
+		"environment",
+		"builtinCommands",
+		"commandHistory",
+		"historyIndex",
+		"promptString",
+		"promptStringTwo",
+		"foregroundProxies",
+		"backgroundProxies",
+		"backgroundPipelines",
+		"commandLineProcesses",
+		"backgroundMessageQueue",
+		"keyboardConnector",
+		"activeController",
+		"safeToExit",
+		"readSyncSemaphore"
+	],
+	"name" : "CommandShell",
+	"type" : "normal"
+}

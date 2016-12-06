@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"shouldContinueValidationWith:" : "CamilloBruni 4/20/2013 23:44",
+		"validate" : "CamilloBruni 5/11/2013 22:33",
+		"initialize" : "CamilloBruni 4/20/2013 20:32",
+		"rules:" : "CamilloBruni 11/18/2013 16:29",
+		"add:" : "CamilloBruni 4/20/2013 20:32",
+		"addAll:" : "ErwanDouaille 5/28/2013 11:04",
+		"rules" : "ErwanDouaille 5/28/2013 13:47"
+	},
+	"class" : {
+		"with:withRules:" : "ErwanDouaille 5/28/2013 11:07",
+		"with:" : "CamilloBruni 4/20/2013 23:24",
+		"with:with:" : "CamilloBruni 4/20/2013 23:24"
+	}
+}

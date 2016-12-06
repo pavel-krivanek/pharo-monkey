@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"newFileHandleWithSuffix:" : "monty 9/19/2016 13:58",
+		"createFileWithContents:forHandle:" : "monty 9/18/2016 16:36",
+		"createFileForHandle:" : "monty 9/19/2016 10:05",
+		"newFileHandle" : "monty 9/18/2016 15:56",
+		"fileSuffix" : "monty 9/18/2016 15:52",
+		"createFileWithContentsForHandle:" : "monty 9/18/2016 16:36",
+		"newUniqueFileName" : "monty 9/18/2016 15:57",
+		"setStreamConverter:fileContents:fileSuffix:" : "monty 9/18/2016 16:16",
+		"streamConverter" : "monty 9/18/2016 16:15",
+		"newFileHandleDo:" : "monty 9/18/2016 15:57",
+		"newFileHandleWithSuffix:do:" : "monty 9/18/2016 15:56",
+		"fileContents" : "monty 9/18/2016 15:43",
+		"newUniqueFileNameWithSuffix:" : "monty 9/19/2016 13:58",
+		"uniqueFileNames" : "monty 9/18/2016 15:33"
+	},
+	"class" : {
+		"streamConverter:fileContents:fileSuffix:" : "monty 9/18/2016 16:16"
+	}
+}

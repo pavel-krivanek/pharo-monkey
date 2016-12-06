@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"maxDFAStateTransitions" : "monty 4/22/2015 14:51",
+		"dfaStateTransitions" : "monty 4/22/2015 14:52",
+		"nextDFAStateMatching:" : "monty 11/13/2015 04:17",
+		"removeDFAStateTransitions" : "monty 4/22/2015 14:52",
+		"nfaStates" : "monty 12/29/2013 01:10",
+		"nfaStatesDo:" : "monty 11/10/2015 22:36",
+		"setNFAStates:dfaStateCache:" : "monty 10/31/2015 19:21",
+		"hasNonDeterminism:" : "monty 10/31/2015 19:21",
+		"printOn:" : "monty 4/22/2015 11:17",
+		"addDFAStateTransitionMatching:" : "monty 2/19/2016 11:17",
+		"isAccepting" : "monty 12/28/2013 18:54",
+		"dfaStateCache" : "monty 4/22/2015 09:27",
+		"hasNonDeterminism" : "monty 10/31/2015 19:21",
+		"nextDFAStateMatching:ifNone:" : "monty 2/19/2016 11:03"
+	},
+	"class" : {
+		"nfaStates:" : "monty 3/21/2015 23:18",
+		"nfaStates:dfaStateCache:" : "monty 3/21/2015 23:18"
+	}
+}

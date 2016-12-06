@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"isNotationEnumeration" : "monty 11/15/2016 13:00",
+		"validateAttributeDeclaration" : "monty 11/16/2016 12:06",
+		"validateXMLSpaceAttributeDeclaration" : "monty 11/15/2016 12:23",
+		"initializeWithValidatorsFrom:" : "monty 11/12/2016 17:04",
+		"unparsedEntityValidator" : "monty 11/11/2016 06:09"
+	},
+	"class" : {
+		"standaloneExternalClass" : "monty 11/1/2016 08:56"
+	}
+}

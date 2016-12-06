@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"environment" : "dtl 2/22/2002 22:02",
+		"getEnvironmentDictionary" : "dtl 2/22/2002 22:00",
+		"activeHandles" : "dtl 2/26/2002 16:08",
+		"initialize" : "dtl 8/25/2010 20:49",
+		"refreshFromProcessAccessor" : "dtl 9/7/2002 20:47",
+		"closeConsole" : "dtl 9/7/2002 20:57",
+		"getCwd" : "dtl 1/24/2013 19:23",
+		"setStdOut" : "dtl 9/7/2002 20:55",
+		"setStdIn" : "dtl 9/7/2002 20:55",
+		"path" : "dtl 9/25/2005 05:11",
+		"command:" : "dtl 2/28/2002 14:48",
+		"pid" : "dtl 2/22/2002 16:43",
+		"isResponsibleForThisPlatform" : "dtl 8/30/2003 17:50",
+		"forkAndExec:arguments:environment:descriptors:" : "dtl 10/18/2001 20:19",
+		"processHandle" : "dtl 2/28/2002 07:26",
+		"resetThreads" : "dtl 2/28/2002 07:16",
+		"setStdErr" : "dtl 9/7/2002 20:55",
+		"environmentAt:" : "DamienCassou 5/3/2012 11:53",
+		"restartChildWatcherThread" : "dtl 1/13/2007 09:49",
+		"openConsole" : "dtl 9/7/2002 20:57",
+		"mainThread" : "dtl 2/28/2002 07:15",
+		"updateActiveChildren" : "dtl 2/28/2002 08:17",
+		"registerChildProcess:" : "dtl 2/5/2015 20:06",
+		"threads" : "dtl 2/28/2002 08:04",
+		"update:" : "dtl 2/25/2002 08:29",
+		"waitForCommand:" : "dtl 11/24/2008 17:47",
+		"environmentAt:put:" : "DamienCassou 5/3/2012 11:53"
+	},
+	"class" : {
+		"isResponsibleForThisPlatform" : "dtl 8/30/2003 17:50"
+	}
+}

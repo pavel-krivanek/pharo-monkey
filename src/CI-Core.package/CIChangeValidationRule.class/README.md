@@ -1,0 +1,1 @@
+A CIChangeValidationRule is an abstract which provides default behavior to test if changes are well defined.

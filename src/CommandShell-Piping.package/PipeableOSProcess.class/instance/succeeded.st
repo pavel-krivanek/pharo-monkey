@@ -1,0 +1,4 @@
+testing
+succeeded
+
+	^ processProxy succeeded

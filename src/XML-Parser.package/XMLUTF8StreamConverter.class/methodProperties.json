@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"nextPut:toStream:" : "monty 3/8/2016 16:21",
+		"nextFromStream:" : "monty 3/9/2016 09:04"
+	},
+	"class" : {
+		"byteOrderMarkBytes" : "monty 11/11/2014 21:55",
+		"basicEncodingNames" : "monty 4/24/2015 11:12"
+	}
+}

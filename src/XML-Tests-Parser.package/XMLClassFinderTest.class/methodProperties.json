@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"presentClassName" : "monty 9/27/2016 13:18",
+		"testHasClassNamed" : "monty 9/27/2016 13:21",
+		"testClassNamed" : "monty 9/27/2016 13:20",
+		"presentClass" : "monty 9/27/2016 13:19",
+		"classFinder" : "monty 9/27/2016 13:17",
+		"testClassNamedIfPresent" : "monty 10/20/2016 02:18",
+		"absentClassName" : "monty 9/27/2016 13:18",
+		"testClassNamedIfAbsent" : "monty 9/27/2016 13:20"
+	},
+	"class" : { }
+}

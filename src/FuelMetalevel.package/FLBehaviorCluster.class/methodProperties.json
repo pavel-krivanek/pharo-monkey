@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"serializeReferencesStepWith:" : "MartinDias 12/29/2011 19:43",
+		"registerIndexesOn:" : "MaxLeske 3/10/2016 22:03",
+		"afterMaterializationStepWith:" : "MartinDias 12/29/2011 19:48",
+		"serializePostInstancesStepWith:" : "MartinDias 12/29/2011 19:43",
+		"serializeReferencesOf:with:" : "MartinDias 12/29/2011 19:43",
+		"serializeLayout:with:" : "MarianoMartinezPeck 2/25/2016 18:43",
+		"materializePostInstancesStepWith:" : "MartinDias 12/29/2011 19:48",
+		"installLayout:withVariableNames:into:" : "MaxLeske 3/10/2016 19:16",
+		"serializePostInstance:with:" : "MartinDias 12/29/2011 19:43",
+		"materializeReferencesStepWith:" : "MartinDias 12/29/2011 19:48",
+		"materializeReferencesOf:with:" : "MartinDias 12/29/2011 19:48",
+		"referencesOf:do:" : "MartinDias 7/30/2011 20:17",
+		"materializeLayoutWith:" : "MarianoMartinezPeck 2/25/2016 18:33",
+		"materializePostInstance:with:" : "MartinDias 12/29/2011 19:48"
+	},
+	"class" : { }
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"setLeftBranch:rightBranch:" : "monty 12/28/2013 00:45",
+		"connectToState:" : "monty 12/27/2013 23:45",
+		"addTo:" : "monty 12/29/2013 01:10",
+		"printOn:" : "monty 4/25/2015 23:09"
+	},
+	"class" : {
+		"leftBranch:rightBranch:" : "monty 12/27/2013 22:04",
+		"branch:" : "monty 12/27/2013 23:43"
+	}
+}

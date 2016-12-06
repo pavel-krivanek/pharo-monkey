@@ -1,0 +1,3 @@
+private
+signalChangeNotFound
+	ChangeNotFound signalChange: self

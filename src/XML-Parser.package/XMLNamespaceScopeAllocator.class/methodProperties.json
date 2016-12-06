@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"scopes" : "monty 10/30/2014 12:26",
+		"enterScope" : "monty 10/30/2014 12:27",
+		"currentScope" : "monty 4/1/2016 00:56",
+		"exitScope" : "monty 10/30/2014 12:27",
+		"initialize" : "monty 10/27/2014 09:21",
+		"currentScope:" : "monty 10/30/2014 12:27",
+		"hasCurentScope" : "monty 4/24/2015 15:29",
+		"emptyScope" : "JAAyer 3/13/2010 13:44",
+		"printOn:" : "monty 4/25/2015 15:22"
+	},
+	"class" : { }
+}

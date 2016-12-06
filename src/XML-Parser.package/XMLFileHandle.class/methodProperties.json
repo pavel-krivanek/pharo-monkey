@@ -1,0 +1,41 @@
+{
+	"instance" : {
+		"streamGetUpToLimit:decoding:" : "monty 9/16/2016 15:40",
+		"writeStreamDo:" : "monty 10/3/2016 22:07",
+		"writeStream" : "monty 10/3/2016 22:07",
+		"get" : "monty 11/29/2015 22:40",
+		"contents" : "monty 11/18/2016 18:36",
+		"basicFileSize" : "monty 9/19/2016 07:55",
+		"path" : "monty 1/9/2014 04:34",
+		"extension" : "monty 7/6/2016 06:31",
+		"newFileWriteStreamOnPath" : "monty 3/13/2016 21:08",
+		"delete" : "monty 3/13/2016 22:39",
+		"rawReadStream" : "monty 3/13/2016 22:39",
+		"isXMLDocumentFile" : "monty 9/28/2016 22:12",
+		"size" : "monty 9/16/2016 15:45",
+		"readStream" : "monty 11/19/2016 19:12",
+		"basicDelete" : "monty 3/13/2016 21:33",
+		"errorFileExceedsMaxSize:" : "monty 3/19/2016 19:11",
+		"exists" : "monty 3/13/2016 00:31",
+		"newFileReadStreamOnPath" : "monty 3/13/2016 21:08",
+		"asXMLFileHandle" : "monty 2/2/2016 17:36",
+		"readStreamDo:" : "monty 10/3/2016 22:07",
+		"errorFileDoesNotExist" : "monty 3/13/2016 22:39",
+		"isFile" : "monty 3/13/2016 00:31",
+		"getUpToLimit:decoding:" : "monty 11/18/2016 18:36",
+		"printOn:" : "monty 3/12/2016 19:28",
+		"errorNotAFile" : "monty 3/12/2016 19:28",
+		"rawWriteStream" : "monty 3/13/2016 21:08",
+		"path:" : "monty 3/14/2016 00:07",
+		"streamGet" : "monty 11/29/2015 22:40"
+	},
+	"class" : {
+		"preferredImplementation" : "monty 10/25/2014 18:56",
+		"errorNoSupportedImplementation" : "monty 3/4/2016 16:27",
+		"xmlDocumentFileExtensions" : "monty 10/9/2016 03:33",
+		"basicCurrentWorkingDirectory" : "monty 3/13/2016 21:17",
+		"currentWorkingDirectory" : "monty 3/13/2016 23:21",
+		"path:" : "monty 3/14/2016 00:07",
+		"xmlDocumentFileExtensions:" : "monty 10/9/2016 17:10"
+	}
+}

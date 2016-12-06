@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CI-FogBugzAPI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"attachements",
+		"description",
+		"comment",
+		"changes",
+		"date",
+		"case",
+		"user"
+	],
+	"name" : "FogBugzEvent",
+	"type" : "normal"
+}

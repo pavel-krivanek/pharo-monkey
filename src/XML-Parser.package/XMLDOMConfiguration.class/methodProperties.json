@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"preservesCommentNodes:" : "JAAyer 11/23/2010 14:08",
+		"nodeFactory" : "monty 3/12/2015 13:50",
+		"nodeFactory:" : "JAAyer 11/23/2010 14:10",
+		"isValidating:" : "monty 4/20/2016 13:32",
+		"defaultNodeFactoryClass" : "monty 7/13/2015 13:10",
+		"attributeListClass:" : "monty 9/2/2016 14:01",
+		"defaultParserHandlerClass" : "monty 3/17/2015 16:54",
+		"initialize" : "monty 7/13/2015 13:10",
+		"postCopy" : "monty 6/19/2015 20:31",
+		"preservesCDataNodes" : "monty 3/12/2015 13:45",
+		"attributeListClass" : "monty 9/2/2016 14:00",
+		"nodeListClass:" : "monty 4/17/2015 10:53",
+		"preservesCommentNodes" : "monty 3/12/2015 13:45",
+		"preservesIgnorableWhitespace" : "monty 3/12/2015 13:45",
+		"preservesIgnorableWhitespace:" : "monty 4/21/2016 07:36",
+		"nodeListClass" : "monty 4/17/2015 10:42",
+		"preservesCDataNodes:" : "JAAyer 11/23/2010 14:08"
+	},
+	"class" : { }
+}

@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"setDriver:tokenizer:" : "JAAyer 11/28/2010 07:09",
+		"currentPosition" : "monty 3/18/2016 02:20",
+		"parseToken" : "monty 11/24/2014 19:31",
+		"atEnd" : "JAAyer 11/27/2010 07:17",
+		"baseURI" : "monty 11/23/2016 17:07",
+		"driver" : "JAAyer 11/28/2010 07:07",
+		"context:" : "monty 5/3/2015 17:08",
+		"tokenizer" : "JAAyer 11/27/2010 07:16",
+		"parseDocument" : "monty 11/24/2014 19:31",
+		"currentLineNumber" : "monty 11/14/2013 23:34",
+		"context" : "monty 5/3/2015 16:55",
+		"currentColumnNumber" : "monty 3/18/2016 01:47",
+		"parseDocumentWhile:" : "monty 11/24/2014 19:31",
+		"handleParserError:" : "monty 11/23/2016 17:08",
+		"parseDocumentUntil:" : "monty 11/26/2014 21:27"
+	},
+	"class" : {
+		"driver:on:" : "monty 3/26/2016 23:49"
+	}
+}

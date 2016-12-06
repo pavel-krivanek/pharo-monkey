@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"validateChangeBlock:" : "CamilloBruni 11/18/2013 17:23",
+		"basicValidate" : "CamilloBruni 5/11/2013 20:17",
+		"recordValidationChangesDuring:" : "CamilloBruni 11/18/2013 17:23",
+		"preLoadValidate" : "CamilloBruni 5/11/2013 20:17",
+		"postLoadValidate" : "CamilloBruni 11/1/2013 15:47",
+		"removeFalsePositives" : "CamilloBruni 11/21/2013 19:31",
+		"loadTime" : "CamilloBruni 4/25/2013 22:26",
+		"environmentCopy" : "CamilloBruni 4/29/2013 21:16",
+		"removeFalsePositives:from:" : "CamilloBruni 4/29/2013 21:04",
+		"falsePositives:includesResult:" : "CamilloBruni 4/29/2013 21:10",
+		"validate" : "CamilloBruni 10/30/2013 14:39",
+		"remoteValidate" : "CamilloBruni 9/5/2013 22:31",
+		"recordEnvironmentChangeDuring:" : "CamilloBruni 8/29/2013 01:52"
+	},
+	"class" : { }
+}

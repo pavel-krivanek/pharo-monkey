@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"streamConverterClass" : "monty 2/11/2016 08:41",
+		"inputCollection" : "monty 2/11/2016 22:17",
+		"outputCollection" : "monty 2/11/2016 08:41",
+		"streamAdapterClass" : "monty 3/5/2016 12:38"
+	},
+	"class" : { }
+}

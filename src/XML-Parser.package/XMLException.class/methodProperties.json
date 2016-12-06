@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"messageTextAppend:" : "monty 11/23/2016 17:17",
+		"messageTextAppend:withDescription:" : "monty 11/23/2016 17:17"
+	},
+	"class" : {
+		"signalMessageFrom:" : "monty 12/3/2015 05:31",
+		"formatSignal:withArguments:" : "monty 7/3/2016 18:38",
+		"formatSignal:with:" : "monty 7/3/2016 18:38",
+		"formatSignal:with:with:" : "monty 7/3/2016 18:38",
+		"formatSignal:with:with:with:" : "monty 7/3/2016 18:38",
+		"formatSignal:with:with:with:with:" : "monty 7/3/2016 18:38"
+	}
+}

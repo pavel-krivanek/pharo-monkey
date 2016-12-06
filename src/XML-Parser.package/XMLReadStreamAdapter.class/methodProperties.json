@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"skipSeparators" : "monty 3/12/2016 19:15",
+		"next" : "monty 2/11/2016 03:24",
+		"upTo:" : "monty 3/18/2016 23:08",
+		"upToEnd" : "monty 2/9/2016 20:49",
+		"newWriteStream" : "monty 2/10/2016 20:04",
+		"peekFor:" : "monty 2/10/2016 19:01",
+		"peek" : "monty 2/11/2016 03:25",
+		"atEnd" : "monty 2/11/2016 03:22",
+		"skip:" : "monty 2/14/2016 02:06",
+		"skipTo:" : "monty 2/10/2016 19:01",
+		"position:" : "monty 11/17/2016 15:24",
+		"writeStreamCollectionClass" : "monty 2/11/2016 03:23",
+		"reset" : "monty 11/17/2016 15:24",
+		"position" : "monty 11/17/2016 15:23",
+		"contents" : "monty 11/17/2016 15:45",
+		"next:" : "monty 4/5/2016 03:10",
+		"basicNext" : "monty 2/11/2016 03:26"
+	},
+	"class" : { }
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testIsXMLWhitespace" : "monty 3/12/2016 19:13",
+		"testXMLSplit" : "monty 3/14/2016 00:25",
+		"testIsXMLChar" : "monty 6/28/2016 23:20",
+		"testIsXMLSeparator" : "monty 3/12/2016 19:13",
+		"nonChars" : "monty 6/28/2016 23:20"
+	},
+	"class" : {
+		"nonChars" : "monty 3/25/2016 02:21"
+	}
+}

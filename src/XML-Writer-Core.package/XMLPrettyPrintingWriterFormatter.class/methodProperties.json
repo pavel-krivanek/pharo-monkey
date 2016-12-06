@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"formatBeforeDoctypeDeclaration:" : "monty 12/1/2014 23:43",
+		"formatBeforeStartTag:" : "monty 12/1/2014 23:50",
+		"formatAfterInternalSubset:" : "monty 12/1/2014 23:43",
+		"formatBeforeComment:" : "monty 12/1/2014 23:39",
+		"formatBeforePI:" : "monty 5/8/2015 04:12",
+		"formatAfterStartTag:" : "monty 12/1/2014 23:33",
+		"formatBeforeInternalSubset:" : "monty 12/1/2014 23:46",
+		"formatBeforeDeclaration:" : "monty 12/1/2014 23:40",
+		"formatAfterDoctypeDeclaration:" : "monty 12/1/2014 23:45",
+		"formatBeforeEntityReference:" : "monty 12/2/2014 00:36",
+		"formatBeforeEndTag:" : "monty 12/1/2014 23:33"
+	},
+	"class" : { }
+}

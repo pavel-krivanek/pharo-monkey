@@ -1,0 +1,4 @@
+testing
+isComplete
+
+	^ processProxy isComplete

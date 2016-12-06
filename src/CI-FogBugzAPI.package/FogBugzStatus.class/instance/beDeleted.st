@@ -1,0 +1,3 @@
+accessing
+beDeleted
+	deleted := true

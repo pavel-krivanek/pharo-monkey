@@ -1,0 +1,38 @@
+{
+	"instance" : {
+		"startDocument" : "monty 6/24/2016 23:45",
+		"endElement:" : "monty 6/24/2016 23:45",
+		"notationDeclaration:publicID:systemID:" : "monty 6/24/2016 23:45",
+		"endDTD" : "monty 6/24/2016 23:45",
+		"parameterEntityDeclaration:replacement:" : "monty 6/24/2016 23:45",
+		"wasSentSelector:" : "monty 6/27/2016 21:02",
+		"endCData" : "monty 6/24/2016 23:45",
+		"processingInstruction:data:" : "monty 6/24/2016 23:45",
+		"endEntity:" : "monty 6/24/2016 23:45",
+		"startElement:attributes:" : "monty 6/24/2016 23:45",
+		"comment:" : "monty 6/24/2016 23:45",
+		"ignorableWhitespace:" : "monty 6/24/2016 23:45",
+		"endDocument" : "monty 6/24/2016 23:45",
+		"attributeDeclaration:name:type:defaultPragma:defaultValue:" : "monty 6/24/2016 23:45",
+		"messageRecorder" : "monty 4/12/2015 08:04",
+		"startEntity:" : "monty 6/24/2016 23:45",
+		"allSentSelectors" : "monty 6/24/2016 23:35",
+		"startCData" : "monty 6/24/2016 23:45",
+		"parameterEntityDeclaration:publicID:systemID:" : "monty 6/24/2016 23:45",
+		"characters:" : "monty 6/24/2016 23:45",
+		"argumentsSentWith:" : "monty 6/24/2016 23:35",
+		"elementDeclaration:contentModel:" : "monty 6/24/2016 23:45",
+		"generalEntityDeclaration:publicID:systemID:ndata:" : "monty 6/24/2016 23:45",
+		"generalEntityDeclaration:replacement:" : "monty 6/24/2016 23:45",
+		"wasSentSelectors:" : "monty 6/24/2016 23:35",
+		"xmlVersion:encoding:standalone:" : "monty 6/24/2016 23:45",
+		"startPrefixMapping:uri:" : "monty 6/24/2016 23:45",
+		"allSentMessagesNamed:" : "monty 6/24/2016 23:34",
+		"skippedEntity:" : "monty 6/24/2016 23:45",
+		"endPrefixMapping:" : "monty 6/24/2016 23:45",
+		"startDTD:publicID:systemID:" : "monty 6/24/2016 23:45"
+	},
+	"class" : {
+		"generateRecordingHandlerMethods" : "monty 6/24/2016 23:45"
+	}
+}

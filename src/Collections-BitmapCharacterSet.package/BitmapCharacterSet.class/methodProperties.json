@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"removeAll" : "monty 3/10/2016 14:12",
+		"remove:ifAbsent:" : "monty 3/21/2016 15:29",
+		"hasWideCharacters" : "monty 3/10/2016 12:24",
+		"maxWideCharactersSize" : "monty 3/17/2016 15:37",
+		"removeRangeFrom:to:" : "monty 3/16/2016 01:48",
+		"postCopy" : "JAAyer 1/20/2011 01:05",
+		"size" : "JAAyer 1/21/2011 17:29",
+		"add:" : "monty 3/21/2016 15:28",
+		"capacity" : "Anonymous 11/12/2013 00:32",
+		"do:" : "monty 3/10/2016 12:22",
+		"byteCharacters" : "monty 4/5/2015 23:43",
+		"addRangeFrom:to:" : "monty 3/16/2016 01:48",
+		"complement" : "monty 3/23/2016 17:50",
+		"wideCharacters" : "monty 4/5/2015 23:43",
+		"," : "monty 10/24/2016 06:07",
+		"includesRangeFrom:to:" : "monty 3/16/2016 01:48",
+		"wideCharactersDo:" : "monty 3/21/2016 15:25",
+		"byteCharactersDo:" : "monty 3/10/2016 14:10",
+		"includes:" : "monty 3/21/2016 15:28",
+		"copyEmpty" : "monty 10/24/2016 06:07",
+		"growWideCharacterBitmapTo:" : "monty 3/10/2016 10:28",
+		"hash" : "monty 3/29/2016 06:43",
+		"=" : "monty 3/29/2016 06:45",
+		"initialize:" : "monty 3/17/2016 15:36"
+	},
+	"class" : {
+		"inspectorClass" : "monty 4/19/2015 15:41",
+		"new" : "JAAyer 1/19/2011 23:03",
+		"new:" : "JAAyer 1/19/2011 23:04",
+		"newFrom:" : "monty 3/16/2016 01:32"
+	}
+}

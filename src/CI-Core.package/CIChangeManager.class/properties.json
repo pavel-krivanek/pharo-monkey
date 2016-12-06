@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"validator",
+		"publisher",
+		"changeProvider"
+	],
+	"name" : "CIChangeManager",
+	"type" : "normal"
+}

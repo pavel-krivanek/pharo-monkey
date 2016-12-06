@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"testCopy" : "monty 9/21/2016 23:02",
+		"testMapElementToClass" : "monty 8/15/2016 15:06",
+		"testClassForElementNamespaceURILocalNameAttributesIfNone" : "monty 9/19/2016 11:11",
+		"testMapElementAttributeSpecToClass" : "monty 8/15/2016 15:04",
+		"testClassForElementNamespaceURIAttributes" : "monty 8/12/2016 21:09",
+		"mapperClass" : "monty 8/26/2016 02:16",
+		"testClassForElementNamespaceURIAttributesIfNone" : "monty 9/19/2016 11:11",
+		"testMapElementNamespaceURIAttributeSpecToClass" : "monty 8/15/2016 15:05",
+		"testClassForElementNamespaceURI" : "monty 8/12/2016 21:07",
+		"testClassForElementNamespaceURIIfNone" : "monty 9/19/2016 11:11",
+		"testClassForElementAttributes" : "monty 8/12/2016 21:00",
+		"testClassForElementNamespaceURILocalNameAttributes" : "monty 8/12/2016 21:22",
+		"testMapElementNamespaceURIToClass" : "monty 8/15/2016 15:05",
+		"testClassForElementIfNone" : "monty 9/19/2016 11:10",
+		"testClassForElementAttributesIfNone" : "monty 9/19/2016 11:23",
+		"testClassForElement" : "monty 8/12/2016 20:57"
+	},
+	"class" : { }
+}

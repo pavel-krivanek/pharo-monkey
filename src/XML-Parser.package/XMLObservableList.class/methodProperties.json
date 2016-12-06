@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"addFirst:" : "monty 8/28/2016 06:48",
+		"addLast:" : "monty 8/28/2016 06:48",
+		"observer" : "monty 10/18/2014 00:50",
+		"afterAddingLast:" : "monty 1/21/2015 12:26",
+		"duplicateIndexOf:notAt:" : "monty 9/5/2016 23:43",
+		"remove:ifAbsent:" : "monty 1/21/2015 10:00",
+		"at:put:" : "monty 8/28/2016 06:48",
+		"add:before:" : "monty 1/21/2015 14:53",
+		"add:after:" : "monty 1/21/2015 14:53",
+		"reset" : "monty 1/21/2015 09:55",
+		"add:afterIndex:" : "monty 8/28/2016 06:48",
+		"afterRemoving:" : "monty 8/31/2016 06:39",
+		"afterAdding:at:" : "monty 8/31/2016 06:39",
+		"observer:" : "monty 10/18/2014 00:50",
+		"add:beforeIndex:" : "monty 8/28/2016 06:48",
+		"removeAt:" : "monty 5/25/2015 20:50",
+		"removeDuplicateOf:notAt:" : "monty 9/6/2016 00:41"
+	},
+	"class" : {
+		"ofSize:" : "monty 1/17/2015 11:52",
+		"observer:" : "monty 7/15/2016 07:35"
+	}
+}

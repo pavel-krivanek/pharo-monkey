@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIAbstractChangeProvider",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"url"
+	],
+	"name" : "CIAbstractMonticelloChangeProvider",
+	"type" : "normal"
+}

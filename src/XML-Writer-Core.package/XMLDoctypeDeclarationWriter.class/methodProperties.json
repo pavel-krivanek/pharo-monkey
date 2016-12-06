@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"systemID:" : "monty 3/21/2015 22:47",
+		"writeEmbeddedMarkupPrologue" : "monty 11/21/2016 00:44",
+		"isOmittable" : "monty 11/21/2016 00:49",
+		"isExternalIDOmittable" : "monty 11/21/2016 01:37",
+		"publicID" : "JAAyer 7/27/2010 08:20",
+		"root" : "JAAyer 7/26/2010 14:52",
+		"writePrologue" : "monty 11/21/2016 01:23",
+		"isDoctypeDeclarationWriter" : "monty 11/9/2016 11:59",
+		"root:" : "JAAyer 7/26/2010 14:52",
+		"writeEpilogue" : "monty 11/21/2016 00:44",
+		"writeBody:" : "monty 11/21/2016 00:44",
+		"externalIDWriter" : "monty 3/21/2015 22:54",
+		"publicID:" : "monty 3/21/2015 22:47",
+		"systemID" : "JAAyer 7/27/2010 08:20",
+		"withInternalSubset:" : "monty 6/15/2015 01:10"
+	},
+	"class" : { }
+}

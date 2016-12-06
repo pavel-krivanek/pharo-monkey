@@ -1,0 +1,38 @@
+{
+	"instance" : {
+		"interruptOn:" : "monty 6/26/2016 00:06",
+		"startDocument" : "monty 6/26/2016 00:16",
+		"endElement:" : "monty 6/26/2016 00:16",
+		"notationDeclaration:publicID:systemID:" : "monty 6/26/2016 00:16",
+		"endElement:prefix:uri:localName:" : "monty 6/26/2016 00:16",
+		"endDTD" : "monty 6/26/2016 00:16",
+		"parameterEntityDeclaration:replacement:" : "monty 6/26/2016 00:16",
+		"endCData" : "monty 6/26/2016 00:16",
+		"processingInstruction:data:" : "monty 6/26/2016 00:16",
+		"endEntity:" : "monty 6/26/2016 00:16",
+		"startElement:attributes:" : "monty 6/26/2016 00:16",
+		"comment:" : "monty 6/26/2016 00:16",
+		"ignorableWhitespace:" : "monty 6/26/2016 00:16",
+		"endDocument" : "monty 6/26/2016 00:16",
+		"attributeDeclaration:name:type:defaultPragma:defaultValue:" : "monty 6/26/2016 00:16",
+		"endElement:prefix:uri:" : "monty 6/26/2016 00:16",
+		"interruptOn" : "monty 6/26/2016 00:03",
+		"startEntity:" : "monty 6/26/2016 00:16",
+		"startCData" : "monty 6/26/2016 00:16",
+		"parameterEntityDeclaration:publicID:systemID:" : "monty 6/26/2016 00:16",
+		"characters:" : "monty 6/26/2016 00:16",
+		"startElement:prefix:uri:localName:attributes:" : "monty 6/26/2016 00:16",
+		"elementDeclaration:contentModel:" : "monty 6/26/2016 00:16",
+		"generalEntityDeclaration:publicID:systemID:ndata:" : "monty 6/26/2016 00:16",
+		"generalEntityDeclaration:replacement:" : "monty 6/26/2016 00:16",
+		"startElement:prefix:uri:attributes:" : "monty 6/26/2016 00:16",
+		"xmlVersion:encoding:standalone:" : "monty 6/26/2016 00:16",
+		"startPrefixMapping:uri:" : "monty 6/26/2016 00:16",
+		"skippedEntity:" : "monty 6/26/2016 00:16",
+		"endPrefixMapping:" : "monty 6/26/2016 00:16",
+		"startDTD:publicID:systemID:" : "monty 6/26/2016 00:16"
+	},
+	"class" : {
+		"generateInterruptingRecordingHandlerMethods" : "monty 6/26/2016 00:16"
+	}
+}

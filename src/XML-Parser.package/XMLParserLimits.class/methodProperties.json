@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"initialize" : "monty 7/13/2015 13:12",
+		"documentReadLimit" : "monty 1/16/2014 18:43",
+		"maxEntityReplacementDepth:" : "monty 4/14/2016 03:30",
+		"documentReadLimit:" : "monty 4/14/2016 03:29",
+		"removeAll" : "monty 1/27/2015 22:46",
+		"maxEntityReplacementDepth" : "monty 1/16/2014 18:45"
+	},
+	"class" : {
+		"defaultMaxEntityReplacementDepth" : "monty 7/13/2015 13:14",
+		"defaultDocumentReadLimit" : "monty 12/9/2014 07:41",
+		"defaultReadLimit" : "monty 10/9/2016 03:34",
+		"defaultReadLimit:" : "monty 10/9/2016 03:36"
+	}
+}

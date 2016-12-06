@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"atEnd" : "monty 11/19/2013 01:14",
+		"errorContentContainsDuplicates" : "monty 11/12/2016 21:06",
+		"setElement:allowedContent:" : "monty 11/12/2016 21:05",
+		"isMixedContent" : "monty 11/28/2016 01:35",
+		"validateStartTag:" : "monty 11/12/2016 10:59",
+		"allowedContent" : "monty 11/12/2016 10:59",
+		"validateElementDeclaration" : "monty 11/12/2016 11:04",
+		"typeName" : "monty 11/28/2016 01:32",
+		"allowedContent:" : "monty 11/12/2016 10:59"
+	},
+	"class" : {
+		"element:allowedContent:" : "monty 11/12/2016 10:59"
+	}
+}

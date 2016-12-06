@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"nextPut:toStream:" : "monty 1/26/2016 19:08",
+		"textConverter" : "monty 11/12/2014 01:55",
+		"nextFromStream:" : "monty 11/17/2014 21:14",
+		"encoding:" : "monty 3/4/2016 07:41",
+		"textConverter:" : "monty 11/12/2014 01:54"
+	},
+	"class" : {
+		"canConvertEncoding:" : "monty 1/26/2016 00:08",
+		"encodingNamesAndTextConverterClassesCache" : "monty 9/26/2016 13:31",
+		"textConverterClassForEncoding:" : "monty 1/26/2016 00:12",
+		"findTextConverterClassForEncoding:" : "monty 7/6/2016 02:32"
+	}
+}

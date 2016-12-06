@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "dtl 4/26/2003 10:31",
+	"super" : "TestCase",
+	"category" : "CommandShell-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TempResult"
+	],
+	"instvars" : [
+		"shell",
+		"checkFileHandleCount",
+		"procDir"
+	],
+	"name" : "PipelineEventsTestCase",
+	"type" : "normal"
+}

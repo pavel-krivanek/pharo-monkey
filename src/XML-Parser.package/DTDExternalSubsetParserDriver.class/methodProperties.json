@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"isHandlingDTD" : "monty 11/21/2016 22:58",
+		"decodesCharacters" : "monty 11/23/2016 22:43",
+		"isStandalone" : "monty 11/23/2016 22:42",
+		"hasSkippedParameterEntityReferences" : "monty 11/23/2016 22:51",
+		"externalEntityResolver" : "monty 11/23/2016 22:39",
+		"initialContextClass" : "monty 11/15/2016 15:12",
+		"replacesContentEntityReferences" : "monty 11/23/2016 22:41",
+		"preservesUndeclaredEntityReferences" : "monty 11/23/2016 22:41",
+		"hasExternalSubset" : "monty 11/24/2016 02:31",
+		"haveParameterEntityReferences" : "monty 11/23/2016 22:53",
+		"readLimit" : "monty 1/27/2015 22:51",
+		"hasParameterEntityReferences" : "monty 11/23/2016 22:46",
+		"isStandaloneExternal" : "monty 11/3/2016 05:21",
+		"setSAXDriver:documentURI:" : "monty 11/23/2016 22:41",
+		"documentURI" : "monty 3/21/2015 23:23",
+		"isValidating" : "monty 11/23/2016 22:43",
+		"maxEntityReplacementDepth" : "monty 11/23/2016 22:39",
+		"saxDriver" : "monty 11/23/2016 22:39",
+		"resolvesExternalEntities" : "monty 10/31/2016 03:36",
+		"haveSkippedParameterEntityReferences" : "monty 11/23/2016 22:55"
+	},
+	"class" : {
+		"saxDriver:documentURI:" : "monty 11/23/2016 22:40"
+	}
+}

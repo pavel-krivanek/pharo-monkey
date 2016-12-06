@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"task:whenComplete:" : "dtl 11/12/2011 23:20",
+		"update:" : "dtl 11/11/2011 10:47",
+		"start" : "dtl 2/19/2015 22:52",
+		"finalize" : "dtl 11/12/2011 21:30",
+		"task:" : "dtl 1/25/2010 19:03",
+		"value" : "dtl 11/27/2011 11:34",
+		"registerForFinalization" : "dtl 11/12/2011 23:07",
+		"put:" : "dtl 2/16/2015 19:14",
+		"task" : "dtl 1/25/2010 19:03",
+		"result" : "dtl 11/27/2011 12:26",
+		"getResult" : "dtl 2/16/2015 19:13"
+	},
+	"class" : {
+		"do:" : "dtl 11/12/2011 23:23",
+		"useFuelSerializer" : "dtl 2/16/2015 19:01",
+		"initialize" : "dtl 2/19/2015 22:32",
+		"headlessChild:" : "dtl 2/19/2015 22:33",
+		"finalize:" : "dtl 11/12/2011 23:05",
+		"parallelPerformance" : "dtl 11/13/2011 00:29",
+		"useReferenceStreamSerializer" : "dtl 2/16/2015 19:01",
+		"threeParallelTasks" : "dtl 11/13/2011 00:32",
+		"useMagmaSerializer" : "dtl 2/16/2015 19:00",
+		"do:whenComplete:" : "dtl 11/12/2011 23:20"
+	}
+}

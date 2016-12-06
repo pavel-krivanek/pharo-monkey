@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testPosition" : "monty 11/22/2016 23:49",
+		"testNext" : "monty 11/22/2016 23:40",
+		"newStream" : "monty 11/22/2016 23:38",
+		"streamClass" : "monty 11/22/2016 23:38",
+		"testAtEnd" : "monty 11/22/2016 23:39",
+		"testContents" : "monty 11/22/2016 23:47",
+		"testPeek" : "monty 11/22/2016 23:40",
+		"testIsStream" : "monty 11/22/2016 23:39",
+		"testClose" : "monty 11/22/2016 23:42",
+		"testUpToEnd" : "monty 11/22/2016 23:47",
+		"testIsBinary" : "monty 11/22/2016 23:41"
+	},
+	"class" : { }
+}

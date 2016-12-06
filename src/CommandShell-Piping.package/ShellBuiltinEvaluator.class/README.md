@@ -1,0 +1,1 @@
+I provide the context in which a ShellBuiltin is evaluated as an element of a command pipeline.

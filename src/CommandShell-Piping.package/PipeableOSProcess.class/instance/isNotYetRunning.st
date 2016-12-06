@@ -1,0 +1,4 @@
+testing
+isNotYetRunning
+
+	^ processProxy isNotYetRunning

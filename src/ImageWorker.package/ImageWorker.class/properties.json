@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "PavelKrivanek 3/11/2016 15:05",
+	"super" : "Object",
+	"category" : "ImageWorker",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeout",
+		"baseFile",
+		"block",
+		"session",
+		"forkedImageProcess",
+		"systemGlobals",
+		"timeoutBlock"
+	],
+	"name" : "ImageWorker",
+	"type" : "normal"
+}

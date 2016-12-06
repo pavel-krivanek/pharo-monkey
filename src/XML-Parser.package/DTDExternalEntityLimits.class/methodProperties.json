@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"externalSubsetReadLimit" : "monty 1/27/2015 22:46",
+		"resolvesLocalFromNonLocal" : "monty 1/24/2014 06:47",
+		"initialize" : "monty 6/21/2015 02:02",
+		"maxExternalEntitySize" : "monty 1/16/2014 06:14",
+		"removeAll" : "monty 5/25/2015 01:35",
+		"resolvesLocalFromNonLocal:" : "monty 1/24/2014 06:47",
+		"maxExternalEntitySize:" : "monty 4/14/2016 03:31",
+		"maxExternalEntities" : "monty 1/16/2014 06:14",
+		"maxExternalEntities:" : "monty 4/14/2016 03:31",
+		"externalSubsetReadLimit:" : "monty 4/14/2016 03:31"
+	},
+	"class" : {
+		"defaultExternalSubsetReadLimit" : "monty 1/27/2015 22:48",
+		"defaultMaxExternalEntities" : "monty 6/21/2015 02:02",
+		"defaultMaxExternalEntitySize" : "monty 12/9/2014 07:57"
+	}
+}

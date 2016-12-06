@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TextMorphForEditView",
+	"category" : "CommandShell-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TtyTextMorphForEditView",
+	"type" : "normal"
+}

@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"listClass" : "monty 9/2/2016 06:20",
+		"assertList:copiedFrom:equals:" : "monty 9/5/2016 22:00",
+		"assertList:isCopyOf:" : "monty 9/5/2016 22:01"
+	},
+	"class" : { }
+}

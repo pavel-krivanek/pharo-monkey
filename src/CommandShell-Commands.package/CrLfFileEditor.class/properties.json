@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Model",
+	"category" : "CommandShell-Commands",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contents",
+		"lineEndConvention",
+		"directory",
+		"fileName",
+		"viewStyle"
+	],
+	"name" : "CrLfFileEditor",
+	"type" : "normal"
+}

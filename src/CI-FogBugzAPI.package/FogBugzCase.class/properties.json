@@ -1,0 +1,32 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "CI-FogBugzAPI",
+	"classinstvars" : [
+		"issues"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"tags",
+		"project",
+		"title",
+		"events",
+		"milestone",
+		"lastModification",
+		"dateOpened",
+		"dateResolved",
+		"dateClosed",
+		"status",
+		"subcases",
+		"parentCase",
+		"user",
+		"configuration",
+		"configurationVersion",
+		"preload",
+		"postload"
+	],
+	"name" : "FogBugzCase",
+	"type" : "normal"
+}

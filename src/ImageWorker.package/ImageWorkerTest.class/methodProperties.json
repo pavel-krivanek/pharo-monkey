@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"do:" : "CamilloBruni 10/12/2013 16:27",
+		"testReturnClass" : "CamilloBruni 10/12/2013 16:29",
+		"testReturnInteger" : "CamilloBruni 10/12/2013 16:28",
+		"testReturnArray" : "CamilloBruni 10/12/2013 16:29",
+		"testError" : "CamilloBruni 10/12/2013 16:30",
+		"testReturnFloat" : "CamilloBruni 10/12/2013 16:28",
+		"testReturnNewClass" : "CamilloBruni 10/29/2013 15:39",
+		"testReturnString" : "CamilloBruni 10/12/2013 16:28",
+		"testReturnSymbol" : "CamilloBruni 10/12/2013 16:28"
+	},
+	"class" : { }
+}

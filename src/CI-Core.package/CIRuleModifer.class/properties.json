@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIAbstractWrapperRule",
+	"category" : "CI-Core-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rule"
+	],
+	"name" : "CIRuleModifer",
+	"type" : "normal"
+}

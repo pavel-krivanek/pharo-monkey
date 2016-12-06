@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"testPosition" : "monty 3/5/2016 12:39",
+		"streamClass" : "monty 2/11/2016 22:22",
+		"testSpace" : "monty 4/5/2016 06:43",
+		"testTab" : "monty 4/5/2016 06:43",
+		"testLF" : "monty 4/5/2016 06:43",
+		"outputCollection" : "monty 2/11/2016 22:20",
+		"testNextPutAll" : "monty 3/5/2016 12:39",
+		"contentsFromCharacter:" : "monty 2/12/2016 06:00",
+		"inputCollection" : "monty 2/11/2016 22:20",
+		"testReset" : "monty 3/5/2016 12:39",
+		"testNextPut" : "monty 12/3/2016 02:27",
+		"streamAdapterClass" : "monty 3/5/2016 12:38",
+		"testCR" : "monty 4/5/2016 06:43"
+	},
+	"class" : {
+		"isAbstract" : "monty 9/18/2016 10:23"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"newStreamReaderOn:" : "monty 3/18/2016 20:51",
+		"testAtEnd" : "monty 11/14/2016 09:48",
+		"cr" : "monty 3/18/2016 19:24",
+		"testLineEndingNormalizationAcrossStreams" : "monty 11/17/2016 13:37",
+		"sourceXMLNormalizedWith:" : "monty 3/18/2016 20:30",
+		"testHasPushedBackStreams" : "monty 11/4/2016 14:23",
+		"lf" : "monty 3/18/2016 19:24",
+		"newStreamReaderOnSourceXML" : "monty 3/18/2016 20:52",
+		"testNormalizedLineEndingChar" : "monty 3/18/2016 20:54",
+		"sourceXMLTemplate" : "monty 3/18/2016 19:23",
+		"testPushBackStreamWhenPoppedDoIsExternal" : "monty 11/14/2016 09:44",
+		"testPushBackStreamWhenPoppedDoIsExternalException" : "monty 11/14/2016 09:45",
+		"testStreamPushbackPortability" : "monty 11/14/2016 09:43",
+		"testStreamReadingPortability" : "monty 11/4/2016 13:50",
+		"testCloseStreams" : "monty 11/14/2016 09:45",
+		"testSkipSeparators" : "monty 4/5/2016 06:44",
+		"testUpTo" : "monty 3/18/2016 23:52",
+		"normalizedLineEnding" : "monty 3/18/2016 19:26",
+		"absentChar" : "monty 3/18/2016 23:52",
+		"testNext" : "monty 4/5/2016 06:41",
+		"testIsStream" : "monty 3/18/2016 20:53",
+		"sourceXML" : "monty 3/18/2016 19:24",
+		"normalizedSourceXML" : "monty 3/18/2016 20:30",
+		"testIsBinary" : "monty 3/18/2016 20:53",
+		"testUpToEnd" : "monty 3/18/2016 23:19"
+	},
+	"class" : { }
+}

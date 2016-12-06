@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"shellBuiltin" : "dtl 2/1/2003 15:12",
+		"value" : "dtl 12/21/2007 12:50",
+		"printOn:" : "dtl 3/22/2003 13:58",
+		"shellBuiltin:" : "dtl 2/1/2003 15:12",
+		"commandShell" : "dtl 2/1/2003 15:13",
+		"needsPrompt" : "dtl 2/1/2003 16:08",
+		"commandShell:" : "dtl 2/1/2003 15:12"
+	},
+	"class" : {
+		"command:withArguments:shell:pipeFrom:pipeTo:errorPipelineStream:" : "dtl 2/1/2003 16:01"
+	}
+}

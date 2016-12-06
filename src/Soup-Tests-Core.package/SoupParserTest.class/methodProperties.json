@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"todotestNonBreakingSpaces" : "sd 12/11/2010 16:52",
+		"testNakedAmpersands" : "za 12/25/2008 01:24",
+		"testComments" : "za 12/25/2008 07:05",
+		"testJunkInDeclaration" : "za 12/24/2008 19:48",
+		"testIncompleteDeclaration" : "za 12/25/2008 06:52",
+		"testEntitiesInAttributeValues" : "za 12/25/2008 06:04",
+		"testWhitespaceInDeclaration" : "za 12/24/2008 19:47",
+		"assertSoupFrom:printsAs:" : "za 12/24/2008 16:02",
+		"testNamespaceNode" : "CamilloBruni 9/21/2011 16:11",
+		"testSelfClosingTag" : "za 12/23/2008 06:09",
+		"parseOtherDeclaration:" : "za 12/25/2008 06:08",
+		"testEntityReplacement" : "za 12/25/2008 06:53",
+		"testCData" : "za 12/25/2008 07:12",
+		"testProcessingInstruction" : "za 12/26/2008 22:26",
+		"testDeclaration" : "za 12/25/2008 06:07",
+		"testLiteralMode" : "za 12/23/2008 02:43",
+		"testEntityConversions" : "za 12/24/2008 17:44",
+		"testBadNestedTables" : "za 12/23/2008 06:06",
+		"testTextArea" : "za 12/23/2008 02:45",
+		"testParaInsideBlockquote" : "za 12/23/2008 04:54",
+		"testQuotedAttributeValues" : "za 12/24/2008 17:39",
+		"testNestedTables" : "za 12/23/2008 06:05"
+	},
+	"class" : { }
+}

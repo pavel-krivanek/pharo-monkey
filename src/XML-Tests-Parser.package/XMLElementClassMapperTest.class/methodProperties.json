@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"attributes" : "monty 7/27/2016 08:19",
+		"newMapper" : "monty 7/27/2016 08:19",
+		"newMapperWithMappings" : "monty 8/26/2016 02:16",
+		"testClassNameSegmentsFrom" : "monty 7/27/2016 08:24",
+		"mapperClass" : "monty 7/27/2016 08:20",
+		"testHyphenatedNameFromClassNameSegments" : "monty 7/28/2016 08:53",
+		"elementClass" : "monty 7/27/2016 08:19",
+		"otherElementClass" : "monty 7/27/2016 08:19",
+		"testNameFromClassNameSegments" : "monty 8/18/2016 05:41",
+		"testUnderscoredNameFromClassNameSegments" : "monty 7/28/2016 08:54",
+		"testCamelCasedNameFromClassNameSegments" : "monty 7/28/2016 08:51"
+	},
+	"class" : { }
+}

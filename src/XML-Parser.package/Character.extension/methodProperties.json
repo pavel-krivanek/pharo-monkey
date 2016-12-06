@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"isXMLChar" : "monty 3/25/2016 05:35",
+		"isXMLNCNameStartChar" : "monty 7/11/2016 22:35",
+		"isXMLWhitespace" : "monty 3/25/2016 05:38",
+		"isXMLSeparator" : "monty 3/25/2016 05:39",
+		"isXMLNameStartChar" : "monty 3/25/2016 05:43",
+		"xmlSplit:" : "monty 3/25/2016 02:03",
+		"xmlSplit:do:" : "monty 4/5/2016 03:12",
+		"isXMLNameChar" : "monty 3/26/2016 01:49",
+		"isXMLNCNameChar" : "monty 3/26/2016 01:50"
+	},
+	"class" : {
+		"xmlWhitespace" : "monty 3/12/2016 19:10",
+		"xmlSeparators" : "monty 3/12/2016 19:10"
+	}
+}

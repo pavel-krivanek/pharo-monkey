@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "dtl 2/1/2003 12:25",
+	"super" : "Object",
+	"category" : "CommandShell-Commands",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"procedureSelector",
+		"helpSelector",
+		"needsPrompt"
+	],
+	"name" : "ShellBuiltin",
+	"type" : "normal"
+}

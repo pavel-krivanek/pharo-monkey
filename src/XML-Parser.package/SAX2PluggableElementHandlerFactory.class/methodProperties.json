@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"handleElement:namespaceURI:attributes:withClass:" : "monty 8/18/2016 23:10",
+		"handleElements:withClass:" : "monty 8/5/2016 11:03",
+		"handleElementsMatchingClasses:" : "monty 8/26/2016 01:41",
+		"handleElement:namespaceURI:withClass:" : "monty 8/5/2016 11:03",
+		"elementClassMapper" : "monty 8/4/2016 20:00",
+		"elementClassMapper:" : "monty 8/4/2016 20:00",
+		"ignorableClassNameSuffixes" : "monty 8/26/2016 00:48",
+		"postCopy" : "monty 8/5/2016 11:05",
+		"handleElement:attributes:withClass:" : "monty 8/18/2016 23:10",
+		"elementHandlerClass" : "monty 8/4/2016 20:02",
+		"elementClassMapperClass" : "monty 8/26/2016 02:16",
+		"handleElementsMatchingClass:" : "monty 8/26/2016 03:19",
+		"handleElement:withClass:" : "monty 8/5/2016 11:03",
+		"initialize" : "monty 8/5/2016 11:02",
+		"handleElements:namespaceURI:withClass:" : "monty 8/5/2016 11:03",
+		"classForElement:namespaceURI:localName:attributes:" : "monty 8/12/2016 23:22",
+		"elementHandlerClass:" : "monty 8/4/2016 20:02"
+	},
+	"class" : { }
+}
