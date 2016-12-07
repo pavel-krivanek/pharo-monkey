@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "MCFileTreeStCypressWriter",
+	"category" : "MCFileTreeGitWriter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MCFileTreeGitStCypressWriter",
+	"type" : "normal"
+}

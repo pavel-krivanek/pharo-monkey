@@ -43,6 +43,8 @@ baseline: spec
 
 		spec package: 'ImageWorker'.
 
+		spec package: 'MCFileTreeGitWriter'.
+
 		spec package: 'CI-Core'.
 		spec package: 'CI-FogBugzAPI'.
 		spec package: 'CI-Validation'.
@@ -62,6 +64,7 @@ baseline: spec
 			'Collections'
 			'XML'
 			'Soup' 
+			'MCFileTreeGitWriter'
 			'CI-Core'
 			'CI-FogBugzAPI'
 			'CI-Validation'
