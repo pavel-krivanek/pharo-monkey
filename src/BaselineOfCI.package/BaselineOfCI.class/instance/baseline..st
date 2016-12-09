@@ -7,8 +7,8 @@ baseline: spec
 	
 	repository := 'filetree://./pharo-monkey/src'.    
 	spec for: #common do: [
-		spec preLoadDoIt: #'preload:package:'.
-		spec postLoadDoIt: #'postload:package:'.
+		"spec preLoadDoIt: #'preload:package:'.
+		spec postLoadDoIt: #'postload:package:'."
 
 		spec package: 'Collections-OrderPreservingDictionary'.
 		spec package: 'Collections-BitmapCharacterSet'.
@@ -49,6 +49,7 @@ baseline: spec
 		spec package: 'CI-FogBugzAPI'.
 		spec package: 'CI-Validation'.
 		spec package: 'CI-Core-Tests'.
+		spec package: 'CI-CommandLine'.
 		spec package: 'CI-ForkedValidation'.
 		spec package: 'CI-Loader'.
 		spec package: 'CI-Integration'.
@@ -68,7 +69,8 @@ baseline: spec
 			'CI-Core'
 			'CI-FogBugzAPI'
 			'CI-Validation'
-			'CI-Core-Tests').
+			'CI-Core-Tests'
+			'CI-CommandLine').
 					
 		spec group: 'default' with: #(
 			'Basic'

@@ -1,3 +1,3 @@
 accessing
 userName
-	^ Smalltalk os environment at: 'PHARO_CI_USER' ifAbsent: nil.
+	^ 'pharo.ulysse@gmail.com'

@@ -1,0 +1,1 @@
+collect results from generated XML test results

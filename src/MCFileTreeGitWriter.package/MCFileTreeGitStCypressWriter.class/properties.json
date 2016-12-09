@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "MCFileTreeStCypressWriter",
 	"category" : "MCFileTreeGitWriter",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "MCFileTreeGitStCypressWriter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MCFileTreeStCypressWriter",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*MCFileTreeGitWriter
+cypressEscape
+    ^ self urlEncoded

@@ -1,0 +1,3 @@
+*MCFileTreeGitWriter
+cypressUnescape
+    ^ self urlDecoded

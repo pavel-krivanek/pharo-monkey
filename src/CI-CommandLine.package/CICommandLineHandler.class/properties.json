@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CommandLineHandler",
+	"category" : "CI-CommandLine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"issue",
+		"user",
+		"password",
+		"manager"
+	],
+	"name" : "CICommandLineHandler",
+	"type" : "normal"
+}

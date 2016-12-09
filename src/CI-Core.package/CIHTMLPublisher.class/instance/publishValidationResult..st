@@ -6,8 +6,8 @@ publishValidationResult: aCIValidationResult
 		htmlBeginning: aCIValidationResult.
 	
 	aCIValidationResult isSuccess
-			ifTrue:  [ self publishSuccess: aCIValidationResult ]
-			ifFalse: [ self publishFailure: aCIValidationResult ].
+		ifTrue:  [ self publishSuccess: aCIValidationResult ]
+		ifFalse: [ self publishFailure: aCIValidationResult ].
 	
 	self publishChanges: aCIValidationResult change.
 	

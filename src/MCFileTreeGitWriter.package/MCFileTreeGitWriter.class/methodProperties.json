@@ -1,7 +1,6 @@
 {
+	"class" : {
+		 },
 	"instance" : {
 		"snapshotWriterClass" : " 11/28/2016 11:42:15",
-		"writeVersion:" : " 11/28/2016 11:42:15"
-	},
-	"class" : { }
-}
+		"writeVersion:" : " 11/28/2016 11:42:15" } }

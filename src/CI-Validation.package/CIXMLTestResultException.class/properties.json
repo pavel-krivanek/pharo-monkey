@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CI-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"testcase",
+		"selector",
+		"stack"
+	],
+	"name" : "CIXMLTestResultException",
+	"type" : "normal"
+}

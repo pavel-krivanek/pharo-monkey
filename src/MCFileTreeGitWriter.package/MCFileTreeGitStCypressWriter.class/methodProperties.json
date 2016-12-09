@@ -1,11 +1,12 @@
 {
-	"instance" : {
-		"writeTraitDefinition:to:" : " 11/28/2016 11:42:15",
-		"writeMethodProperties:" : " 11/28/2016 11:42:15",
-		"writeClassDefinition:to:" : " 11/28/2016 11:42:15",
-		"writeDefinitions:" : " 11/28/2016 11:42:15"
-	},
 	"class" : {
-		"on:" : " 11/28/2016 11:42:15"
-	}
-}
+		"on:" : " 11/28/2016 11:42:15" },
+	"instance" : {
+		"writeClassDefinition:" : "PavelKrivanek 12/7/2016 13:03",
+		"writeClassDefinition:to:" : " 11/28/2016 11:42:15",
+		"writeDefinitions:" : " 11/28/2016 11:42:15",
+		"writeExtensionClassDefinition:" : "PavelKrivanek 12/7/2016 13:03",
+		"writeMethodProperties:" : "PavelKrivanek 12/7/2016 13:03",
+		"writePropertiesFile" : "PavelKrivanek 12/7/2016 13:03",
+		"writeTraitDefinition:" : "PavelKrivanek 12/7/2016 13:04",
+		"writeTraitDefinition:to:" : " 11/28/2016 11:42:15" } }

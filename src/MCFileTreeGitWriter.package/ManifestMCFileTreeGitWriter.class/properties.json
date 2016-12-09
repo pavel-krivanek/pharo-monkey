@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PackageManifest",
 	"category" : "MCFileTreeGitWriter",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "ManifestMCFileTreeGitWriter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }
