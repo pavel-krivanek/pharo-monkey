@@ -7,7 +7,7 @@ dispatchSubSliceCommand
 	self fetchIssue.
 
 	(self argumentAt: 2) = 'fetchAndLock'
-		ifTrue: [ ^ self fetchAndLockIssue ]..
+		ifTrue: [ ^ self fetchAndLockIssue ].
 
 	(self argumentAt: 2) = 'load'
 		ifTrue: [ ^ self loadIssue ].

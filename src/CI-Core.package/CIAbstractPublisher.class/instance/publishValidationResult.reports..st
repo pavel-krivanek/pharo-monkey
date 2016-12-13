@@ -1,0 +1,2 @@
+publishing
+publishValidationResult: aCIValidationResult reports: reports

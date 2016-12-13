@@ -1,4 +1,4 @@
-activation
+*CI-Obsolete
 dispatchSubScriptCommand
 
 	self testIssue.

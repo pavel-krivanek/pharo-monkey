@@ -2,9 +2,14 @@ publishing
 publishValidationResult: aCIValidationResult
 	self
 		updateFileName: aCIValidationResult;
-		newStream;
-		htmlBeginning: aCIValidationResult.
+		newStream";
+		htmlBeginning: aCIValidationResult".
 	
+	aCIValidationResult stepName ifNotNil: [ :stepName |
+		 self stream
+		nextPutAll: ('<h2>{1}</h2>' format: {stepName}).
+	].
+
 	aCIValidationResult isSuccess
 			ifTrue:  [ self publishSuccess: aCIValidationResult ]
 			ifFalse: [ self publishFailure: aCIValidationResult ].
@@ -16,5 +21,5 @@ publishValidationResult: aCIValidationResult
 	aCIValidationResult hasMessages
 		ifTrue: [ self publishMessages: aCIValidationResult ].
 		
-	self htmlEnding: aCIValidationResult.
+	"self htmlEnding: aCIValidationResult."
 	self stream close.

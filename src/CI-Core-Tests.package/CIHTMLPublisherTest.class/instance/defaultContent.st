@@ -7,8 +7,8 @@ defaultContent
 <head>
 <title>TestEntity -- Test report</title>
 </head>
-<body><h1>TestEntity -- Test report</h1>
-<h2>TestEntity test succeed !</h2>
+<body><h2>TestEntity -- Test report</h2>
+<h3>TestEntity test succeed !</h3>
 </body>
 </html>
 '

@@ -1,4 +1,4 @@
-activation
+*CI-Obsolete
 dispatchSubFileTreeCommand
 
 	self testIssue.

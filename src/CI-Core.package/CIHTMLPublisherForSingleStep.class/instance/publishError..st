@@ -52,7 +52,7 @@ publishError: aCIXMLTestResultException
 				<< '		trigger: "hover",'; lf;
 				<< '		placement: "bottom",'; lf;
 				<< '		html: true,'; lf;
-				<< '		 template: ''<div class="popover stackframe-popover"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>'','; lf;
+				<< '		 template: ''<div class="popover stackframe-popover"><div class="arrow"></div><div class="popover-inner"><h4 class="popover-title"></h4><div class="popover-content"><p></p></div></div></div>'','; lf;
 				<< '		content: $("#result-'; print: itemId; << ' #"+$(this).prop("id")+"_content").html()'; lf;
 				<< '	})'; lf;
 				<< '})'; lf;

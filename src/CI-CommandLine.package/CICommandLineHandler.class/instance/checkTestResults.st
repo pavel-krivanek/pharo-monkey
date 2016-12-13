@@ -1,7 +1,7 @@
 checking test results
 checkTestResults
 
-	| directoryPath processReturnValue validator result reportFile htmlPublisher|
+	| directoryPath processReturnValue validator result reportFile htmlPublisher stepName|
 
 	htmlPublisher := CIHTMLPublisherForSingleStep asCIPublisher.
 	reportFile := self optionAt: 'reportFile' ifAbsent: [ nil ].	
@@ -19,7 +19,8 @@ checkTestResults
 	directoryPath := self
 		optionAt: 'directory'
 		ifAbsent: [ ^ self error: 'Missing option --directory' ].
-		
+
+	
 	"processReturnValue := self
 		optionAt: 'processReturnValue'
 		ifAbsent: [ ^ self error: 'Missing option --processReturnValue' ]."
@@ -28,7 +29,11 @@ checkTestResults
 
 	result := validator validationResult.
 	result change: issue.
+	result stepName: (self optionAt: 'stepName' ifAbsent: [nil]).
 	
 	manager publisher publishValidationResult: result.
 	
-	self exitSuccess.
+	result isSuccess 
+		ifTrue: [ Smalltalk exitSuccess ]
+		ifFalse: [ Smalltalk exit: 1 ].
+	

@@ -6,6 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"stepName",
 		"warnings",
 		"messages",
 		"change",

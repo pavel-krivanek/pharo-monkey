@@ -3,7 +3,7 @@ publishResultList: list title: aString
 	| filteredList |
 	filteredList := list.
 	self stream 
-		<< '<h2>'; << aString; << '</h2>';
+		<< '<h3>'; << aString; << '</h3>';
 		<< '<ul class="list-group">'; lf.
 	
 	self flag: 'add double dispatch'.
@@ -28,9 +28,9 @@ publishResultList: list title: aString
 	filteredList do: [ :each | 
 		self stream 
 			<< '<li class="list-group-item">';
-			<< '<h4 class="list-group-item-heading">';
+			<< '<h5 class="list-group-item-heading">';
 			<< each asString; 
-			<< '</h4>';
+			<< '</h5>';
 			<< '</li>'; lf ].
 	
 	self stream << '</ul>'; lf.

@@ -1,4 +1,4 @@
-activation
+*CI-Obsolete
 setUpFileTree
 
 	manager := CIChangeManager new
