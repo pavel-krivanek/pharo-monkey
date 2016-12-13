@@ -4,8 +4,6 @@ publishResultList: list title: aString
 	
 	filteredList := list.
 	
-	list first class logCr.
-	
 	self stream 
 		<< '<h3>'; << aString; << '</h3>';
 		<< '<ul class="list-group">'; lf.
