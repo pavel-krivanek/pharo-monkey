@@ -144,7 +144,7 @@ fi
 
 ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   --issue="$ISSUE" \
-  --reportFile="report.html" \
+  --reportFile="report" \
   --success="$CHECK_RESULT" \
   fullTests.html
   
@@ -155,6 +155,6 @@ fi
     
 ${VM_PATH} "$MONKEY_IMAGE_NAME" ci publishResult \
   --issue="$ISSUE" \
-  --reportFile="report.html" \
+  --reportFile="report" \
   --success="$CHECK_RESULT" \
   report.html  
