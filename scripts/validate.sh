@@ -155,6 +155,6 @@ fi
     
 ${VM_PATH} "$MONKEY_IMAGE_NAME" ci publishResult \
   --issue="$ISSUE" \
-  --reportFile="report" \
+  --reportFile="report.html" \
   --success="$CHECK_RESULT" \
   report.html  
