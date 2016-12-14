@@ -1,8 +1,6 @@
 instance creation
-wantsToIgnoreError: anAssociation
+wantsToIgnoreError: aCIXMLTestResultException
 
-	"anAssociation contains class name as key and a selector as value"
-	
 	^ {
 		#FileLocatorTest->#testMoveTo. 
 		#FFICallbackTests->#testCqsort. 
@@ -13,4 +11,4 @@ wantsToIgnoreError: anAssociation
 		#ZnFileUrlTests->#testRetrieveContents. 
 		#ZnFileUrlTests->#testWindowsDriveNamesInFileUrl. 
 		#MBConfigurationInfoTest->#testInitialization. 
-	} includes: anAssociation
+	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)

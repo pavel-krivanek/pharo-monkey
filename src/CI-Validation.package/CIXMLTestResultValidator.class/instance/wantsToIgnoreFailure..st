@@ -1,8 +1,6 @@
 instance creation
-wantsToIgnoreFailure: anAssociation
+wantsToIgnoreFailure: aCIXMLTestResultException
 
-	"anAssociation contains class name as key and a selector as value"
-	
 	^ {
 		#RGTraitDefinitionTest->#testAddingMethods.
 		#CompiledMethodTest->#testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses. 
@@ -15,5 +13,5 @@ wantsToIgnoreFailure: anAssociation
 		#FileHandleTest->#testTruncate. 
 		#SourceFileArrayTest->#testProtocol. 
 		#SourceFileArrayTest->#testTimeStamp. 	
-	} includes: anAssociation
+	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)
 		

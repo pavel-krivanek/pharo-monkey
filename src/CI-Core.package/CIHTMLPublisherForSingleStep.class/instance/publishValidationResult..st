@@ -22,4 +22,4 @@ publishValidationResult: aCIValidationResult
 		ifTrue: [ self publishMessages: aCIValidationResult ].
 		
 	"self htmlEnding: aCIValidationResult."
-	self stream close.
+	self stream flush; close.
