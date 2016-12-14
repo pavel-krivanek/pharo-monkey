@@ -1,4 +1,4 @@
-VM_PATH=pharo
+VM_PATH="$WORKSPACE/pharo"
 MONKEY_IMAGE_NAME=Pharo.image
 TESTED_IMAGE_NAME=Pharo
 INPUT_IMAGE_NAME=bootstrap
@@ -7,7 +7,7 @@ ISSUE=19466
 EXPORTER=exporter
 EXPORTER_VERSION=60
 
-#git clone https://github.com/pavel-krivanek/pharo-monkey.git
+git clone https://github.com/pavel-krivanek/pharo-monkey.git
 
 wget -O - http://get.pharo.org/60 | bash
 
