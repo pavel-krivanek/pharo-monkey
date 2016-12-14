@@ -1,5 +1,3 @@
-#PHARO_CI_USER="pavel.krivanek@gmail.com" PHARO_CI_PWD="Lander.1999" BUILD_URL="https://ci.inria.fr/pharo/job/Pharo-6.0-Issue-Validator/19740/" bash validate.sh
-
 VM_PATH=pharo
 MONKEY_IMAGE_NAME=Pharo.image
 TESTED_IMAGE_NAME=Pharo
@@ -9,7 +7,7 @@ ISSUE=19466
 EXPORTER=exporter
 EXPORTER_VERSION=60
 
-git clone https://github.com/pavel-krivanek/pharo-monkey.git
+#git clone https://github.com/pavel-krivanek/pharo-monkey.git
 
 wget -O - http://get.pharo.org/60 | bash
 
@@ -122,10 +120,10 @@ ${VM_PATH} "$TESTED_IMAGE_NAME.image" --no-default-preferences clean --release
 
 ${VM_PATH} "$TESTED_IMAGE_NAME.image" eval --save "MCCacheRepository reset."
 
-#exclude="^(?!Metacello)"
-#${VM_PATH} "$TESTED_IMAGE_NAME.image" test --junit-xml-output "$exclude[A-L].*"
-#${VM_PATH} "$TESTED_IMAGE_NAME.image" test --junit-xml-output "$exclude[M-Z].*"
-#rm -rf ReleaseTests-* 
+exclude="^(?!Metacello)"
+${VM_PATH} "$TESTED_IMAGE_NAME.image" test --junit-xml-output "$exclude[A-L].*"
+${VM_PATH} "$TESTED_IMAGE_NAME.image" test --junit-xml-output "$exclude[M-Z].*"
+rm -rf ReleaseTests-* 
 ${VM_PATH} "$TESTED_IMAGE_NAME.image" test --junit-xml-output ReleaseTests
 
 cd ..
