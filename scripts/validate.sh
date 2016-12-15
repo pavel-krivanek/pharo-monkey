@@ -146,6 +146,7 @@ ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   --issue="$ISSUE" \
   --reportFile="report" \
   --success="$CHECK_RESULT" \
+  --html-resources="https://ci.inria.fr/pharo/view/6.0-Analysis/job/Pharo-6.0-Issue-Tracker-Image/ws/bootstrap/" \
   fullTests.html
   
  
@@ -155,6 +156,7 @@ fi
     
 ${VM_PATH} "$MONKEY_IMAGE_NAME" ci publishResult \
   --issue="$ISSUE" \
-  --reportFile="report.html" \
+  --reportFile="report" \
   --success="$CHECK_RESULT" \
+  --html-resources="https://ci.inria.fr/pharo/view/6.0-Analysis/job/Pharo-6.0-Issue-Tracker-Image/ws/bootstrap/" \
   report.html  
