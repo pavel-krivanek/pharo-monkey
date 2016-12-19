@@ -1,13 +1,9 @@
 action-list
 listIssues
 	
-	self
-		optionAt: 'issue'
-		ifPresent: [ :id |
-			^ self listIssueWithId: id ].
-		
-	(self hasOption: 'next') 
-		ifTrue: [ ^ self listNextIssue ].
-		
-	^ self listOpenIssues.
+	self monkey issue 
+		ifNil: [ self monkey listOpenIssues ]
+		ifNotNil: [
+			self monkey printOpenIssue: self monkey issue  ]
+	
 	

@@ -1,5 +1,5 @@
 initialization
 initialize
 	super initialize.
-	writer := HTMLWriter new.
+	writer := CIHTMLWriter new.
 	itemId := 1.

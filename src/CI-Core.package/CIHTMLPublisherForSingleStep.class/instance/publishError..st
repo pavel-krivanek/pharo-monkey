@@ -1,6 +1,12 @@
 publishing
 publishError: aCIXMLTestResultException	
 	
+	| stack |
+	
+	stack := (aCIXMLTestResultException isKindOf: CIXMLTestResultException) 
+		ifTrue: [ aCIXMLTestResultException stack ]
+		ifFalse: [ Array new ].
+	
 	self 
 		publishResultGroupWithTitle: ('Exception: <code>', aCIXMLTestResultException printString, '</code>')
 		with: [ | contexts |
@@ -9,7 +15,7 @@ publishError: aCIXMLTestResultException
 				<< '<thead><tr><th>Class</th><th>Method</th></tr></thead>'; lf;
 				<< '<tbody>'; lf.
 				
-			aCIXMLTestResultException stack withIndexDo: [ :contextString :index |	
+			stack withIndexDo: [ :contextString :index |	
 				self stream 
 					<< '	<tr id="stackframe_'; print: index; <<'" class="stackframe"><td>';
 					<< (contextString copyUpTo: $>);

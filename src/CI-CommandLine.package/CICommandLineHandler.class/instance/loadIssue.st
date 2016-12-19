@@ -1,8 +1,9 @@
 setup
 loadIssue
 
-	self inform: 'Loading  issue: ', issue asString.
-	issue load.
+	self monkey loadIssue.
 	
-	self inform: 'Saving image...'.
-	Smalltalk snapshot: true andQuit: true.
+	self optionAt: 'save' ifPresent: [ 
+		Smalltalk snapshot: true andQuit: false. ].
+	
+	

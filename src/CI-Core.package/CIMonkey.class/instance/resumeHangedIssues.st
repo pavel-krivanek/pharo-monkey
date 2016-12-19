@@ -1,0 +1,4 @@
+action
+resumeHangedIssues
+
+	manager resumeHangedIssues.

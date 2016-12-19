@@ -1,5 +1,5 @@
 action
 closeOldIssues
 
-	manager closeOldIssues.
-	^self exitSuccess
+	^ self monkey closeOldIssues.
+	

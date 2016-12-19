@@ -10,7 +10,8 @@
 		"warnings",
 		"messages",
 		"change",
-		"errors"
+		"errors",
+		"subreports"
 	],
 	"name" : "CIValidationResult",
 	"type" : "normal"

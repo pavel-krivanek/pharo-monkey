@@ -6,7 +6,6 @@ processResumeHangedIssues
 	^ ((self argumentAt: 1) = 'resumeHangedIssues')
 		ifTrue: [ 
 			self setUpTracker.
-			self resumeHangedIssues. 
-			true ]
-		ifFalse: [ false ].
+			self resumeHangedIssues. ]
+		ifFalse: [ nil ].
 	

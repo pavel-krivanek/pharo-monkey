@@ -4,9 +4,9 @@ dispatchSubSliceCommand
 	(self argumentAt: 2) = 'list'
 		ifTrue: [ ^ self listIssues ].
 		
-	self fetchIssue.
+	self assert: monkey issue notNil.
 
-	(self argumentAt: 2) = 'fetchAndLock'
+	(self argumentAt: 2) = 'fetch'
 		ifTrue: [ ^ self fetchAndLockIssue ].
 
 	(self argumentAt: 2) = 'load'
@@ -15,5 +15,3 @@ dispatchSubSliceCommand
 	(self argumentAt: 2) = 'export'
 		ifTrue: [ ^ self exportIssue ].
 
-	self testIssue.
-	self exitSuccess.

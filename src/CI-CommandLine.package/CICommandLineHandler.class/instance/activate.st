@@ -1,12 +1,24 @@
 activation
 activate
 
-	| methods |
+	| result |
 
 	"Hack to prevent delays to be triggered immediatly"
 	1 milliSecond wait.
-		
-	methods := (Pragma allNamed: #argument in: self class) collect: [ :each | each method selector ].
-	methods do: [ :each | (self perform: each) ifTrue: [ ^ self ] ].
-
-	self exitFailure: 'Invalid subcommand: ', (self argumentAt: 1) .
+	
+	monkey := CIMonkey withPublisher: self publisher.
+	result := monkey execute: [
+		self setUpMonkey.
+		self processArguments. 
+		].
+	self optionAt: 'stepName' ifPresent: [:aString | result stepName: aString ].
+	
+	monkey publisher publishValidationResult: result.
+	
+	(self hasOption: 'update-issue') ifTrue: [
+		self updateIssueWith: result].
+	 
+	result isSuccess ifFalse: [ 
+		Smalltalk exit: 1 ].
+	
+	Smalltalk snapshot: false andQuit: true.

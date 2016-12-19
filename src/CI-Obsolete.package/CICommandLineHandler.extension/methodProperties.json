@@ -1,11 +1,13 @@
 {
 	"instance" : {
-		"processFiletree" : "PavelKrivanek 12/13/2016 11:52",
-		"processConfig" : "PavelKrivanek 12/13/2016 11:51",
+		"processFiletree" : "PavelKrivanek 12/19/2016 11:22",
+		"processConfig" : "PavelKrivanek 12/19/2016 11:22",
 		"dispatchSubScriptCommand" : "BenjaminVanRyseghem 3/5/2014 16:57",
+		"setUpScript" : "EstebanLorenzano 4/17/2015 17:51",
 		"dispatchSubFileTreeCommand" : "BenjaminVanRyseghem 3/5/2014 18:04",
-		"processScript" : "PavelKrivanek 12/13/2016 11:54",
-		"setUpFileTree" : "BenjaminVanRyseghem 3/5/2014 18:46"
+		"processScript" : "PavelKrivanek 12/19/2016 11:22",
+		"setUpFileTree" : "BenjaminVanRyseghem 3/5/2014 18:46",
+		"dispatchSubConfigurationCommand" : "BenjaminVanRyseghem 3/5/2014 16:58"
 	},
 	"class" : { }
 }

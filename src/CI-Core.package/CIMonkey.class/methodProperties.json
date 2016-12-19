@@ -1,0 +1,39 @@
+{
+	"instance" : {
+		"exceptionsToCatch" : "PavelKrivanek 12/15/2016 14:12",
+		"issue:" : "PavelKrivanek 12/15/2016 12:08",
+		"initialize" : "PavelKrivanek 12/15/2016 12:07",
+		"loadIssue" : "PavelKrivanek 12/16/2016 09:39",
+		"manager" : "PavelKrivanek 12/15/2016 10:10",
+		"fetchIssue:" : "PavelKrivanek 12/16/2016 11:46",
+		"listNextIssue" : "PavelKrivanek 12/16/2016 09:57",
+		"listOpenIssues" : "PavelKrivanek 12/16/2016 14:37",
+		"publisher:" : "PavelKrivanek 12/15/2016 11:04",
+		"lockIssue" : "PavelKrivanek 12/16/2016 13:04",
+		"publishSuccess:buildURL:reportFile:" : "PavelKrivanek 12/19/2016 14:20",
+		"user" : "PavelKrivanek 12/15/2016 10:41",
+		"user:password:issue:" : "PavelKrivanek 12/16/2016 11:47",
+		"user:" : "PavelKrivanek 12/15/2016 10:41",
+		"loadAndExportIssueTo:" : "PavelKrivanek 12/16/2016 09:39",
+		"joinReports:to:as:" : "PavelKrivanek 12/16/2016 10:56",
+		"execute:" : "PavelKrivanek 12/16/2016 15:03",
+		"publisher" : "PavelKrivanek 12/15/2016 11:53",
+		"fetchNextIssue" : "PavelKrivanek 12/16/2016 14:26",
+		"password:" : "PavelKrivanek 12/15/2016 10:41",
+		"closeOldIssues" : "PavelKrivanek 12/15/2016 10:12",
+		"resumeHangedIssues" : "PavelKrivanek 12/15/2016 10:16",
+		"password" : "PavelKrivanek 12/15/2016 10:41",
+		"user:password:" : "PavelKrivanek 12/16/2016 10:08",
+		"printOpenIssue:" : "PavelKrivanek 12/16/2016 09:49",
+		"authenticateTracker" : "PavelKrivanek 12/15/2016 13:29",
+		"listIssueWithId:" : "PavelKrivanek 12/15/2016 10:20",
+		"checkTestResultsFrom:" : "PavelKrivanek 12/19/2016 11:12",
+		"currentPackages" : "PavelKrivanek 12/15/2016 10:26",
+		"issue" : "PavelKrivanek 12/15/2016 12:08"
+	},
+	"class" : {
+		"withTranscriptPublisher" : "PavelKrivanek 12/15/2016 12:03",
+		"withCommandLinePublisher" : "PavelKrivanek 12/16/2016 11:24",
+		"withPublisher:" : "PavelKrivanek 12/15/2016 11:59"
+	}
+}

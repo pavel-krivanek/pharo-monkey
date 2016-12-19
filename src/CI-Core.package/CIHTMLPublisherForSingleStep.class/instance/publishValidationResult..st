@@ -1,13 +1,18 @@
 publishing
 publishValidationResult: aCIValidationResult
+
+	| full |
+	
+	full := aCIValidationResult subreports notEmpty.
+
 	self
 		updateFileName: aCIValidationResult;
-		newStream";
-		htmlBeginning: aCIValidationResult".
-	
+		newStream.
+	full ifTrue: [ 
+		self htmlBeginning: aCIValidationResult. ].
+
 	aCIValidationResult stepName ifNotNil: [ :stepName |
-		 self stream
-		nextPutAll: ('<h2>{1}</h2>' format: {stepName}).
+		 self stream nextPutAll: ('<h2>{1}</h2>' format: {stepName}).
 	].
 
 	aCIValidationResult isSuccess
@@ -21,5 +26,11 @@ publishValidationResult: aCIValidationResult
 	aCIValidationResult hasMessages
 		ifTrue: [ self publishMessages: aCIValidationResult ].
 		
-	"self htmlEnding: aCIValidationResult."
+	full ifTrue: [
+		aCIValidationResult subreports do: [ :report |
+			[ report atEnd ] whileFalse: [ 
+				self stream binary nextPut: report next ]].
+
+		self htmlEnding: aCIValidationResult.].
+	
 	self stream flush; close.

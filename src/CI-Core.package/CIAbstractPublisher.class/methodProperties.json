@@ -1,19 +1,21 @@
 {
 	"instance" : {
 		"asCIPublisher" : "CamilloBruni 4/25/2013 14:10",
+		"publishValidationResult:reports:" : "PavelKrivanek 12/12/2016 13:41",
 		"publishChangeNotFound:" : "CamilloBruni 4/14/2013 22:39",
 		"addWith:" : "CamilloBruni 4/25/2013 14:11",
 		"," : "CamilloBruni 4/25/2013 14:10",
 		"addWithAll:" : "CamilloBruni 4/25/2013 14:00",
 		"publishFailure:" : "CamilloBruni 4/24/2013 22:34",
+		"progressMessage:" : "PavelKrivanek 12/15/2016 11:47",
 		"publishSuccess:" : "CamilloBruni 4/24/2013 22:34",
-		"publishBeforeValidation:" : "CamilloBruni 4/14/2013 21:46",
 		"manager:" : "CamilloBruni 4/14/2013 21:44",
+		"publishBeforeValidation:" : "CamilloBruni 4/14/2013 21:46",
 		"manager" : "CamilloBruni 4/14/2013 21:44",
 		"publishValidationResult:" : "CamilloBruni 4/24/2013 22:31",
 		"publishIntermediateResult:" : "CamilloBruni 4/25/2013 21:02",
 		"changeProvider" : "CamilloBruni 10/28/2013 00:18",
-		"publishValidationResult:reports:" : "PavelKrivanek 12/12/2016 13:41"
+		"error:" : "PavelKrivanek 12/15/2016 13:27"
 	},
 	"class" : {
 		"asCIPublisher" : "CamilloBruni 4/25/2013 14:12",

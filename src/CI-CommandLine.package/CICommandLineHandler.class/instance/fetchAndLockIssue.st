@@ -1,8 +1,9 @@
-setup
+as yet unclassified
 fetchAndLockIssue
 
-	self inform: 'Locking  issue: ', issue asString.
-	issue lockForValidation.
 	
-	FileStream stdout nextPutAll: 'issue locked:'; nextPutAll: issue id asString; cr.
-	Smalltalk exitSuccess.
+	(self hasOption: 'lock') ifTrue: [ 
+		self monkey lockIssue ].
+		
+	FileStream stdout nextPutAll: 'issue fetched:'; nextPutAll: monkey issue id asString; cr; flush.
+	

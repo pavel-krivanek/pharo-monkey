@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "PavelKrivanek 12/15/2016 14:09",
+	"super" : "Object",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"issue",
+		"user",
+		"password",
+		"manager"
+	],
+	"name" : "CIMonkey",
+	"type" : "normal"
+}

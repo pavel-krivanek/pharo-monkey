@@ -1,0 +1,4 @@
+action
+closeOldIssues
+
+	manager closeOldIssues.
