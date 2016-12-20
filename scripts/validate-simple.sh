@@ -74,3 +74,4 @@ fi
 
 ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports --success="$CHECK_RESULT" --resultMessage="$RESULT_MESSAGE" --html --stepName="Overall result" --reportFile="report" --issue=$ISSUE  fetch.html load.html sunit.html 
 #--update-issue
+exit 0

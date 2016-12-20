@@ -14,5 +14,7 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 	
 	^ {
 		#ReleaseTest->#testUndeclared. 
+		#WeakAnnouncerTest->#testNoDeadWeakSubscriptions.
+		#SystemAnnouncerLiveTest->#testNoDeadSubscriptions	
 	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)
 ! !
