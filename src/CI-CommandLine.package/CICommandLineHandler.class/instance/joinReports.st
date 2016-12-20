@@ -6,7 +6,8 @@ joinReports
 	result := CIValidationResult change: self monkey issue.	
 	success := (self optionAt: 'success' ifAbsent: [ nil ]) = #true.
 	success ifFalse: [result addError: 'Some validation step failed' ].
-	reports := (self arguments allButFirst reject: [ :each | each beginsWith: '--' ]) collect: [:each | each asFileReference readStream ].
+	reports := (self arguments allButFirst reject: [ :each | each beginsWith: '--' ]) select: [ :each | each asFileReference exists ] 
+	thenCollect: [:each | each asFileReference readStream ].
 	
 	result subreports addAll: reports.
 	

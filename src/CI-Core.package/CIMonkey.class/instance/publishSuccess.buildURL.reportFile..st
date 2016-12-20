@@ -6,8 +6,6 @@ publishSuccess: aBoolean buildURL: buildURL reportFile: reportFile
 	reportURL := buildURL, 'artifact/', reportFile.
 	case := self issue case.
 	
-	aBoolean logCr.
-
 	aBoolean 
 		ifTrue: [ 
 			message := 'Issue Validation Succeeded: ', reportURL.

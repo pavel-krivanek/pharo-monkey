@@ -6,7 +6,6 @@ processArguments
 	methods := (Pragma allNamed: #argument in: self class) collect: [ :each | each method selector ].
 	methods do: [ :each | 
 		(self perform: each) ifNotNil: [:result | 
-			each logCr.
 			^ result ] ].
 
 	self error: 'Invalid subcommand: ', (self argumentAt: 1) .

@@ -21,4 +21,4 @@ activate
 	result isSuccess ifFalse: [ 
 		Smalltalk exit: 1 ].
 	
-	Smalltalk snapshot: false andQuit: true.
+	Smalltalk snapshot: (self hasOption: 'save') andQuit: true.

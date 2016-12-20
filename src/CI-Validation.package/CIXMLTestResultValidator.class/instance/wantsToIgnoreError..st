@@ -1,7 +1,8 @@
 instance creation
 wantsToIgnoreError: aCIXMLTestResultException
 
-	^ {
+	^ false
+	"^ {
 		#FileLocatorTest->#testMoveTo. 
 		#FFICallbackTests->#testCqsort. 
 		#FFICallbackTests->#testCqsortWithByteArray.
@@ -12,3 +13,4 @@ wantsToIgnoreError: aCIXMLTestResultException
 		#ZnFileUrlTests->#testWindowsDriveNamesInFileUrl. 
 		#MBConfigurationInfoTest->#testInitialization. 
 	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)
+"

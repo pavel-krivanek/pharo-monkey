@@ -1,7 +1,9 @@
 instance creation
 wantsToIgnoreFailure: aCIXMLTestResultException
 
-	^ {
+	^ false.
+	
+	"^ {
 		#RGTraitDefinitionTest->#testAddingMethods.
 		#CompiledMethodTest->#testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses. 
 		#ReleaseTest->#testInstalledMethodsWithIncorrectTrailerKind. 
@@ -14,4 +16,4 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 		#SourceFileArrayTest->#testProtocol. 
 		#SourceFileArrayTest->#testTimeStamp. 	
 	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)
-		
+		"
