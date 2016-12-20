@@ -1,4 +1,4 @@
-VM_PATH="$WORKSPACE/pharo"
+VM_PATH="$PWD/pharo"
 MONKEY_IMAGE_NAME=Pharo.image
 TESTED_IMAGE_NAME=Pharo
 INPUT_IMAGE_NAME=bootstrap
