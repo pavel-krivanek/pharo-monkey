@@ -10,6 +10,8 @@ publisher
 		html := CIHTMLPublisherForSingleStep asCIPublisher.
 		self optionAt: 'reportFile' ifPresent: [ :reportFileName |
 			html fileName: reportFileName].
+		self optionAt: 'html-resources' ifPresent: [ :url |
+			html htmlResourcesUrl: url ].
 		publisher add: html.
 		].
 
