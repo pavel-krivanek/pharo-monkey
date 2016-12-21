@@ -33,6 +33,8 @@ if [ -z "$ISSUE" ]; then
   exit 0
 fi
 
+echo "https://pharo.fogbugz.com/f/cases/$ISSUE"
+
 if [ $CHECK_RESULT == "true" ]; then
 
   ${VM_PATH} "$TESTS_IMAGE_NAME" ci issue load --html --stepName="Issue loading" --reportFile="load" --issue=$ISSUE --save
