@@ -1,3 +1,0 @@
-accessing
-beQuiet
-	isQuiet := true

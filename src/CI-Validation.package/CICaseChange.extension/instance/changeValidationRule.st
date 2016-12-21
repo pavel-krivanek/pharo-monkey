@@ -1,3 +1,0 @@
-*CI-Validation
-changeValidationRule
-	 ^ CIChangeCaseValidationRule 

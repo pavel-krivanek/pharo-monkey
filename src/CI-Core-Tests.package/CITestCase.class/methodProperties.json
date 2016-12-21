@@ -1,15 +1,13 @@
 {
 	"instance" : {
-		"newChangeNotFound" : "CamilloBruni 10/22/2013 22:24",
-		"newManager" : "CamilloBruni 4/29/2013 23:39",
 		"newFailingValidationResult" : "CamilloBruni 5/9/2013 14:15",
-		"newValidationRule" : "CamilloBruni 10/15/2013 21:06",
-		"newMergeConflict" : "CamilloBruni 10/30/2013 22:29",
-		"newChange" : "CamilloBruni 4/29/2013 23:39",
 		"newValidationResult" : "CamilloBruni 10/15/2013 22:25",
-		"newError" : "CamilloBruni 10/26/2013 22:27",
 		"newPublisher" : "CamilloBruni 4/29/2013 23:39",
-		"newFailingValidationRule" : "CamilloBruni 10/15/2013 21:06"
+		"newChange" : "CamilloBruni 4/29/2013 23:39",
+		"newError" : "CamilloBruni 10/26/2013 22:27",
+		"newChangeNotFound" : "CamilloBruni 10/22/2013 22:24",
+		"newMergeConflict" : "CamilloBruni 10/30/2013 22:29",
+		"newManager" : "CamilloBruni 4/29/2013 23:39"
 	},
 	"class" : {
 		"isAbstract" : "CamilloBruni 4/29/2013 23:54",

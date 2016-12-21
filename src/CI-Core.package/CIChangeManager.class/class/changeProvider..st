@@ -1,8 +1,7 @@
 instance creation
-changeProvider: aChangeProvider validator: aCIValidator
+changeProvider: aChangeProvider 
 	
 	^ self new
 		changeProvider: aChangeProvider;
-		validator: aCIValidator;
 		publisher: aChangeProvider publisher;
 		yourself

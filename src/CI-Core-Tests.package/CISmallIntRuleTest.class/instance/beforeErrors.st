@@ -1,3 +1,0 @@
-accessing
-beforeErrors
-	^ {  RBNoClassCommentRule new }

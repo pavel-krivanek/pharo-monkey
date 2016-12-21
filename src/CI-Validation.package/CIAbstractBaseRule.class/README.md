@@ -1,1 +1,0 @@
-I am the abstrect superclass for base rules, as oposed to CIAbstractWrapper rules, base rules directly generate CIValidationResults.
