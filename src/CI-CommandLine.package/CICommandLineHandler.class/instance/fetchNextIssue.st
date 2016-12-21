@@ -4,6 +4,6 @@ fetchNextIssue
 	self inform: 'Fetching next issue...'.
 	issue := self manager nextIssueToBeChecked.
 	issue ifNil: [ 
-		self stderr red: 'No more open issues available'; lf.
+		self publisher progressMessage: 'No more open issues available'.
 		self exitSuccess ].
 	^ issue
