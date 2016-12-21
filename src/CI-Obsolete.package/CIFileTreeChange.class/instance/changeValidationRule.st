@@ -1,3 +1,3 @@
-*CI-Validation
+validation
 changeValidationRule
 	^ CIChangeScriptValidationRule
