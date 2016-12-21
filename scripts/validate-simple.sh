@@ -1,5 +1,4 @@
 VM_PATH="$PWD/pharo"
-VM_PATH="pharo"
 MONKEY_IMAGE_NAME=Pharo
 TESTS_IMAGE_NAME=tests
 ISSUE=$1
