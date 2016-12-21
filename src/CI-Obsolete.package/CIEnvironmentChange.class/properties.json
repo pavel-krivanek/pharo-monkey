@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "CIAbstractChange",
+	"category" : "CI-Obsolete",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"from",
+		"to"
+	],
+	"name" : "CIEnvironmentChange",
+	"type" : "normal"
+}
