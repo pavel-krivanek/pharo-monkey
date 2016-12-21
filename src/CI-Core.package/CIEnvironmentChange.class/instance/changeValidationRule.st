@@ -1,3 +1,0 @@
-accessing
-changeValidationRule
-	^ self shouldBeImplemented 

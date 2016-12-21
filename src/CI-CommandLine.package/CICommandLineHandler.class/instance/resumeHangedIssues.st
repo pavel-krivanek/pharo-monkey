@@ -1,5 +1,4 @@
 action
 resumeHangedIssues
 
-	manager resumeHangedIssues.
-	^self exitSuccess
+	self monkey resumeHangedIssues.

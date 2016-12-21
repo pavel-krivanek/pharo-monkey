@@ -1,3 +1,0 @@
-accessing
-openIssues
-	self shouldBeImplemented

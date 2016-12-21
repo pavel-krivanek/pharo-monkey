@@ -1,4 +1,4 @@
-Usage: ci [config | slice ] [[list] [load|test [--issue=<issueNumber>][--next] [--update-issue]]] | [ anURL aConfigurationOf ] [ --html-resources=<URL> ]
+Usage: ci [config | issue ] [[list] [load|test [--issue=<issueNumber>][--next] [--update-issue]]] | [ anURL aConfigurationOf ] [ --html-resources=<URL> ]
 
 Slice part:
 

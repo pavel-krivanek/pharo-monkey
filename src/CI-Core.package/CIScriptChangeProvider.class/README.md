@@ -1,1 +1,0 @@
-I am provider in charge of loading a script from hard drive in order to load its contents before validation.
