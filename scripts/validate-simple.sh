@@ -1,4 +1,5 @@
 VM_PATH="$PWD/pharo"
+VM_PATH="pharo"
 MONKEY_IMAGE_NAME=Pharo
 TESTS_IMAGE_NAME=tests
 ISSUE=$1
@@ -8,17 +9,20 @@ PHARO_VERSION=$2
 CHECK_RESULT=true
 RESULT_MESSAGE=""
 
-#unzip -o 60329.zip
 wget -O - http://get.pharo.org/${PHARO_VERSION} | bash
 
 ${VM_PATH} "$MONKEY_IMAGE_NAME" st ./pharo-monkey/scripts/loadCI.st --save --quit
+
+if (($? > 0)); then
+    echo "error during monkey loading!"
+    exit 1
+fi
 
 cp "$MONKEY_IMAGE_NAME.image" "$TESTS_IMAGE_NAME.image"
 cp "$MONKEY_IMAGE_NAME.changes" "$TESTS_IMAGE_NAME.changes"
 
 ${VM_PATH} "$TESTS_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --issue=$ISSUE --lock > fetchResult.txt 
 
- 
 if (($? > 0)); then
     echo "error during issue fetching!"
     exit 1

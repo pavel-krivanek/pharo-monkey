@@ -1,10 +1,9 @@
 {
 	"instance" : {
-		"dispatchSubSliceCommand" : "PavelKrivanek 12/19/2016 10:05",
 		"processJoinReports" : "PavelKrivanek 12/19/2016 11:16",
 		"listIssueWithId:" : "ErwanDouaille 5/3/2013 15:34",
 		"monkey" : "PavelKrivanek 12/16/2016 13:06",
-		"setUpMonkey" : "PavelKrivanek 12/19/2016 10:26",
+		"setUpMonkey" : "PavelKrivanek 12/21/2016 10:47",
 		"testIssue" : "BenjaminVanRyseghem 3/5/2014 17:07",
 		"processIssue" : "PavelKrivanek 12/19/2016 11:16",
 		"manager" : "CamilloBruni 5/9/2013 14:12",

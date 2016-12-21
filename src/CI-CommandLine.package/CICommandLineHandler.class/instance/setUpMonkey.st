@@ -11,5 +11,10 @@ setUpMonkey
 		
 	monkey authenticateTracker.
 		
-	issueId ifNotNil: [ 
+	issueId ifNotNil: [
 		monkey fetchIssue: issueId ].
+	
+	monkey issue ifNil: [ 
+		self stderr red: 'No more open issues available'; lf.
+		self exitSuccess ].
+	
