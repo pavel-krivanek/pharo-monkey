@@ -15,6 +15,6 @@ setUpMonkey
 		monkey fetchIssue: issueId ].
 	
 	monkey issue ifNil: [ 
-		self publisher progressMessage: 'No more open issues available'; lf.
+		self publisher progressMessage: 'No more open issues available'.
 		self exitSuccess ].
 	
