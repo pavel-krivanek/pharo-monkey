@@ -98,8 +98,7 @@ fi
 ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   --success="$CHECK_RESULT" \
   --resultMessage="$RESULT_MESSAGE" \
-  --html \ 
-  --stepName="Overall result" \
+  --html --stepName="Overall result" \
   --reportFile="report" \
   --issue=$ISSUE \
   --html-resources="https://ci.inria.fr/pharo/view/6.0-Analysis/job/Pharo-6.0-Issue-Tracker-Image/ws/bootstrap/" \
