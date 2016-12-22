@@ -1,8 +1,16 @@
 {
 	"instance" : {
 		"publishError:" : "PavelKrivanek 12/16/2016 15:09",
+		"buildURL:" : "PavelKrivanek 12/22/2016 09:48",
+		"buildTag" : "PavelKrivanek 12/22/2016 09:48",
 		"publishResultList:title:" : "PavelKrivanek 12/13/2016 15:52",
-		"publishValidationResult:" : "PavelKrivanek 12/19/2016 13:31"
+		"htmlEnding:" : "PavelKrivanek 12/22/2016 09:46",
+		"publishConsoleOutput" : "PavelKrivanek 12/22/2016 09:57",
+		"publishTestParameters:" : "PavelKrivanek 12/22/2016 09:56",
+		"initialize" : "PavelKrivanek 12/22/2016 09:55",
+		"buildTag:" : "PavelKrivanek 12/22/2016 09:48",
+		"publishValidationResult:" : "PavelKrivanek 12/19/2016 13:31",
+		"buildURL" : "PavelKrivanek 12/22/2016 09:48"
 	},
 	"class" : { }
 }

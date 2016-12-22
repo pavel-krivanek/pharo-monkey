@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"buildURL",
+		"buildTag"
+	],
 	"name" : "CIHTMLPublisherForSingleStep",
 	"type" : "normal"
 }

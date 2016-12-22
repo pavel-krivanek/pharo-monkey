@@ -12,6 +12,8 @@ publisher
 			html fileName: reportFileName].
 		self optionAt: 'html-resources' ifPresent: [ :url |
 			html htmlResourcesUrl: url ].
+		html buildTag: self buildTag.
+		html buildURL: self buildURL.
 		publisher add: html.
 		].
 

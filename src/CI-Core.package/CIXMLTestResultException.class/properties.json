@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "PavelKrivanek 12/22/2016 10:02",
+	"super" : "Object",
+	"category" : "CI-Core-Validation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"type",
+		"testcase",
+		"selector",
+		"stack"
+	],
+	"name" : "CIXMLTestResultException",
+	"type" : "normal"
+}

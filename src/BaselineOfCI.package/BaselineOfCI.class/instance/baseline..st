@@ -68,16 +68,15 @@ baseline: spec
 			'MCFileTreeGitWriter'
 			'CI-Core'
 			'CI-FogBugzAPI'
-			'CI-Validation'
 			'CI-Core-Tests'
 			'CI-CommandLine').
 					
 		spec group: 'default' with: #(
 			'Basic'
-			'OSProcess'
+		"	'OSProcess'
 			'CommandShell' 
 			'ImageWorkerGroup'
 			'CI-ForkedValidation'
 			'CI-Loader'
-			'CI-Integration').
+			'CI-Integration'").
 ].
