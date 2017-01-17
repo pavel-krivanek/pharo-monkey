@@ -63,9 +63,6 @@ if [ $CHECK_RESULT == "true" ]; then
 #  git checkout "tags/$(cat ../tag.txt)"
 #  cd ..
 
- # DELETE ME
-  cp ./build.sh ./pharo-core/bootstrap/scripts/
-
   ${VM_PATH} "$MONKEY_IMAGE_NAME" ci issue export --html --stepName="Exporting issue changes to Git working copy" --reportFile="export" --issue="$ISSUE" --directory="./pharo-core/src"
   if (($? > 0)); then
     RESULT_MESSAGE="Exporting issue changes failed"
@@ -103,7 +100,7 @@ if [ $CHECK_RESULT == "true" ]; then
   ${VM_PATH} "$TESTS_IMAGE_NAME.image" test --junit-xml-output ReleaseTests
 
   # load patch with whitelisted tests
-  ${VM_PATH} "$MONKEY_IMAGE_NAME" st ./pharo-monkey/scripts/ignore-simple.st --save --quit
+  ${VM_PATH} "$MONKEY_IMAGE_NAME" st ./pharo-monkey/scripts/ignore-full-withoutBootstrap.st --save --quit
  
   # generate HTML report from test results obtained in form of XML
   ${VM_PATH} "$MONKEY_IMAGE_NAME" ci checkTestResults --html --stepName="SUnit tests" --reportFile="sunit" --issue=$ISSUE  --directory="./"
