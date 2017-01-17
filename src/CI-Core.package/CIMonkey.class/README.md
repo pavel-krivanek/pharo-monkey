@@ -1,5 +1,5 @@
 monkey := CIMonkey withTranscriptPublisher.
-monkey perform: [ 
+monkey execute: [ 
 	monkey 
 		user: 'some@email.cz' 
 		password: 'some password'
