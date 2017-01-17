@@ -7,10 +7,6 @@
 #   bash validate-simple.sh 19488 60
 
 
-# DETELE ME
-wget -O - http://get.pharo.org/vm60 | bash
-git clone https://github.com/pavel-krivanek/pharo-monkey.git
-
 VM_PATH="$PWD/pharo"
 MONKEY_IMAGE_NAME=Pharo
 TESTS_IMAGE_NAME=tests
