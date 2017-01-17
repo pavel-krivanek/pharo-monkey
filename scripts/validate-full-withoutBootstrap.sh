@@ -6,6 +6,11 @@
 #   bash validate-simple.sh next 60
 #   bash validate-simple.sh 19488 60
 
+
+# DETELE ME
+wget -O - http://get.pharo.org/vm60 | bash
+git clone https://github.com/pavel-krivanek/pharo-monkey.git
+
 VM_PATH="$PWD/pharo"
 MONKEY_IMAGE_NAME=Pharo
 TESTS_IMAGE_NAME=tests
@@ -26,14 +31,9 @@ if (($? > 0)); then
     exit 1
 fi
 
-# create image copy for issue loading and testing
-cp "$MONKEY_IMAGE_NAME.image" "$TESTS_IMAGE_NAME.image"
-cp "$MONKEY_IMAGE_NAME.changes" "$TESTS_IMAGE_NAME.changes"
-
 # fetch and lock issue
-# DELTE ME
 # --lock
-${VM_PATH} "$TESTS_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --issue=$ISSUE > fetchResult.txt 
+${VM_PATH} "$MONKEY_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --issue=$ISSUE > fetchResult.txt 
 
 if (($? > 0)); then
     echo "error during issue fetching!"
@@ -52,32 +52,49 @@ echo "https://pharo.fogbugz.com/f/cases/$ISSUE"
 
 if [ $CHECK_RESULT == "true" ]; then
 
-  # load issue slice/configuration
-  ${VM_PATH} "$TESTS_IMAGE_NAME" ci issue load --html --stepName="Issue loading" --reportFile="load" --issue=$ISSUE --save
+  wget https://ci.inria.fr/pharo/view/Pharo%20bootstrap/job/60-Bootstrap-32bit-Minimal-GIT/lastSuccessfulBuild/artifact/*zip*/archive.zip
+  unzip -p archive.zip "archive/pharo-core/tag.txt" > tag.txt
+
+  VERSION=$(cut -c2-6 tag.txt)
+  echo [version] $VERSION
+  
+  git clone https://github.com/guillep/pharo-core.git
+#  cd pharo-core
+#  git checkout "tags/$(cat ../tag.txt)"
+#  cd ..
+
+ # DELETE ME
+  cp ./build.sh ./pharo-core/bootstrap/scripts/
+
+  ${VM_PATH} "$MONKEY_IMAGE_NAME" ci issue export --html --stepName="Exporting issue changes to Git working copy" --reportFile="export" --issue="$ISSUE" --directory="./pharo-core/src"
   if (($? > 0)); then
-    RESULT_MESSAGE="Issue loading failed"
+    RESULT_MESSAGE="Exporting issue changes failed"
     CHECK_RESULT="false"
   fi
-
-  # save image in the new context to allow clean Monkey unloading
-  ${VM_PATH} "$TESTS_IMAGE_NAME" eval "Smalltalk saveImageInNewContext. Processor terminateActive"
-  if (($? > 0)); then
-    RESULT_MESSAGE="Monkey unloading failed"
-    CHECK_RESULT="false"
-  fi
-
-  # unload the Monkey
-  ${VM_PATH} "$TESTS_IMAGE_NAME" st ./pharo-monkey/scripts/unloadCI.st --save --quit
-  if (($? > 0)); then
-    RESULT_MESSAGE="Monkey unloading failed"
-    CHECK_RESULT="false"
-  fi
-
-  # clean image
-  ${VM_PATH} "$TESTS_IMAGE_NAME" clean --release
 fi
 
+
 if [ $CHECK_RESULT == "true" ]; then
+
+  unzip -p archive.zip "archive/pharo-core/bootstrap-cache.zip" > "./pharo-core/bootstrap-cache.zip"
+  cd pharo-core
+  unzip -o bootstrap-cache.zip
+  
+  wget -O - http://get.pharo.org/${PHARO_VERSION} | bash
+  
+  BOOTSTRAP_ARCH=32 bash ./bootstrap/scripts/build.sh
+  if (($? > 0)); then
+    RESULT_MESSAGE="Pharo reloading failed"
+    CHECK_RESULT="false"
+  fi
+fi
+
+
+if [ $CHECK_RESULT == "true" ]; then
+  cd ..
+  cp ./pharo-core/bootstrap-cache/Pharo.image "$TESTS_IMAGE_NAME.image"
+  cp ./pharo-core/bootstrap-cache/Pharo.changes "$TESTS_IMAGE_NAME.changes"
+
   # run all tests
   exclude="^(?!Metacello)"
   ${VM_PATH} "$TESTS_IMAGE_NAME.image" test --junit-xml-output "$exclude[A-L].*"
@@ -105,8 +122,7 @@ ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   --issue=$ISSUE \
   --html-resources="https://ci.inria.fr/pharo/view/6.0-Analysis/job/Pharo-6.0-Issue-Tracker-Image/ws/bootstrap/" \
   fetch.html \
-  load.html \
+  export.html \
   sunit.html 
 
-# DELETE ME
-#   --update-issue \
+#  --update-issue \
