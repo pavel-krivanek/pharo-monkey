@@ -64,7 +64,7 @@ if [ $CHECK_RESULT == "true" ]; then
 
   cd pharo-core
 
-  wget -O - http://get.pharo.org/${PHARO_VERSION} | bash
+  wget -O - http://get.pharo.org/${PHARO_VERSION}+vm | bash
   ./pharo Pharo.image ./bootstrap/scripts/prepare_image.st --save --quit
   if (($? > 0)); then
     RESULT_MESSAGE="Preparing of bootstrap environment failed"
