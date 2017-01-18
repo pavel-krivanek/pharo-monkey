@@ -123,4 +123,7 @@ ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   export.html \
   sunit.html 
 
-#  --update-issue \
+#  --update-issue \  
+  
+exit 0
+

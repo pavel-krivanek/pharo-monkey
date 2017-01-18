@@ -110,3 +110,5 @@ ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
 
 # DELETE ME
 #   --update-issue \
+
+exit 0
