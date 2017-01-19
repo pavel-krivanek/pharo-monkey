@@ -31,9 +31,7 @@ cp "$MONKEY_IMAGE_NAME.image" "$TESTS_IMAGE_NAME.image"
 cp "$MONKEY_IMAGE_NAME.changes" "$TESTS_IMAGE_NAME.changes"
 
 # fetch and lock issue
-# DELTE ME
-# --lock
-${VM_PATH} "$TESTS_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --issue=$ISSUE > fetchResult.txt 
+${VM_PATH} "$TESTS_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --issue=$ISSUE --lock > fetchResult.txt 
 
 if (($? > 0)); then
     echo "error during issue fetching!"
@@ -104,11 +102,9 @@ ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   --reportFile="report" \
   --issue=$ISSUE \
   --html-resources="https://ci.inria.fr/pharo/view/6.0-Analysis/job/Pharo-6.0-Issue-Tracker-Image/ws/bootstrap/" \
+  --update-issue \
   fetch.html \
   load.html \
   sunit.html 
-
-# DELETE ME
-#   --update-issue \
 
 exit 0
