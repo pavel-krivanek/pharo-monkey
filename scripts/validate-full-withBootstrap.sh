@@ -58,6 +58,12 @@ if [ $CHECK_RESULT == "true" ]; then
     RESULT_MESSAGE="Exporting issue changes failed"
     CHECK_RESULT="false"
   fi
+  
+  # create a diff file
+  cd ./pharo-core 
+  git add *
+  git diff HEAD > ../issue.diff
+  cd .. 
 fi
 
 if [ $CHECK_RESULT == "true" ]; then
