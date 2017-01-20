@@ -1,4 +1,4 @@
 Metacello new
   baseline: 'CI';
-  repository: 'filetree://../src';
+  repository: 'filetree://./pharo-monkey/src';
   load: #Basic.
