@@ -52,7 +52,7 @@ fi
 VERBOSE_OUTPUT_STREAM=${VERBOSE_OUTPUT_STREAM:-"/dev/null"}
 
 echo "[EXPORT] Cloning pharo core repository"
-git clone https://github.com/guillep/pharo-core.git ${TEMP}/pharo-core &> ${VERBOSE_OUTPUT_STREAM}
+git clone https://github.com/guillep/pharo-core.git ${TEMP}/pharo-core 2>&1 ${VERBOSE_OUTPUT_STREAM}
 #Checking out the corresponding version in git is not right. We should try simply to merge against latest version.
 #cd ${TEMP}/pharo-core
 #git checkout "tags/${COMMITISH}"
@@ -60,7 +60,7 @@ git clone https://github.com/guillep/pharo-core.git ${TEMP}/pharo-core &> ${VERB
 
 echo "[EXPORT] Exporting issue ${ISSUE} changes to git working copy"
 OPTIONS="--html --stepName=\"Exporting issue changes to Git working copy\" --reportFile=${TEMP_NAME}/export --issue=${ISSUE} --directory=./pharo-core/src"
-PHARO_CI_USER=$PHARO_CI_USER PHARO_CI_PWD=$PHARO_CI_PWD ${DIR}/pharo ${DIR}/Pharo.image ci issue export ${OPTIONS} &> ${VERBOSE_OUTPUT_STREAM}
+PHARO_CI_USER=$PHARO_CI_USER PHARO_CI_PWD=$PHARO_CI_PWD ${DIR}/pharo ${DIR}/Pharo.image ci issue export ${OPTIONS} 2>&1 ${VERBOSE_OUTPUT_STREAM}
 
 if (($? > 0)); then
   echo "[EXPORT] Error while exporting changes to git working copy"

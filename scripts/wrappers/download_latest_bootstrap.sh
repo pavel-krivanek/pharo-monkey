@@ -37,7 +37,7 @@ shift $((OPTIND-1))
 VERBOSE_OUTPUT_STREAM=${VERBOSE_OUTPUT_STREAM:-"/dev/null"}
 
 echo "[DOWNLOAD_LATEST_BOOTSTRAP] Downloading latest bootstrap files from CI: ${TEMP}/bootstrap.zip https://ci.inria.fr/pharo/view/Pharo%20bootstrap/job/60-Bootstrap-32bit-Minimal-GIT/lastSuccessfulBuild/artifact/*zip*/archive.zip"
-wget -O ${TEMP}/bootstrap.zip https://ci.inria.fr/pharo/view/Pharo%20bootstrap/job/60-Bootstrap-32bit-Minimal-GIT/lastSuccessfulBuild/artifact/*zip*/archive.zip  &> ${VERBOSE_OUTPUT_STREAM}
+wget -O ${TEMP}/bootstrap.zip https://ci.inria.fr/pharo/view/Pharo%20bootstrap/job/60-Bootstrap-32bit-Minimal-GIT/lastSuccessfulBuild/artifact/*zip*/archive.zip  2>&1 ${VERBOSE_OUTPUT_STREAM}
 
 COMMITISH=`unzip -p ${TEMP}/bootstrap.zip "archive/pharo-core/tag.txt"`
 VERSION=$(echo ${COMMITISH} | cut -c2-6)
@@ -46,7 +46,7 @@ echo "[DOWNLOAD_LATEST_BOOTSTRAP] Downloaded version $VERSION"
 echo "[DOWNLOAD_LATEST_BOOTSTRAP] Restoring bootstrap-cache"
 mkdir -p ${TEMP}/pharo-core
 unzip -p ${TEMP}/bootstrap.zip "archive/pharo-core/bootstrap-cache.zip" > "${TEMP}/pharo-core/bootstrap-cache.zip"
-unzip -o ${TEMP}/pharo-core/bootstrap-cache.zip -d ${TEMP}/pharo-core &> ${VERBOSE_OUTPUT_STREAM}
+unzip -o ${TEMP}/pharo-core/bootstrap-cache.zip -d ${TEMP}/pharo-core 2>&1 ${VERBOSE_OUTPUT_STREAM}
 
 if (($? > 0)); then
   echo "[DOWNLOAD_LATEST_BOOTSTRAP] Error while downloading latest bootstrap"

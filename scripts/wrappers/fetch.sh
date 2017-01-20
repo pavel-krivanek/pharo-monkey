@@ -1,5 +1,5 @@
 #!/bin/bash
-DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+DIR="$(dirname "$(readlink -f "$0")")"
 
 TEMP_NAME=tmp
 TEMP=${DIR}/${TEMP_NAME}
@@ -61,7 +61,7 @@ if [ ! -z ${LOCK} ]; then
 fi
 
 
-PHARO_CI_USER=$PHARO_CI_USER PHARO_CI_PWD=$PHARO_CI_PWD ${DIR}/pharo ${DIR}/Pharo.image ci issue fetch ${OPTIONS} &> ${VERBOSE_OUTPUT_STREAM}
+PHARO_CI_USER=$PHARO_CI_USER PHARO_CI_PWD=$PHARO_CI_PWD ${DIR}/pharo ${DIR}/Pharo.image ci issue fetch ${OPTIONS} 2>&1 ${VERBOSE_OUTPUT_STREAM}
 
 if (($? > 0)); then
   echo "[FETCH] Error while fetching issue"
