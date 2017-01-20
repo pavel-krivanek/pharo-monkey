@@ -28,8 +28,7 @@ if (($? > 0)); then
 fi
 
 # fetch and lock issue
-# --lock
-${VM_PATH} "$MONKEY_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --issue=$ISSUE > fetchResult.txt 
+${VM_PATH} "$MONKEY_IMAGE_NAME" ci issue fetch  --html  --stepName="Issue fetching and locking" --reportFile="fetch" --lock --issue=$ISSUE > fetchResult.txt 
 
 if (($? > 0)); then
     echo "error during issue fetching!"
@@ -125,11 +124,11 @@ ${VM_PATH} "$MONKEY_IMAGE_NAME" ci joinReports \
   --reportFile="report" \
   --issue=$ISSUE \
   --html-resources="https://ci.inria.fr/pharo/view/6.0-Analysis/job/Pharo-6.0-Issue-Tracker-Image/ws/bootstrap/" \
+  --update-issue \  
   fetch.html \
   export.html \
   sunit.html 
 
-#  --update-issue \  
   
 exit 0
 

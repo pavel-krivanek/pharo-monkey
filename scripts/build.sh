@@ -62,7 +62,7 @@ run_script "bash download.sh"
 cd ${PWD}
 
 echo "[BUILD] Installing Monkey"
-run_script "${BUILD_DIRECTORY}/pharo ${BUILD_DIRECTORY}/Pharo.image st ${DIR}/loadCI.st --save --quit"
+run_script ""${BUILD_DIRECTORY}/pharo" "${BUILD_DIRECTORY}/Pharo.image" eval --save Metacello new baseline: 'CI'; repository: 'filetree://${DIR}/../src'; load: #Basic."
 
 echo "[BUILD] Copying Results to "${TARGET_DIRECTORY}""
 mkdir -p "${TARGET_DIRECTORY}"
