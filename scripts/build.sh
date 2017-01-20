@@ -18,7 +18,7 @@ run_script(){
   local exit_status=0
   touch ${LOGFILE}
   echo "$ $@" | tee -a ${LOGFILE} > ${VERBOSE_OUTPUT_STREAM}
-  $@ #2>&1 | tee -a ${LOGFILE} > ${VERBOSE_OUTPUT_STREAM} ; exit_status=${PIPESTATUS[0]}
+  $@ 2>&1 | tee -a ${LOGFILE} > ${VERBOSE_OUTPUT_STREAM} ; exit_status=${PIPESTATUS[0]}
 
   if [ ${exit_status} -ne 0 ]; then
       echo "[BUILD] Error in script. Check ${LOGFILE} for more information"
