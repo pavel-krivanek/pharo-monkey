@@ -106,7 +106,7 @@ if [ $CHECK_RESULT == "true" ]; then
   ${VM_PATH} "$TESTS_IMAGE_NAME.image" test --junit-xml-output ReleaseTests
 
   # load patch with whitelisted tests
-#  ${VM_PATH} "$MONKEY_IMAGE_NAME" st ./pharo-monkey/scripts/ignore-full-withoutBootstrap.st --save --quit
+  ${VM_PATH} "$MONKEY_IMAGE_NAME" st ./pharo-monkey/scripts/ignore-full-withoutBootstrap.st --save --quit
  
   # generate HTML report from test results obtained in form of XML
   ${VM_PATH} "$MONKEY_IMAGE_NAME" ci checkTestResults --html --stepName="SUnit tests" --reportFile="sunit" --issue=$ISSUE  --directory="./"
