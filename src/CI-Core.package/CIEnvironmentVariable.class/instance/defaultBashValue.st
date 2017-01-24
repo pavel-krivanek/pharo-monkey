@@ -1,0 +1,4 @@
+accessing
+defaultBashValue
+
+	self subclassResponsibility

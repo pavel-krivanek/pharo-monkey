@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CI-Core-Exporter",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"writeStream",
+		"currentStep",
+		"errorCode",
+		"environmentVariables"
+	],
+	"name" : "CIBashWriter",
+	"type" : "normal"
+}

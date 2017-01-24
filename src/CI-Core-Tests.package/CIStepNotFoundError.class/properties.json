@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CIError",
+	"category" : "CI-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "CIStepNotFoundError",
+	"type" : "normal"
+}

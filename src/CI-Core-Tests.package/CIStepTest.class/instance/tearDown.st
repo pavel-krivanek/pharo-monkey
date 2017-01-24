@@ -1,0 +1,4 @@
+tests
+tearDown
+
+	CIStep baseDirectory ensureDeleteAllChildren

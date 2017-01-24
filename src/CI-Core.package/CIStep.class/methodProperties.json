@@ -1,0 +1,40 @@
+{
+	"instance" : {
+		"initialize" : "GuillermoPolito 1/24/2017 16:14",
+		"exportUsing:" : "GuillermoPolito 1/23/2017 12:06",
+		"process" : "GuillermoPolito 1/24/2017 16:22",
+		"beSuccess" : "GuillermoPolito 1/23/2017 14:37",
+		"name" : "GuillermoPolito 1/23/2017 11:46",
+		"beError:" : "GuillermoPolito 1/23/2017 14:27",
+		"isLastStep" : "GuillermoPolito 1/23/2017 13:36",
+		"process:" : "GuillermoPolito 1/24/2017 16:22",
+		"setUp" : "GuillermoPolito 1/23/2017 11:47",
+		"output:" : "GuillermoPolito 1/23/2017 13:20",
+		"nextStep" : "GuillermoPolito 1/23/2017 13:29",
+		"stepDirectory" : "GuillermoPolito 1/24/2017 16:42",
+		"copyOutputOperation" : "GuillermoPolito 1/23/2017 13:29",
+		"executeIn:" : "GuillermoPolito 1/23/2017 14:29",
+		"outputDirectory" : "GuillermoPolito 1/24/2017 17:26",
+		"name:" : "GuillermoPolito 1/23/2017 11:46",
+		"addOperation:" : "GuillermoPolito 1/23/2017 13:09",
+		"operations" : "GuillermoPolito 1/23/2017 13:23",
+		"changeStateFileDoing:" : "GuillermoPolito 1/23/2017 14:27",
+		"import" : "GuillermoPolito 1/24/2017 16:18",
+		"clean" : "GuillermoPolito 1/23/2017 16:08",
+		"buildDirectory" : "GuillermoPolito 1/24/2017 16:42",
+		"import:" : "GuillermoPolito 1/24/2017 16:13",
+		"beExecuting" : "GuillermoPolito 1/23/2017 14:27",
+		"buildOperations" : "GuillermoPolito 1/23/2017 12:06",
+		"output" : "GuillermoPolito 1/23/2017 17:40",
+		"state" : "GuillermoPolito 1/23/2017 14:23",
+		"stateFile" : "GuillermoPolito 1/23/2017 14:23",
+		"baseDirectory" : "GuillermoPolito 1/24/2017 16:43",
+		"nextStep:" : "GuillermoPolito 1/23/2017 13:31"
+	},
+	"class" : {
+		"named:" : "GuillermoPolito 1/23/2017 11:45",
+		"baseDirectory" : "GuillermoPolito 1/23/2017 11:52",
+		"exampleEval" : "GuillermoPolito 1/23/2017 17:19",
+		"exampleDownLoadPharo" : "GuillermoPolito 1/24/2017 10:54"
+	}
+}

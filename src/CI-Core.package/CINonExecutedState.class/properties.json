@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIExecutionState",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CINonExecutedState",
+	"type" : "normal"
+}

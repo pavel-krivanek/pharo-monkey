@@ -1,0 +1,4 @@
+accessing
+buildDirectory
+	
+	^ self baseDirectory

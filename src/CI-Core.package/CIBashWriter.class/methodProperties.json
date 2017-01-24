@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"writeStream" : "GuillermoPolito 1/24/2017 16:43",
+		"write:" : "GuillermoPolito 1/24/2017 11:37",
+		"endWriting" : "GuillermoPolito 1/23/2017 12:14",
+		"addEnvironmentVariable:" : "GuillermoPolito 1/23/2017 15:42",
+		"initialize" : "GuillermoPolito 1/23/2017 15:42",
+		"visitCallCIStep:" : "GuillermoPolito 1/24/2017 17:39",
+		"writeShebang" : "GuillermoPolito 1/23/2017 12:17",
+		"visitEcho:" : "GuillermoPolito 1/23/2017 15:56",
+		"environmentVariables" : "GuillermoPolito 1/23/2017 15:45",
+		"writeRunCommandFunction" : "GuillermoPolito 1/24/2017 11:38",
+		"visitError:" : "GuillermoPolito 1/23/2017 15:57",
+		"visitStep:" : "GuillermoPolito 1/24/2017 17:07",
+		"defineEnvironmentVariable:" : "GuillermoPolito 1/24/2017 13:49",
+		"newLine" : "GuillermoPolito 1/23/2017 12:05",
+		"writeLine:format:" : "GuillermoPolito 1/23/2017 15:06",
+		"visitShellCommand:" : "GuillermoPolito 1/23/2017 15:55",
+		"writeCommand:format:" : "GuillermoPolito 1/23/2017 15:57",
+		"writeLine:" : "GuillermoPolito 1/23/2017 13:18",
+		"visitCallPharo:" : "GuillermoPolito 1/24/2017 17:11",
+		"writeCommand:" : "GuillermoPolito 1/23/2017 15:56"
+	},
+	"class" : { }
+}

@@ -1,0 +1,4 @@
+testing
+isLastStep
+	
+	^ nextStep isNil

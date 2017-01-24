@@ -60,12 +60,7 @@ if [ ! -z ${LOCK} ]; then
   OPTIONS+=" --lock"
 fi
 
+. ${DIR}/monkey_run.sh --include
 
-PHARO_CI_USER=$PHARO_CI_USER PHARO_CI_PWD=$PHARO_CI_PWD ${DIR}/pharo ${DIR}/Pharo.image ci issue fetch ${OPTIONS} 2>&1 ${VERBOSE_OUTPUT_STREAM}
-
-if (($? > 0)); then
-  echo "[FETCH] Error while fetching issue"
-  exit 1
-else
-  echo "[FETCH] Fetched Issue https://pharo.fogbugz.com/f/cases/$ISSUE"
-fi
+PHARO_CI_USER=${PHARO_CI_USER} PHARO_CI_PWD=${PHARO_CI_PWD} monkey_run "FETCH" "${DIR}/pharo ${DIR}/Pharo.image ci issue fetch ${OPTIONS}"
+echo "[FETCH] Fetched Issue https://pharo.fogbugz.com/f/cases/$ISSUE"

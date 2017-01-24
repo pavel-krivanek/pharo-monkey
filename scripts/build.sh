@@ -69,6 +69,6 @@ mkdir -p "${TARGET_DIRECTORY}"
 cp -a "${BUILD_DIRECTORY}/Pharo.image" "${BUILD_DIRECTORY}/Pharo.changes" "${BUILD_DIRECTORY}/pharo" "${BUILD_DIRECTORY}/pharo-ui" "${BUILD_DIRECTORY}/pharo-vm" "${TARGET_DIRECTORY}"
 if [ -d "${DIR}/wrappers" ]; then
   echo "[BUILD] Deploy Wrapper Scripts"
-  cp -a "${DIR}/wrappers/." "${BUILD_DIRECTORY}"
+  cp -a "${DIR}/wrappers/." "${TARGET_DIRECTORY}"
 fi
 echo "[BUILD] DONE"

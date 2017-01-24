@@ -1,0 +1,40 @@
+#!/bin/bash
+
+SCRIPT_DIRECTORY="$(dirname "$(readlink -f "$0")")"
+
+export VERBOSE_OUTPUT_STREAM="${VERBOSE_OUTPUT_STREAM:-/dev/stdout}"
+
+MONKEY="${SCRIPT_DIRECTORY}/pharo ${SCRIPT_DIRECTORY}/Pharo.image"
+
+BUILD_DIRECTORY=`$MONKEY get-build-directory`
+
+while [ $# -ge 1 ]; do
+  case "$1" in
+    --)
+      # No more options left.
+      shift
+      break
+      ;;
+    *)
+      # Try to invoke a monkey command
+      if [ $1 == "build" ]; then
+        COMMAND="${MONKEY} generate-build-files"
+        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+        . ${COMMAND}
+
+        COMMAND="${BUILD_DIRECTORY}/build.sh"
+        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+
+        PREVIOUS_PWD=${PWD}
+        cd ${BUILD_DIRECTORY}
+        bash build.sh
+        cd ${PREVIOUS_PWD}
+      else
+        COMMAND="${MONKEY} ${@}"
+        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+        bash ${COMMAND}
+      fi
+      ;;
+  esac
+  shift
+done

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIEnvironmentVariable",
+	"category" : "CI-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIWorkingDirectoryEnvironmentVariable",
+	"type" : "normal"
+}

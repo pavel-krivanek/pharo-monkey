@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CIAbstractCLHandler",
+	"category" : "CI-CommandLine",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIGetBuildDirectoryCLHandler",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testProcessCleanStepByNameShouldNotRemoveOtherStepDirectory" : "GuillermoPolito 1/24/2017 11:26",
+		"testProcessCleanStepByNameShouldNotRemoveBaseDirectory" : "GuillermoPolito 1/24/2017 11:25",
+		"testProcessCleanStepShouldNotRemoveBaseDirectory" : "GuillermoPolito 1/24/2017 11:19",
+		"tearDown" : "GuillermoPolito 1/24/2017 11:17",
+		"testProcessCleanStepByNameShouldRemoveItsStepDirectory" : "GuillermoPolito 1/24/2017 11:20",
+		"testProcessCleanStepShouldRemoveItsStepDirectory" : "GuillermoPolito 1/24/2017 11:21",
+		"testProcessCleanNonExistingStepShouldFail" : "GuillermoPolito 1/24/2017 11:22",
+		"testProcessCleanStepShouldNotRemoveOtherStepDirectory" : "GuillermoPolito 1/24/2017 11:19",
+		"testProcessCleanAllShouldRemoveBaseDirectory" : "GuillermoPolito 1/24/2017 11:18"
+	},
+	"class" : { }
+}

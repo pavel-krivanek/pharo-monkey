@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"tearDown" : "GuillermoPolito 1/24/2017 11:27",
+		"testProcessBuildAllShouldCreateStepBuildDirectory" : "GuillermoPolito 1/24/2017 11:28",
+		"testProcessBuildAllShouldCreateBaseDirectory" : "GuillermoPolito 1/24/2017 11:27"
+	},
+	"class" : { }
+}

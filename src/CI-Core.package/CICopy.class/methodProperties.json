@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"executeIn:" : "GuillermoPolito 1/23/2017 13:35",
+		"filesToCopy:" : "GuillermoPolito 1/23/2017 13:32",
+		"destination:" : "GuillermoPolito 1/23/2017 13:33",
+		"initialize" : "GuillermoPolito 1/23/2017 14:35"
+	},
+	"class" : {
+		"filesToCopy:destination:" : "GuillermoPolito 1/23/2017 13:32"
+	}
+}
