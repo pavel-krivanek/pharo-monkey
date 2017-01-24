@@ -4,28 +4,9 @@
 wantsToIgnoreError: aCIXMLTestResultException
 
 	^ {
-		#DADependencyCheckerTest -> #testShouldGetDirectDependencies.
-		#DADependencyCheckerTest -> #testShouldGetUnresolvedDependencies.
-		#DAMessageSendAnalyzerTest -> #testShouldFindDependencyWhenUnimplementedCalls.
-		#DAMessageSendAnalyzerTest -> #testShouldGetPotentialMatchForUnimplementedCalls.
-		#UpdateStreamerTest -> #testDefaultPath.
-		#SmalllintManifestCheckerTest -> #testCriticsOf.
-		#SmalllintManifestCheckerTest -> #testIsFalsePositive.
-		#SmalllintManifestCheckerTest -> #testIsToDo.
-		#SmalllintManifestCheckerTest -> #testToDoOf.
-		#ScriptLoaderTest -> #testAllCurrentPackagesContainScriptLoader.
-		#ScriptLoaderTest -> #testAllCurrentVersionsContainsScriptLoader.
-		#ScriptLoaderTest -> #testMarkPackageBeforeLoad.
 		#MBConfigurationInfoTest -> #testInitialization.
 		#ZnFileUrlTests -> #testRetrieveContents.
 		#ZnFileUrlTests -> #testWindowsDriveNamesInFileUrl.
-		#FileLocatorTest -> #testMoveTo.
-
-		#ReleaseTest -> #testUndeclared. 
-		#WeakAnnouncerTest -> #testNoDeadWeakSubscriptions.
-		#SystemAnnouncerLiveTest -> #testNoDeadSubscriptions.
-		
-		"#ZnHTTPSTests -> #testTransfersSingleClient. "
 	} includes: (aCIXMLTestResultException testcase  ->  aCIXMLTestResultException selector)
 ! !
 
@@ -39,15 +20,10 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 		#ReleaseTest -> #testAllClassPoolBindingAreClassVariables.
 		#ReleaseTest -> #testThatAllMethodsArePackaged.
 		#ReleaseTest -> #testUnpackagedClasses.
+		#ReleaseTest -> #testUndeclared. 
 		#MCStWriterTest -> #testMethodDefinitionWithBangs.
 		#CompiledMethodTest -> #testMethodsOfTheClassShouldNotBeRepeatedInItsSuperclasses.
-		#UDPSocketEchoTest -> #testEcho.
-		#FileHandleTest -> #testTruncate.
 		#SourceFileArrayTest -> #testProtocol.
 		#SourceFileArrayTest -> #testTimeStamp.
-
-		#ReleaseTest -> #testUndeclared. 
-		#WeakAnnouncerTest -> #testNoDeadWeakSubscriptions.
-		#SystemAnnouncerLiveTest -> #testNoDeadSubscriptions.
 	} includes: (aCIXMLTestResultException testcase  ->  aCIXMLTestResultException selector)
 ! !
