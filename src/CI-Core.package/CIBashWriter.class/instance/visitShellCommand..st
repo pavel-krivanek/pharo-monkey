@@ -1,4 +1,4 @@
 visiting
 visitShellCommand: aCIShellCommand 
 	
-	self writeCommand: aCIShellCommand command
+	self executeShellCommand: aCIShellCommand command
