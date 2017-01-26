@@ -18,9 +18,11 @@ while [ $# -ge 1 ]; do
     *)
       # Try to invoke a monkey command
       if [ $1 == "build" ]; then
-        COMMAND="${MONKEY} generate-build-files"
-        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
-        . ${COMMAND}
+        if [ ! -f ${BUILD_DIRECTORY}/build.sh ]; then
+          COMMAND="${MONKEY} generate-build-files"
+          echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+          . ${COMMAND}
+        fi
 
         COMMAND="${BUILD_DIRECTORY}/build.sh"
         echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
