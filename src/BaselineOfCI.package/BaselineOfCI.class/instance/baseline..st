@@ -47,7 +47,7 @@ baseline: spec
 
 		spec package: 'CI-Core'.
 		spec package: 'CI-Build'.
-		spec package: 'CI-Build-Test'.
+		spec package: 'CI-Build-Tests'.
 		spec package: 'CI-FogBugzAPI'.
 		spec package: 'CI-Validation'.
 		spec package: 'CI-Core-Tests'.
