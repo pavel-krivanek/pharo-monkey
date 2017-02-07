@@ -46,6 +46,8 @@ baseline: spec
 		spec package: 'MCFileTreeGitWriter'.
 
 		spec package: 'CI-Core'.
+		spec package: 'CI-Build'.
+		spec package: 'CI-Build-Test'.
 		spec package: 'CI-FogBugzAPI'.
 		spec package: 'CI-Validation'.
 		spec package: 'CI-Core-Tests'.
@@ -69,7 +71,9 @@ baseline: spec
 			'CI-Core'
 			'CI-FogBugzAPI'
 			'CI-Core-Tests'
-			'CI-CommandLine').
+			'CI-CommandLine'
+			'CI-Build'
+			'CI-Build-Tests').
 					
 		spec group: 'default' with: #(
 			'Basic'
