@@ -4,9 +4,9 @@ basicExecuteSubtask: aCITask
 	self pushTask: aCITask.
 	isTravis
 		ifTrue: [ 
-			self echo: 'travis_fold:start:SCRIPT folding starts' ].
+			self echo: 'travis_fold:start:Monkey Build Task ', aCITask name ].
 	aCITask executeWith: self.
 	isTravis
 		ifTrue: [ 
-			self echo: 'travis_fold:end:SCRIPT folding ends' ].
+			self echo: 'travis_fold:end:Monkey Build Task ', aCITask name ].
 	self pop.
