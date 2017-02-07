@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "CIExecutor",
+	"category" : "CI-Build",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileStack",
+		"shellFiles",
+		"taskFilesDictionary"
+	],
+	"name" : "CIBashExecutor",
+	"type" : "normal"
+}

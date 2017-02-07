@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testTaskExecutionExecutesPharoEvalCommand" : "GuillermoPolito 1/30/2017 17:13",
+		"testTaskExecutionSetUps" : "GuillermoPolito 1/30/2017 16:38",
+		"testTaskExecutionExecutesSubtask" : "GuillermoPolito 1/30/2017 16:36",
+		"testTaskExecutionInformsSuccessAtEnd" : "GuillermoPolito 1/30/2017 16:38",
+		"testTaskExecutionExecutesPharoStCommand" : "GuillermoPolito 2/7/2017 16:52",
+		"testTaskExecutionExecutesPharoTestCommand" : "GuillermoPolito 1/30/2017 17:13",
+		"testTaskExecutionExecutesDump" : "GuillermoPolito 1/30/2017 16:57",
+		"testTaskExecutionExecutesError" : "GuillermoPolito 2/2/2017 10:37",
+		"testTaskExecutionChecksStatus" : "GuillermoPolito 1/30/2017 16:33",
+		"testTaskExecutionExecutesShellCommand" : "GuillermoPolito 1/30/2017 17:16",
+		"setUp" : "GuillermoPolito 1/30/2017 16:13"
+	},
+	"class" : { }
+}

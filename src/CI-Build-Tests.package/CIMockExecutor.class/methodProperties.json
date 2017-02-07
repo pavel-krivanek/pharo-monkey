@@ -1,0 +1,28 @@
+{
+	"instance" : {
+		"checksStatus" : "GuillermoPolito 1/30/2017 16:20",
+		"isCallingBash:" : "GuillermoPolito 1/30/2017 17:18",
+		"initialize" : "GuillermoPolito 2/7/2017 16:48",
+		"executeSubtask:" : "GuillermoPolito 1/30/2017 16:35",
+		"executeBash:" : "GuillermoPolito 1/30/2017 17:18",
+		"copy:to:" : "GuillermoPolito 2/7/2017 16:49",
+		"setUp" : "GuillermoPolito 1/30/2017 16:26",
+		"hasExecuted:" : "GuillermoPolito 1/30/2017 16:34",
+		"informedSuccessAsLastOperation" : "GuillermoPolito 1/30/2017 16:25",
+		"isCallingPharo:arguments:" : "GuillermoPolito 2/7/2017 16:50",
+		"execute:" : "GuillermoPolito 1/30/2017 16:26",
+		"callPharoCommand:arguments:options:" : "GuillermoPolito 2/2/2017 11:42",
+		"callPharoWithArguments:vmOptions:" : "GuillermoPolito 2/7/2017 16:50",
+		"isSetUp" : "GuillermoPolito 1/30/2017 16:21",
+		"checkPreviousStatus" : "GuillermoPolito 1/30/2017 16:26",
+		"informSuccess" : "GuillermoPolito 1/30/2017 16:27",
+		"callPharoCommand:arguments:" : "GuillermoPolito 1/30/2017 17:06",
+		"error:" : "GuillermoPolito 1/30/2017 16:59",
+		"log:" : "GuillermoPolito 2/7/2017 16:47",
+		"tearDown" : "GuillermoPolito 2/7/2017 16:49",
+		"dumpFileAbsolute:" : "GuillermoPolito 1/30/2017 17:23",
+		"isDumping:" : "GuillermoPolito 1/30/2017 16:45",
+		"throwsError:" : "GuillermoPolito 1/30/2017 17:00"
+	},
+	"class" : { }
+}

@@ -1,0 +1,36 @@
+{
+	"instance" : {
+		"shellFileForTask:" : "GuillermoPolito 2/1/2017 12:14",
+		"shellFiles" : "GuillermoPolito 1/30/2017 17:32",
+		"initialize" : "GuillermoPolito 2/1/2017 12:15",
+		"buildFileName" : "GuillermoPolito 2/1/2017 16:54",
+		"pop" : "GuillermoPolito 2/1/2017 12:42",
+		"executeBash:" : "GuillermoPolito 2/1/2017 12:03",
+		"executeSubtask:" : "GuillermoPolito 2/1/2017 16:58",
+		"basicExecuteSubtask:" : "GuillermoPolito 2/1/2017 16:58",
+		"copy:to:" : "GuillermoPolito 2/1/2017 17:12",
+		"popCurrentFile" : "GuillermoPolito 2/1/2017 12:39",
+		"setUp" : "GuillermoPolito 2/7/2017 13:30",
+		"stop" : "GuillermoPolito 2/1/2017 12:42",
+		"currentBashFile" : "GuillermoPolito 1/30/2017 17:30",
+		"runManaged:" : "GuillermoPolito 2/2/2017 10:17",
+		"tearDown" : "GuillermoPolito 2/1/2017 16:52",
+		"callPharoWithArguments:vmOptions:" : "GuillermoPolito 2/7/2017 13:28",
+		"deleteFile:" : "GuillermoPolito 2/7/2017 12:23",
+		"newLine" : "GuillermoPolito 2/2/2017 10:19",
+		"error:" : "GuillermoPolito 2/2/2017 10:41",
+		"checkPreviousStatus" : "GuillermoPolito 2/2/2017 16:16",
+		"informSuccess" : "GuillermoPolito 2/1/2017 17:19",
+		"log:" : "GuillermoPolito 2/7/2017 14:00",
+		"pushNewFile:" : "GuillermoPolito 2/1/2017 12:16",
+		"currentTask" : "GuillermoPolito 2/1/2017 17:28",
+		"callTask:" : "GuillermoPolito 2/2/2017 16:19",
+		"dumpFileAbsolute:" : "GuillermoPolito 2/1/2017 17:23",
+		"pushTask:" : "GuillermoPolito 2/1/2017 16:54",
+		"export" : "GuillermoPolito 2/1/2017 12:35",
+		"copy:to:recursive:" : "GuillermoPolito 2/1/2017 17:26"
+	},
+	"class" : {
+		"export:" : "GuillermoPolito 2/7/2017 13:25"
+	}
+}

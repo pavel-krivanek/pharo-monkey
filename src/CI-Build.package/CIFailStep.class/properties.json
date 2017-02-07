@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CIStep",
+	"category" : "CI-Build",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"errorCode"
+	],
+	"name" : "CIFailStep",
+	"type" : "normal"
+}

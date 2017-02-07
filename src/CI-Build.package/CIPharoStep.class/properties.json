@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "CIStep",
+	"category" : "CI-Build",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"arguments",
+		"vmOptions"
+	],
+	"name" : "CIPharoStep",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"instance" : { },
+	"class" : {
+		"dumpBootstrapSources" : "GuillermoPolito 2/1/2017 17:43",
+		"metacello" : "GuillermoPolito 2/7/2017 14:04",
+		"core" : "GuillermoPolito 2/7/2017 15:57",
+		"bootstrap" : "GuillermoPolito 2/7/2017 15:25",
+		"bootstrapProcessImage" : "GuillermoPolito 2/7/2017 13:27",
+		"downloadPharo" : "GuillermoPolito 2/1/2017 17:38",
+		"composedFail" : "GuillermoPolito 2/2/2017 10:42",
+		"fail" : "GuillermoPolito 2/2/2017 10:37",
+		"pharoFull" : "GuillermoPolito 2/7/2017 16:04",
+		"monticelloBootstrap" : "GuillermoPolito 2/7/2017 14:05",
+		"monticelloFull" : "GuillermoPolito 2/7/2017 14:04"
+	}
+}

@@ -1,0 +1,4 @@
+writing
+addShebang
+	
+	hasShebang := true

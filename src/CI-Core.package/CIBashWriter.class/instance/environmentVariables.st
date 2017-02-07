@@ -1,3 +1,0 @@
-accessing
-environmentVariables
-	^ environmentVariables

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "CI-Build-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CIError",
+	"type" : "normal"
+}

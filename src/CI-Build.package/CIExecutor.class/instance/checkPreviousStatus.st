@@ -1,0 +1,4 @@
+executing
+checkPreviousStatus
+	
+	self subclassResponsibility

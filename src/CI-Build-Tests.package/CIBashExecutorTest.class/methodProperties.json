@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"testExecutorHasOneFileByDefault" : "GuillermoPolito 2/1/2017 11:39",
+		"testChecksStatusCreatesStatementInShellFile" : "GuillermoPolito 2/1/2017 11:46",
+		"testInformSuccessCreatesStatementInShellFile" : "GuillermoPolito 2/1/2017 12:04",
+		"testExecutorCreatesSubtaskShellFileInSubtaskBaseDirectory" : "GuillermoPolito 2/1/2017 12:40",
+		"testCallPharoCreatesStatementInShellFile" : "GuillermoPolito 2/7/2017 13:23",
+		"testSubtaskShellScriptHasStatement" : "GuillermoPolito 2/1/2017 12:40",
+		"testErrorCreatesStatementInShellFile" : "GuillermoPolito 2/1/2017 11:56",
+		"testBashCommandCreatesStatementInShellFile" : "GuillermoPolito 2/1/2017 12:03",
+		"testSetUpCreatesStatementInShellFile" : "GuillermoPolito 2/1/2017 12:05",
+		"testExecutorCreatesShellFileInBaseDirectory" : "GuillermoPolito 2/1/2017 12:24",
+		"testDumpCreatesStatementInShellFile" : "GuillermoPolito 2/1/2017 11:46",
+		"setupProcess:thenAssert:" : "GuillermoPolito 2/1/2017 11:45",
+		"testExecuteSubtaskCreatesNewShellFile" : "GuillermoPolito 2/1/2017 12:42",
+		"setUp" : "GuillermoPolito 2/1/2017 12:19"
+	},
+	"class" : { }
+}

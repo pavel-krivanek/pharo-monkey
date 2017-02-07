@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "CIPharoStep",
+	"category" : "CI-Build",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"filePath",
+		"expression",
+		"shouldSave"
+	],
+	"name" : "CIEvalScriptStep",
+	"type" : "normal"
+}

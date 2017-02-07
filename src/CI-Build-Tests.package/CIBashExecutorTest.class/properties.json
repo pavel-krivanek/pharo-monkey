@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "CI-Build-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"process",
+		"executor"
+	],
+	"name" : "CIBashExecutorTest",
+	"type" : "normal"
+}

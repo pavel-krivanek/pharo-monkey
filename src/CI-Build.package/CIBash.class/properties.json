@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "GuillermoPolito 2/1/2017 14:01",
+	"super" : "Object",
+	"category" : "CI-Build",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"statements",
+		"hasShebang"
+	],
+	"name" : "CIBash",
+	"type" : "normal"
+}

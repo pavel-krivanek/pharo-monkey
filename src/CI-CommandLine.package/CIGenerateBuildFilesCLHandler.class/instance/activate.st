@@ -1,5 +1,5 @@
 activation
 activate
 
-	self process exportUsing: CIBashExporter new.
+	CIBashExecutor export: self mainTask.
 	self exitSuccess.

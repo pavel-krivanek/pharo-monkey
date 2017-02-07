@@ -1,8 +1,0 @@
-{
-	"instance" : {
-		"tearDown" : "GuillermoPolito 1/23/2017 13:36",
-		"testOneStepsOutputIsNextStepsInput" : "GuillermoPolito 1/23/2017 13:37",
-		"testEachStepKnowsNextStep" : "GuillermoPolito 1/23/2017 13:39"
-	},
-	"class" : { }
-}

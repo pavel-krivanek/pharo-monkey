@@ -1,4 +1,0 @@
-accessing
-defaultBashValue
-
-	self subclassResponsibility

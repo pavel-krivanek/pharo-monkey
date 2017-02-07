@@ -1,4 +1,0 @@
-accessing
-addEnvironmentVariable: anEnvironmentVariableDefinition
-	
-	environmentVariables add: anEnvironmentVariableDefinition 

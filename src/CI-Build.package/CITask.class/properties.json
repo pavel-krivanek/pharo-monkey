@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CI-Build",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"operations",
+		"output",
+		"nextStep",
+		"import",
+		"process",
+		"baseDirectory",
+		"tasks",
+		"taskDirectory",
+		"steps"
+	],
+	"name" : "CITask",
+	"type" : "normal"
+}

@@ -1,4 +1,0 @@
-accessing
-buildDirectory
-	
-	^ self baseDirectory

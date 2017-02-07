@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "CIExecutor",
+	"category" : "CI-Build-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"checksStatus",
+		"isSetUp",
+		"informedSuccessAtEnd",
+		"executedTasks",
+		"dumpedFiles",
+		"errorsThrown",
+		"lastPharoCommand",
+		"lastPharoCommandArguments",
+		"executedBash",
+		"lastPharoOptions",
+		"logs"
+	],
+	"name" : "CIMockExecutor",
+	"type" : "normal"
+}
