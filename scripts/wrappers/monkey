@@ -1,12 +1,10 @@
 #!/bin/bash
 
 SCRIPT_DIRECTORY="$(dirname "$(readlink -f "$0")")"
-
 export VERBOSE_OUTPUT_STREAM="${VERBOSE_OUTPUT_STREAM:-/dev/stdout}"
 
-MONKEY="${SCRIPT_DIRECTORY}/pharo ${SCRIPT_DIRECTORY}/Pharo.image"
-
-BUILD_DIRECTORY=`$MONKEY get-build-directory`
+OPTIONS=()
+TASKS=()
 
 while [ $# -ge 1 ]; do
   case "$1" in
@@ -16,27 +14,42 @@ while [ $# -ge 1 ]; do
       break
       ;;
     *)
-      # Try to invoke a monkey command
-      if [ $1 == "build" ]; then
-        if [ ! -f ${BUILD_DIRECTORY}/build.sh ]; then
-          COMMAND="${MONKEY} generate-build-files"
-          echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
-          . ${COMMAND}
-        fi
-
-        COMMAND="${BUILD_DIRECTORY}/build.sh"
-        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
-
-        PREVIOUS_PWD=${PWD}
-        cd ${BUILD_DIRECTORY}
-        bash build.sh
-        cd ${PREVIOUS_PWD}
+      if [[ $1 == \-* ]]; then
+        OPTIONS+=($1)
       else
-        COMMAND="${MONKEY} ${@}"
-        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
-        bash ${COMMAND}
+        TASKS+=($1)
       fi
-      ;;
   esac
   shift
+done
+
+MONKEY_VM="${SCRIPT_DIRECTORY}/pharo"
+MONKEY_IMAGE="${SCRIPT_DIRECTORY}/Pharo.image"
+MONKEY=" ${MONKEY_VM} ${MONKEY_IMAGE}"
+BUILD_DIRECTORY="${PWD}/build"
+
+for task in ${TASKS[@]}
+do
+  case "$task" in
+    build)
+      if [ ! -f ${BUILD_DIRECTORY}/build.sh ]; then
+        COMMAND="${MONKEY} generate-build-files ${OPTIONS[@]}"
+        echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+        . ${COMMAND}
+      fi
+
+      COMMAND="${BUILD_DIRECTORY}/build.sh"
+      echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+
+      PREVIOUS_PWD=${PWD}
+      cd ${BUILD_DIRECTORY}
+      bash build.sh
+      cd ${PREVIOUS_PWD}
+      ;;
+    *)
+      COMMAND="${MONKEY} ${task}  ${OPTIONS[@]}"
+      echo "$ ${COMMAND}" > "${VERBOSE_OUTPUT_STREAM}"
+      bash ${COMMAND}
+      ;;
+  esac
 done
