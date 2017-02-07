@@ -39,6 +39,7 @@
 		"trimmedName" : "GuillermoPolito 1/27/2017 13:53",
 		"beRoot" : "GuillermoPolito 2/1/2017 13:52",
 		"command:" : "GuillermoPolito 2/7/2017 14:13",
+		"echo:" : "GuillermoPolito 2/7/2017 17:43",
 		"output:" : "GuillermoPolito 1/23/2017 13:20",
 		"addSubtask:" : "GuillermoPolito 1/30/2017 16:36",
 		"process" : "GuillermoPolito 1/24/2017 16:22",
@@ -57,7 +58,6 @@
 		"default" : "GuillermoPolito 2/7/2017 16:32",
 		"named:" : "GuillermoPolito 1/23/2017 11:45",
 		"exampleDownLoadPharo" : "GuillermoPolito 1/30/2017 17:16",
-		"newRoot" : "GuillermoPolito 2/1/2017 13:52",
 		"fromMonkeyFile:" : "GuillermoPolito 2/7/2017 16:33"
 	}
 }

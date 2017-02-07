@@ -1,5 +1,10 @@
 activation
 activate
 
-	CIBashExecutor export: self mainTask.
+	| executor |
+	executor := CIBashExecutor new.
+	executor beTravis: (self hasOption: 'travis').
+	executor basicExecuteSubtask: self mainTask.
+	executor export.
+	
 	self exitSuccess.

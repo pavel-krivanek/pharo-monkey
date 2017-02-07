@@ -3,5 +3,5 @@ setUp
 
 	super setUp.
 	executor := CIBashExecutor new.	
-	process := CITask newRoot.
+	process := CITask new.
 	executor pushTask: process.
