@@ -1,4 +1,4 @@
-as yet unclassified
+convenience
 pharoEval: anExpression save: aBoolean
 
 	| eval |

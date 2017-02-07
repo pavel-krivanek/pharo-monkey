@@ -1,7 +1,8 @@
 printing
 printOn: aStream tabbedTimes: aNumberOfTabs
 
-	aNumberOfTabs timesRepeat: [ aStream tab ].
+	aNumberOfTabs * 4 timesRepeat: [ 
+		aStream space ].
 	
 	aStream
 		nextPutAll: self name;
