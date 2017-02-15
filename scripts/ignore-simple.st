@@ -13,7 +13,7 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 
 	
 	^ {
-		#ReleaseTest->#testUndeclared. 
+		"#ReleaseTest->#testUndeclared. "
 		#WeakAnnouncerTest->#testNoDeadWeakSubscriptions.
 		#SystemAnnouncerLiveTest->#testNoDeadSubscriptions.
 		
