@@ -13,9 +13,19 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 
 	
 	^ {
-		#ReleaseTest->#testUndeclared. 
 		#WeakAnnouncerTest->#testNoDeadWeakSubscriptions.
 		#SystemAnnouncerLiveTest->#testNoDeadSubscriptions.
+		
+		#ZnHTTPSTests->#testWikimedia.
+		#ZnResponseTests->#testSlashdotGzipChunke.
+		#ZnClientTests->#testGetGeoIP.
+		#ZdcSecureSocketStreamTests->#testPlain.
+		#ZnHTTPSTests->#testRequestResponse.
+		#ZnHTTPSTests->#testTransfers.
+		#ZnClientTests->#testGetSmallHTMLStreaming.
+		#ZnEasyTests->#testHeadSmallHTMLDocument.
+		#ZnResponseTests->#testSlashdotGzipChunked.
+		#ZnHTTPSTests->#testGForceInria. 
 		
 		"#ZnHTTPSTests->#testTransfersSingleClient. "
 	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)
