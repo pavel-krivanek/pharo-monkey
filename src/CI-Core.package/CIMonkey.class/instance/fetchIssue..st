@@ -6,8 +6,8 @@ fetchIssue: issueId
 
 	self assert: self manager isAuthenticated.
 	
-	(issueId = 'GIT_BRANCH') 
-		ifTrue: [ ^ self fetchIssueFromGitBranch ].
+	(issueId = 'sha1') 
+		ifTrue: [ ^ self fetchIssueFromSha1 ].
 		
 	(issueId isNil or: [issueId = 'next']) 
 		ifTrue: [ ^ self fetchNextIssue ].

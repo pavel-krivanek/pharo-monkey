@@ -1,21 +1,21 @@
 action
-fetchIssueFromGitBranch
+fetchIssueFromSha1
 
-	"try to resolve issue from the entry in the GIT_BRANCH environment variable.
+	"try to resolve issue from the entry in the 'sha1' environment variable.
 	The content of this variable is supposed to be like 'origin/pr/110/head'"
 	
 	| gitBranch candidates pullRequestId issueId |
 	
-	self publisher progressMessage: 'Fetching issue from GIT_BRANCH environment variable...'.
+	self publisher progressMessage: 'Fetching issue from sha1 environment variable...'.
 	
-	gitBranch := OSEnvironment current getEnv: 'GIT_BRANCH'.
+	gitBranch := OSEnvironment current getEnv: 'sha1'.
 	gitBranch ifNil: [ 
-		self publisher progressMessage: 'GIT_BRANCH environment variable not set'.
+		self publisher progressMessage: 'sha1 environment variable not set'.
 		^ nil ].
 	
 	candidates := (gitBranch allRegexMatches: '/pr/\d+').
 	(candidates size = 1) ifFalse: [ 
-		self publisher progressMessage: 'GIT_BRANCH environment variable has a wrong format'.
+		self publisher progressMessage: 'sha1 environment variable has a wrong format'.
 		^ nil ].
 
 	pullRequestId := candidates first withoutPrefix: '/pr/'.
