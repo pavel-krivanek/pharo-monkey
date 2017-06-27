@@ -5,6 +5,9 @@ fetchIssue: issueId
 	next issue to be checked. Can return nil if no fitting issue was found."	
 
 	self assert: self manager isAuthenticated.
+	
+	(issueId = 'GIT_BRANCH') 
+		ifTrue: [ ^ self fetchIssueFromGitBranch ].
 		
 	(issueId isNil or: [issueId = 'next']) 
 		ifTrue: [ ^ self fetchNextIssue ].

@@ -1,8 +1,0 @@
-{
-	"instance" : {
-		"select:inParallel:" : "Integrator 6/21/2012 17:59",
-		"do:inParallel:" : "Integrator 6/21/2012 17:59",
-		"doWithIndex:inParallel:" : "Integrator 6/21/2012 17:59"
-	},
-	"class" : { }
-}
