@@ -16,6 +16,8 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 		#WeakAnnouncerTest->#testNoDeadWeakSubscriptions.
 		#SystemAnnouncerLiveTest->#testNoDeadSubscriptions.
 		
+		#FileSystemHandleTest->#testTruncate.
+		
 		#ZnHTTPSTests->#testWikimedia.
 		#ZnResponseTests->#testSlashdotGzipChunke.
 		#ZnClientTests->#testGetGeoIP.
