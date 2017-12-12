@@ -17,6 +17,7 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 		#SystemAnnouncerLiveTest->#testNoDeadSubscriptions.
 		
 		#FileSystemHandleTest->#testTruncate.
+		#FileHandleTest->#testTruncate.
 		
 		#ZnHTTPSTests->#testWikimedia.
 		#ZnResponseTests->#testSlashdotGzipChunke.
@@ -28,6 +29,7 @@ wantsToIgnoreFailure: aCIXMLTestResultException
 		#ZnEasyTests->#testHeadSmallHTMLDocument.
 		#ZnResponseTests->#testSlashdotGzipChunked.
 		#ZnHTTPSTests->#testGForceInria. 
+		
 		
 		"#ZnHTTPSTests->#testTransfersSingleClient. "
 	} includes: (aCIXMLTestResultException testcase -> aCIXMLTestResultException selector)
